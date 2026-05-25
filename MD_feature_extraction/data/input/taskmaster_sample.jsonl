@@ -1,0 +1,500 @@
+{"dataset": "taskmaster3", "subset": "data_19", "source_id": "dlg-c98d2f8c-e83c-4277-bf1b-aec790d87ab1", "text": "I AM interested in seeing either No Time To Die OR Mulan."}
+{"dataset": "taskmaster2", "subset": "flights", "source_id": "dlg-5bfbd27d-40bf-4bc9-afe0-0f5e0b808591", "text": "I'd like help finding a flight to Boston."}
+{"dataset": "taskmaster3", "subset": "data_06", "source_id": "dlg-05bee277-f4d6-4a16-a309-f7e04df1a20d", "text": "I need to get tickets for a movie now."}
+{"dataset": "taskmaster1", "subset": "self_dialogs", "source_id": "dlg-e928729a-fbe1-4077-b73d-b7026d5d2bb4", "text": "Hey, Good morning."}
+{"dataset": "taskmaster3", "subset": "data_04", "source_id": "dlg-2b2113f3-c91d-4cf2-8652-aa6af241db26", "text": "I would like to buy tickets for the movie, \"Possession\" in Cedar Creek, North Carolina."}
+{"dataset": "taskmaster3", "subset": "data_19", "source_id": "dlg-78c13073-6fbd-457d-b5b6-443494d04ce2", "text": "I'm looking to book tickets to a movie tomorrow in Spring Hills."}
+{"dataset": "taskmaster1", "subset": "self_dialogs", "source_id": "dlg-12fcdd05-f77a-48ce-b001-497612a3d789", "text": "I want to place a coffee order for pickup at the Starbucks located on Avenue M."}
+{"dataset": "taskmaster2", "subset": "music", "source_id": "dlg-bfe2b2a4-216e-4e23-9f94-183bc0d972fb", "text": "Can you find me some new music to listen?"}
+{"dataset": "taskmaster1", "subset": "self_dialogs", "source_id": "dlg-f9f962df-392e-4cfd-a9c0-484eaffe69bf", "text": "Hi, I need to make an appointment for my mini-van."}
+{"dataset": "taskmaster1", "subset": "woz_dialogs", "source_id": "dlg-a17d2d62-f94d-4593-ab4f-9f3dc461569f", "text": "Hi, can I get an Uber tonight in Baltimore?"}
+{"dataset": "taskmaster3", "subset": "data_07", "source_id": "dlg-f4c73663-0221-4dc9-9d68-ba9c3cdf4546", "text": "I want to see a movie today please and need help."}
+{"dataset": "taskmaster3", "subset": "data_07", "source_id": "dlg-7737e0a3-a890-475f-bfb8-03206565b66c", "text": "Can you help me with booking a ticket."}
+{"dataset": "taskmaster3", "subset": "data_09", "source_id": "dlg-8640d14d-dcb5-43d0-948a-92656b9639e5", "text": "I wanna buy some tickets to see a movie."}
+{"dataset": "taskmaster3", "subset": "data_14", "source_id": "dlg-9b380639-9317-4419-9dcf-09f0ad076155", "text": "What are the top three movies playing in theaters right now?"}
+{"dataset": "taskmaster3", "subset": "data_17", "source_id": "dlg-e24995d7-72a4-471a-a356-ff76475ff258", "text": "i need to to the movies tonight"}
+{"dataset": "taskmaster3", "subset": "data_18", "source_id": "dlg-a1060a9d-4562-4244-a110-6c094c7caecc", "text": "Is 1917 out yet?"}
+{"dataset": "taskmaster3", "subset": "data_16", "source_id": "dlg-e9b46e50-69ac-46ce-a2f5-d503b613b1cb", "text": "I'd like to order some tickets for a movie at the AMC Mountain 16."}
+{"dataset": "taskmaster3", "subset": "data_03", "source_id": "dlg-7264d5ff-75a2-40d4-861b-20f18fea34b2", "text": "I need your help booking tickets to see Onward at a theater."}
+{"dataset": "taskmaster3", "subset": "data_05", "source_id": "dlg-ef0f645c-e23c-4006-a217-e028d0d613cf", "text": "Hi, can you help me get tickets for tonight at AMC Mountain 16?"}
+{"dataset": "taskmaster1", "subset": "self_dialogs", "source_id": "dlg-b3277094-950f-4569-a178-4e3b1397d589", "text": "Hi, can you give me a hand in making dinner reservations for tonight?"}
+{"dataset": "taskmaster3", "subset": "data_17", "source_id": "dlg-d95b9ba9-2829-46b1-95c2-0fc8a498d811", "text": "hello i would like tickets for movie theater."}
+{"dataset": "taskmaster1", "subset": "self_dialogs", "source_id": "dlg-c6f104b8-9f0b-4cb8-ae49-149c892bfcf7", "text": "Hey, can you call over to the auto shop?"}
+{"dataset": "taskmaster3", "subset": "data_03", "source_id": "dlg-1a2c0781-4306-4f1b-bf1d-7d96dea191ac", "text": "Hey, I need some movie tickets."}
+{"dataset": "taskmaster3", "subset": "data_18", "source_id": "dlg-1c29fb26-60c9-49a8-8b5f-6680f5313f41", "text": "I'd like to book some tickets to a movie please.\\r"}
+{"dataset": "taskmaster2", "subset": "food-ordering", "source_id": "dlg-5ee269f1-2638-4580-a608-c23c4e624b15", "text": "I would like to order some food."}
+{"dataset": "taskmaster1", "subset": "self_dialogs", "source_id": "dlg-bcf20efc-4c3a-4814-b486-8f5a5c5dad30", "text": "Hello, I'd like to order a pizza from Angelos"}
+{"dataset": "taskmaster3", "subset": "data_06", "source_id": "dlg-3ca9a1d3-0e0d-4a7a-b746-da4c98df2daa", "text": "Hi I have planned to go out for a movie tonight."}
+{"dataset": "taskmaster3", "subset": "data_19", "source_id": "dlg-9ea06b9a-d738-430e-9199-0f94d07bd9fc", "text": "I would like to get some tickets to go to the movies in Davis, Califoria."}
+{"dataset": "taskmaster3", "subset": "data_14", "source_id": "dlg-01e7f34d-f8f0-46b1-bde1-b4307406c3ed", "text": "Hello Can you help me puchasing a movie ticket, for tonight?"}
+{"dataset": "taskmaster3", "subset": "data_17", "source_id": "dlg-562dfa51-cc63-4b66-bfaa-c670a3da1b59", "text": "I'm looking for movies currently playing tonight."}
+{"dataset": "taskmaster3", "subset": "data_16", "source_id": "dlg-f9c73a6c-da14-437a-954e-104e55bb88f7", "text": "I am excited to see a movie tonight."}
+{"dataset": "taskmaster3", "subset": "data_02", "source_id": "dlg-8f02b32b-1504-4d9a-a941-efd4bbda1ea7", "text": "I like horror movies and definitely some dark comedies, I like to be afraid and I like funny movies."}
+{"dataset": "taskmaster3", "subset": "data_09", "source_id": "dlg-be03bb67-3b38-4d9b-8787-5b43c16d8c3f", "text": "Lorena wants to see a movie."}
+{"dataset": "taskmaster3", "subset": "data_11", "source_id": "dlg-132d6025-ae60-4044-8f58-3bba63bc813f", "text": "Yes I'd like to see some movie tonight at mountain 16 cinema"}
+{"dataset": "taskmaster3", "subset": "data_13", "source_id": "dlg-782b6c28-c309-40b3-990f-be39f9ec000a", "text": "I'd like to get some tickets for a movie tonight if you would , please."}
+{"dataset": "taskmaster3", "subset": "data_13", "source_id": "dlg-b2978e9e-f7db-4d7d-875d-a9ce4c0b4666", "text": "Hello, I'd like to purchase tickets for the movie Possession"}
+{"dataset": "taskmaster1", "subset": "self_dialogs", "source_id": "dlg-15ba76c5-e630-4445-845d-ddace60879d0", "text": "I need a Lyft at my location."}
+{"dataset": "taskmaster3", "subset": "data_05", "source_id": "dlg-a6c43d2b-007e-4ba3-ae13-6a5f27b34bf1", "text": "My family and I would like to see a movie tonight and need 4 tickets for something good."}
+{"dataset": "taskmaster3", "subset": "data_10", "source_id": "dlg-c017792c-e1f2-4de2-9ed5-3dfa7b63202a", "text": "I am hoping to purchase some movie tickets, please."}
+{"dataset": "taskmaster3", "subset": "data_02", "source_id": "dlg-6208454c-617a-4e66-9932-a7d62f7f2c2e", "text": "I Think I would to see a movie tonight but I am not sure what is playing."}
+{"dataset": "taskmaster1", "subset": "woz_dialogs", "source_id": "dlg-6d33f694-2fab-48bb-a5c6-86b90f4de647", "text": "Yo Yo, I got to get I got to get a car appointment from mechanic to see my car, yo."}
+{"dataset": "taskmaster1", "subset": "self_dialogs", "source_id": "dlg-5e77d89f-db78-47e9-a1be-6f7c1613a75b", "text": "Hilary, please order me a large pizza so that me and my \"boys\" (my subordinates) will have something to snack on while we stay late here tonight at the office and finish a remaining task."}
+{"dataset": "taskmaster3", "subset": "data_08", "source_id": "dlg-c53759f5-3771-4c87-aec2-27c30c12de73", "text": "I like to watch movies that make me feel excited!"}
+{"dataset": "taskmaster3", "subset": "data_07", "source_id": "dlg-074cd87d-b2ca-4e5b-8259-98d8add8c719", "text": "Hello, I need some help buying tickets tonight for the AMC Mountain 16"}
+{"dataset": "taskmaster1", "subset": "self_dialogs", "source_id": "dlg-213efbe4-1c5b-4d20-97ba-0798ba469135", "text": "Hi, I saw where you have a 2-topping pizza for 7.99."}
+{"dataset": "taskmaster2", "subset": "flights", "source_id": "dlg-ddc5234f-6f39-4a63-977d-8950b536c365", "text": "Hi, I'm looking to get a round trip flight from Sacramento to Seattle."}
+{"dataset": "taskmaster3", "subset": "data_10", "source_id": "dlg-4541361b-992a-4a85-b3eb-412b226aeac9", "text": "Any films playing in Spring Hills Kansas?"}
+{"dataset": "taskmaster2", "subset": "flights", "source_id": "dlg-dd691639-226c-4827-bd80-c35ca8c2ff46", "text": "Yeah, I need to book a round trip for flight from San Francisco to Houston."}
+{"dataset": "taskmaster3", "subset": "data_14", "source_id": "dlg-aac3d354-3540-4d24-84f6-b19fb16fa6d0", "text": "Hi, I 'd like to book a ticket for a movie."}
+{"dataset": "taskmaster3", "subset": "data_03", "source_id": "dlg-077bf46b-655a-4feb-b73a-1fd8ad5d37ef", "text": "Hi, I'm looking for some help with a few films that might be playing in Brooklyn, NY."}
+{"dataset": "taskmaster3", "subset": "data_04", "source_id": "dlg-46666832-9327-47ec-a33d-5c039d6345fe", "text": "You think you could recommend for me a good movie playing that audiences and critics are both happy about?"}
+{"dataset": "taskmaster3", "subset": "data_07", "source_id": "dlg-965f5b14-5081-44a8-ae45-e0ec713aa753", "text": "Hello, could you assist me in procuring some movie tickets?"}
+{"dataset": "taskmaster3", "subset": "data_17", "source_id": "dlg-61a62a99-fe86-48b4-947d-6ca1501df8d2", "text": "Hey, I would like to go to a movie tonight and was wonder if you could help me?"}
+{"dataset": "taskmaster1", "subset": "self_dialogs", "source_id": "dlg-77eac84f-13e7-4b2f-9231-23a3095b4bf1", "text": "Buy tickets for Fighting With My Family"}
+{"dataset": "taskmaster1", "subset": "self_dialogs", "source_id": "dlg-6b9a9ba6-52ec-40f5-98f1-36237f13463c", "text": "Hi, Jeff."}
+{"dataset": "taskmaster3", "subset": "data_00", "source_id": "dlg-79ee58c8-5e36-43c3-a3f3-1a84f27a9cb9", "text": "Hi Sir good morning!"}
+{"dataset": "taskmaster3", "subset": "data_06", "source_id": "dlg-e07981ab-4ddc-41f4-938c-48b40714f891", "text": "Hello to you, could I get some movie tickets?"}
+{"dataset": "taskmaster1", "subset": "self_dialogs", "source_id": "dlg-f34eb945-02a0-450a-b187-50f4955903f3", "text": "Hello, I need to make an auto appointment."}
+{"dataset": "taskmaster1", "subset": "self_dialogs", "source_id": "dlg-abae6a65-bd76-4418-ade4-f652edb74aee", "text": "Hey gail, check to see if you could order a ride with uber for me"}
+{"dataset": "taskmaster3", "subset": "data_18", "source_id": "dlg-4ffea0b9-ada7-4c67-a106-53f34514b0ec", "text": "Could you help me order some movie tickets for Thursday?"}
+{"dataset": "taskmaster3", "subset": "data_06", "source_id": "dlg-40d286bd-2e4a-4e51-9de5-f30ded4c9ace", "text": "I want to take the kids to see Sonic"}
+{"dataset": "taskmaster3", "subset": "data_07", "source_id": "dlg-10b95077-7166-4aba-8f99-54f347f745c2", "text": "Hello what movies are playing at 4:00 PM in Brooklyn ?"}
+{"dataset": "taskmaster2", "subset": "movies", "source_id": "dlg-a850347d-524c-45ec-bb63-62486f6918e8", "text": "Hi, I'm trying to find a movie to watch tomorrow night and I'm in Austin, Texas, near the University of Texas."}
+{"dataset": "taskmaster1", "subset": "self_dialogs", "source_id": "dlg-8fef2a0b-2503-4197-8d9c-77608c5630b0", "text": "Hi, I am calling to order a pizza from the House of Pizza."}
+{"dataset": "taskmaster1", "subset": "self_dialogs", "source_id": "dlg-bd0e7edf-8dae-4dff-8e6b-40dc9d39e496", "text": "Linda, I need to get my car looked at."}
+{"dataset": "taskmaster3", "subset": "data_01", "source_id": "dlg-b7c6b926-8cd5-4838-9d63-b202e8ebd5d9", "text": "Hi, I'd like to go to the movies tonight."}
+{"dataset": "taskmaster1", "subset": "woz_dialogs", "source_id": "dlg-6ff8f8c7-c215-46e8-9640-bd29c9f71be2", "text": "hello, how can i assist you today?"}
+{"dataset": "taskmaster2", "subset": "hotels", "source_id": "dlg-3a2c2101-efed-46a7-b6ea-ed760c71d217", "text": "I'd like to start a hotel search."}
+{"dataset": "taskmaster3", "subset": "data_08", "source_id": "dlg-f0e592ca-c16c-4986-b5b3-34ecdd02d758", "text": "I'd like to buy some tickets tonight at AMC Mountain 16."}
+{"dataset": "taskmaster3", "subset": "data_11", "source_id": "dlg-18de427b-d24f-4ff8-82fe-037b998b3db1", "text": "I am looking to go to a movie."}
+{"dataset": "taskmaster3", "subset": "data_16", "source_id": "dlg-6c88ce53-2aa5-4788-891d-9f72634b6af2", "text": "Hello, I would like to buy movie tickets for tonight at the AMC Mountain 16 theater"}
+{"dataset": "taskmaster3", "subset": "data_18", "source_id": "dlg-1965946a-25c5-4d6a-86e3-60568fbceec9", "text": "Hello I'd like to purchase some movie tickets for my family and I"}
+{"dataset": "taskmaster1", "subset": "self_dialogs", "source_id": "dlg-16fdea01-66d7-4642-9be4-eff5204ce65d", "text": "Hey Alex, I need to see the new movie Robin Hood."}
+{"dataset": "taskmaster3", "subset": "data_19", "source_id": "dlg-c54a2e3b-dba6-4cfe-abb0-96144c5b6e03", "text": "Hey I wanna see a film in Pittsburgh, PA."}
+{"dataset": "taskmaster2", "subset": "music", "source_id": "dlg-fbae636c-f198-402b-b507-f687628acb2d", "text": "Can you help me find some music?"}
+{"dataset": "taskmaster3", "subset": "data_18", "source_id": "dlg-ffc4df0c-f2e5-4642-870e-aca76bfc40ea", "text": "Is Joker a dark comedy?"}
+{"dataset": "taskmaster1", "subset": "self_dialogs", "source_id": "dlg-7c1eeb69-ee30-4920-aadb-1334e875cc23", "text": "show me itialian restuarants"}
+{"dataset": "taskmaster2", "subset": "restaurant-search", "source_id": "dlg-d63801d7-9205-4dfc-a651-5742c05b1a7b", "text": "I'd like some help finding a restaurant."}
+{"dataset": "taskmaster1", "subset": "self_dialogs", "source_id": "dlg-2397d361-35e6-46f6-b6c2-c0f8c185bd94", "text": "Hi, this is super short notice, but I need an appointment for my car today."}
+{"dataset": "taskmaster3", "subset": "data_15", "source_id": "dlg-51a4aa1a-59da-4d38-bb3c-e35f39a98ffe", "text": "Hi how you doing today."}
+{"dataset": "taskmaster3", "subset": "data_02", "source_id": "dlg-4a439d75-8e8b-48d0-8cd1-2d932357396d", "text": "I would like to book a movie ticket."}
+{"dataset": "taskmaster3", "subset": "data_17", "source_id": "dlg-fc779fc5-91bf-4e13-b258-c50fa5e63725", "text": "Some other people and I want to go to a movie tonight at AMC Mountain 16."}
+{"dataset": "taskmaster1", "subset": "self_dialogs", "source_id": "dlg-ed559141-7f97-4863-b806-fa2d04115ec3", "text": "I would like a reservation at Shoal Creek Tavern."}
+{"dataset": "taskmaster3", "subset": "data_08", "source_id": "dlg-b786576e-ddb1-4051-a264-8a16af95b9f0", "text": "I'm interested in buying some movie tickets for use in Davis, California."}
+{"dataset": "taskmaster3", "subset": "data_05", "source_id": "dlg-66248a0e-b2aa-4f0f-aacc-cf08d72e4dae", "text": "am so much interested in watching movie tonight"}
+{"dataset": "taskmaster3", "subset": "data_02", "source_id": "dlg-6bb047de-bf94-4eb4-afce-3954fb8f0a4c", "text": "Can you tell me some theaters around me?"}
+{"dataset": "taskmaster3", "subset": "data_06", "source_id": "dlg-b762d6d2-e146-43aa-8f72-7d4c1f692da4", "text": "Hi, I am looking for a movie to watch, can you help?"}
+{"dataset": "taskmaster2", "subset": "sports", "source_id": "dlg-eb65f279-33ba-492a-a909-283dd5e14607", "text": "Hello, what place is Manchester United in?"}
+{"dataset": "taskmaster2", "subset": "restaurant-search", "source_id": "dlg-7a6cd973-ce3e-49cc-9fb7-f5d38858842b", "text": "Hai, how can I help you?"}
+{"dataset": "taskmaster1", "subset": "self_dialogs", "source_id": "dlg-60ed8698-dc44-4eb9-aeb2-1466d82eed6e", "text": "hey i wanna buy movies for the favorite"}
+{"dataset": "taskmaster3", "subset": "data_17", "source_id": "dlg-d422bd0f-ed87-42d7-a857-15995464b7b7", "text": "Hi, I'm looking to see a movie in Baltimore, Maryland."}
+{"dataset": "taskmaster3", "subset": "data_09", "source_id": "dlg-7f257b48-6ad8-49b2-b125-ec0fe6fabfc4", "text": "Can you help me book tickets for a movie tonight?"}
+{"dataset": "taskmaster3", "subset": "data_08", "source_id": "dlg-58a7b555-f803-4ee6-861b-1ebf7161440e", "text": "Hello, is this the regal theater in Germantown, MD."}
+{"dataset": "taskmaster3", "subset": "data_11", "source_id": "dlg-bd37de7c-7def-4511-bb05-9cbfa0b4a1b1", "text": "Hi, I am interested in finding movie tickets for a movie available tonight at the \"AMC Mountain 16\" theater."}
+{"dataset": "taskmaster3", "subset": "data_17", "source_id": "dlg-9cafd158-7f58-4fbd-bacf-0886014a40bf", "text": "hey there I am looking for a movie to see"}
+{"dataset": "taskmaster3", "subset": "data_10", "source_id": "dlg-b3f57a2a-d0c2-45f0-9e01-f347ddeec6c9", "text": "Hello, Im looking to watch a based on a true story movie"}
+{"dataset": "taskmaster3", "subset": "data_12", "source_id": "dlg-29bed355-737f-4e61-a51b-d59854353596", "text": "Iam looking for details about he invisible man can u help me with that?"}
+{"dataset": "taskmaster2", "subset": "sports", "source_id": "dlg-a7a88291-a034-4809-bb24-e77cd2b235ad", "text": "Can you list the name of the players who are playing against Golden State Warriors team?"}
+{"dataset": "taskmaster1", "subset": "self_dialogs", "source_id": "dlg-a19a170a-aab1-4538-a0f8-f3896cd43053", "text": "Hey assistant, I need to place an order from Starbucks."}
+{"dataset": "taskmaster3", "subset": "data_15", "source_id": "dlg-cba5ccc9-9b94-4092-9fec-66dbab6761c8", "text": "hey there, i wanna see a movie"}
+{"dataset": "taskmaster3", "subset": "data_07", "source_id": "dlg-845c3db0-393b-4b1d-968d-5bf31d609f18", "text": "Which movie theater closest to me is playing the \"Harley Quinn: Birds of Prey\" movie tonight?"}
+{"dataset": "taskmaster1", "subset": "self_dialogs", "source_id": "dlg-37d91494-78d3-428a-abb8-c4ced839c018", "text": "Hi, I want to order a pizza from Pizzeria Classico"}
+{"dataset": "taskmaster2", "subset": "restaurant-search", "source_id": "dlg-3efaa15f-898b-4175-9b82-49fcc2b7f44c", "text": "Can you tell me when the Gravenstein Grill in Sebastopol, California is going to be open on Sunday evening?"}
+{"dataset": "taskmaster3", "subset": "data_09", "source_id": "dlg-4b1b2bf7-0225-476b-95f7-dc0071c23ac9", "text": "Top movies Los Angeles California"}
+{"dataset": "taskmaster3", "subset": "data_10", "source_id": "dlg-336dd9ba-2201-4c05-b9b6-cfa13dcf2530", "text": "I want to go to the movie theater today."}
+{"dataset": "taskmaster3", "subset": "data_14", "source_id": "dlg-1ccef4a2-89b6-4a8f-a939-716b003571b5", "text": "What movie should I go to see tonight?"}
+{"dataset": "taskmaster3", "subset": "data_05", "source_id": "dlg-7ab73688-e6db-40b2-9e27-f1b2b66a8aaa", "text": "Want to purchase tickets for a movie"}
+{"dataset": "taskmaster3", "subset": "data_02", "source_id": "dlg-885e4973-38bb-4d91-a9a2-0eef7a24f3ec", "text": "Hi, we're in the mood for a movie tonight."}
+{"dataset": "taskmaster3", "subset": "data_13", "source_id": "dlg-cd77947f-5875-4e53-990c-919494795358", "text": "I want 2 tickets to see Frozen 2."}
+{"dataset": "taskmaster3", "subset": "data_00", "source_id": "dlg-d85874ba-5d64-45d3-9a28-25d7c59aae24", "text": "Hi, I'd like to see if there is a movie playing at a theater in my area."}
+{"dataset": "taskmaster2", "subset": "sports", "source_id": "dlg-cc62a989-7418-475d-ad52-aa88842a7014", "text": "Hey, what happened at the last Cubs game?"}
+{"dataset": "taskmaster3", "subset": "data_13", "source_id": "dlg-cea82257-ebc6-4320-a85e-74ded35d7192", "text": "Hey Jamie, have you checked out any good movies recently?"}
+{"dataset": "taskmaster3", "subset": "data_13", "source_id": "dlg-be605141-ed5f-4807-b4e8-4c960ec0a145", "text": "Hi I would like to buy 3 tickets for tonight to AMC Mountain 16"}
+{"dataset": "taskmaster3", "subset": "data_19", "source_id": "dlg-14a5a460-d037-4edf-83fb-e8c26e219eb2", "text": "Hi, I want to go to the movies tonight and need help booking the tickets."}
+{"dataset": "taskmaster3", "subset": "data_12", "source_id": "dlg-671d4ae6-965a-4fec-bc66-cc4fbca96861", "text": "Hey, I'm thinking about seeing a movie with friends."}
+{"dataset": "taskmaster3", "subset": "data_03", "source_id": "dlg-cf1f50a3-efa6-46c0-98b6-61ba1d36e962", "text": "I’m bored and would like to watch a movie tonight."}
+{"dataset": "taskmaster3", "subset": "data_02", "source_id": "dlg-d8964a26-712c-4c9c-9fc9-c57527f038e4", "text": "Hello, I'm looking to buy tickets to see a movie currently in theaters."}
+{"dataset": "taskmaster3", "subset": "data_18", "source_id": "dlg-5c966c13-e847-4cca-9a87-c49021d0960e", "text": "would like to see movie today"}
+{"dataset": "taskmaster3", "subset": "data_00", "source_id": "dlg-6e4d8ae2-7956-49a0-b123-a27c375c983e", "text": "Hi, I am looking to see about going to the movies tonight."}
+{"dataset": "taskmaster3", "subset": "data_07", "source_id": "dlg-145bc391-5167-4544-80c1-711a8950c6a1", "text": "Hi I need help picking a movie for a date I have today."}
+{"dataset": "taskmaster1", "subset": "self_dialogs", "source_id": "dlg-799105b5-d5c9-4f01-96d5-04603d8ef9ac", "text": "Hey, can you place an order at Starbucks for me?"}
+{"dataset": "taskmaster3", "subset": "data_15", "source_id": "dlg-09b0d1ea-1616-4b39-9585-9f21b702e047", "text": "Can you tell me if Bad Boys For Life is playing at the nearby theater?"}
+{"dataset": "taskmaster3", "subset": "data_05", "source_id": "dlg-157a1378-b95f-4da0-bfa5-bd47aad18bcf", "text": "Hi, I'm looking for a good movie?"}
+{"dataset": "taskmaster2", "subset": "restaurant-search", "source_id": "dlg-8df7d4da-31c5-42be-a6b4-dad6e763539f", "text": "Hi, can you help me find a restaurant in Rochester, New York?"}
+{"dataset": "taskmaster3", "subset": "data_05", "source_id": "dlg-2297512e-c369-4acf-8705-a79b54f47c94", "text": "What's there to do in Hillview, Oregon?"}
+{"dataset": "taskmaster3", "subset": "data_02", "source_id": "dlg-eb9d05f2-fb7e-476f-8171-68651e8ddaf0", "text": "Hi, I'm thinking about seeing a movie today."}
+{"dataset": "taskmaster3", "subset": "data_08", "source_id": "dlg-30b2bc6f-6b58-469a-b03e-cd6247694459", "text": "can you order some movie tickets for tonight for me"}
+{"dataset": "taskmaster3", "subset": "data_14", "source_id": "dlg-f09bac65-495d-4819-886c-9df55acf97a3", "text": "I'm looking to watch a movie tonight."}
+{"dataset": "taskmaster3", "subset": "data_04", "source_id": "dlg-abe7b103-1d97-4fc0-9887-ce623d8095b6", "text": "What is the average Google User review of the movie Shaun of the Dead?"}
+{"dataset": "taskmaster2", "subset": "sports", "source_id": "dlg-49af4b37-e921-47cf-b2da-5c2988eac1b6", "text": "What place are the Philadelphia 76ers in?"}
+{"dataset": "taskmaster2", "subset": "movies", "source_id": "dlg-b2f4914b-8db9-471e-8ef6-5b66e7cfeac9", "text": "Hi Assistant, I want you to find a movie that is a general?"}
+{"dataset": "taskmaster1", "subset": "self_dialogs", "source_id": "dlg-38a0df79-f6cb-47f0-b370-07a3bd45d3f5", "text": "i want some coffe."}
+{"dataset": "taskmaster3", "subset": "data_02", "source_id": "dlg-63011622-6657-48cc-bf9d-3bc3c4c77edd", "text": "Hey, I need some information on movie tickets."}
+{"dataset": "taskmaster1", "subset": "self_dialogs", "source_id": "dlg-3455cefa-5790-4a55-97ef-29dae381f3ca", "text": "Hello, I would like to order a pizza."}
+{"dataset": "taskmaster1", "subset": "self_dialogs", "source_id": "dlg-5ca520e5-f6d0-4cd1-8b98-31009281c5e0", "text": "Hello, I am tired!"}
+{"dataset": "taskmaster3", "subset": "data_17", "source_id": "dlg-35016365-0b21-4e22-a235-321201d53224", "text": "I would like to buy movie tickets for a theater in Davis."}
+{"dataset": "taskmaster1", "subset": "self_dialogs", "source_id": "dlg-a1b1d65a-d0cc-4137-84a6-68bbc91345db", "text": "Hi, I need a car right away."}
+{"dataset": "taskmaster3", "subset": "data_09", "source_id": "dlg-b23288a5-faff-4362-8560-8675f1378df4", "text": "We need some movie tickets tonight my friend!"}
+{"dataset": "taskmaster3", "subset": "data_12", "source_id": "dlg-540fb5dd-dd66-4bc4-ac9e-b11ec06867d8", "text": "parasite or pain and glory?"}
+{"dataset": "taskmaster3", "subset": "data_10", "source_id": "dlg-49f43e29-d6b3-4bb5-9b6a-60a32a792d1d", "text": "Hi, I'd like to reserve some movie tickets."}
+{"dataset": "taskmaster3", "subset": "data_03", "source_id": "dlg-1c7a7f8d-5ffd-40e8-8b61-eb7f2207ce5d", "text": "Hi, I would like to purchase tickets to see No Time to Die for tonight"}
+{"dataset": "taskmaster1", "subset": "self_dialogs", "source_id": "dlg-003677eb-20f8-4b1e-a396-c0f95a786543", "text": "Hey, I'm driving and need you to set up an appointment for me at Intelligent Auto Solutions"}
+{"dataset": "taskmaster3", "subset": "data_15", "source_id": "dlg-a24923ea-fabb-4f80-b820-0d8d3f50de56", "text": "Hello again, once again I am looking for a movie to watch."}
+{"dataset": "taskmaster1", "subset": "self_dialogs", "source_id": "dlg-fec39c0e-7352-45fb-9c82-36714d1dba7c", "text": "Hello, I am looking for a good pizza place to eat at tonight."}
+{"dataset": "taskmaster1", "subset": "self_dialogs", "source_id": "dlg-083e1dc3-bb5a-48bb-9d11-284f3d1c0818", "text": "Hey there I wanna skinny Moks from Starbucks"}
+{"dataset": "taskmaster3", "subset": "data_02", "source_id": "dlg-64de228a-2da4-40c9-8936-083329021306", "text": "Hi, I'd like to purchase a movie ticket for 1917."}
+{"dataset": "taskmaster3", "subset": "data_08", "source_id": "dlg-6d28201c-05f9-466f-ab3a-bb553be4d96b", "text": "I need to buy movie tickets for today please."}
+{"dataset": "taskmaster3", "subset": "data_02", "source_id": "dlg-2fc5c841-43b7-4270-923e-f89dba0716f4", "text": "What is the closet theater near me?"}
+{"dataset": "taskmaster3", "subset": "data_16", "source_id": "dlg-57136ed2-ff84-403a-9ae5-dcc8d106269c", "text": "Hey, I'm looking to see a movie in Spring Hill, Kansas"}
+{"dataset": "taskmaster3", "subset": "data_06", "source_id": "dlg-6b4913fe-35ef-4a07-8ff7-8b979ec9e24c", "text": "Can you order me some movie tickets?"}
+{"dataset": "taskmaster3", "subset": "data_19", "source_id": "dlg-11b84187-3108-4631-807b-e207c04a5e6c", "text": "Hello I would like to see a movie, can you help me order tickets?"}
+{"dataset": "taskmaster3", "subset": "data_06", "source_id": "dlg-82c80f42-6c57-4d19-bbf1-ae409557a767", "text": "Can you help me reserve a ticket to see a movie tomorrow?"}
+{"dataset": "taskmaster3", "subset": "data_12", "source_id": "dlg-3dc71fe3-8e4a-4754-92ed-161743f5173c", "text": "Hey, I want to get movie tickets, please."}
+{"dataset": "taskmaster1", "subset": "self_dialogs", "source_id": "dlg-b9e3b935-9454-4b11-9eae-d79719fd06ec", "text": "hey jaime, can you order me a coffee from starbucks?"}
+{"dataset": "taskmaster3", "subset": "data_02", "source_id": "dlg-b5414aaa-f403-4706-8abc-988c116a2813", "text": "Hi I am interest in seeing a movie but I need some help deciding"}
+{"dataset": "taskmaster1", "subset": "self_dialogs", "source_id": "dlg-f2938176-61eb-42ab-b31c-026d96a97d9f", "text": "Hey Donna"}
+{"dataset": "taskmaster3", "subset": "data_11", "source_id": "dlg-10886c26-5b1a-4b25-9661-54f779c6eb90", "text": "Hi, I would like to purchase a ticket for tonight"}
+{"dataset": "taskmaster1", "subset": "woz_dialogs", "source_id": "dlg-e5ef4329-78c3-4a20-ab28-0b6a5e5322de", "text": "Hi, I'm at the Orlando International Airport."}
+{"dataset": "taskmaster1", "subset": "self_dialogs", "source_id": "dlg-1feae5f7-48d1-40fb-a98e-678a3828f874", "text": "Hey, can I get a pizza from Jessepi Peperoni's pie emporium?"}
+{"dataset": "taskmaster3", "subset": "data_07", "source_id": "dlg-cca32dda-eb63-4bda-8097-3169698e52e4", "text": "Hey, I'd like to see that new Disney movie."}
+{"dataset": "taskmaster1", "subset": "self_dialogs", "source_id": "dlg-26582b4d-068e-428c-9ecf-87fa7d537d15", "text": "My friend and I really want to see the movie Glass tonight."}
+{"dataset": "taskmaster3", "subset": "data_01", "source_id": "dlg-de0f772c-28ad-4f84-bc7e-cf49114582bf", "text": "i have go out ant watch movie tonight"}
+{"dataset": "taskmaster1", "subset": "self_dialogs", "source_id": "dlg-00cdb44e-6fa2-4e7c-a7db-510051c7adac", "text": "Hello, I need you to order me a car through Lyft"}
+{"dataset": "taskmaster3", "subset": "data_19", "source_id": "dlg-a6172d21-8da0-40f5-b216-fcfd582a1e51", "text": "I want to watch some movies in Bend OR, check on The Elderly Watcher for me."}
+{"dataset": "taskmaster3", "subset": "data_01", "source_id": "dlg-6bbf2fdd-3a09-4cf0-9d88-d49d941a6ccd", "text": "I'm taking my brother to the movies for his birthday, and I need to pick one of the movies he mentioned wanting to see."}
+{"dataset": "taskmaster2", "subset": "music", "source_id": "dlg-b5b1871c-330e-4822-83fa-101b6b088c1b", "text": "Hi assistant, could you play me some music."}
+{"dataset": "taskmaster2", "subset": "flights", "source_id": "dlg-c3b623d7-04ee-4067-b084-eaf18fe4efa5", "text": "I am looking to book a multi-city flight."}
+{"dataset": "taskmaster1", "subset": "woz_dialogs", "source_id": "dlg-d041cc5a-84d2-4d10-b1c5-d7cd9dd3e0e6", "text": "How can I be of service?"}
+{"dataset": "taskmaster1", "subset": "self_dialogs", "source_id": "dlg-260dbab2-15fa-4d55-988b-79830904bd3f", "text": "Hey, can you order me a latte for Starbucks?"}
+{"dataset": "taskmaster2", "subset": "movies", "source_id": "dlg-8c39dd91-550a-40f0-9933-76824cb6e719", "text": "Hi Assistant, I'm looking to go see a movie tonight."}
+{"dataset": "taskmaster1", "subset": "self_dialogs", "source_id": "dlg-e4c11407-269f-4d2e-bde0-b90fbd302d45", "text": "I need to book a couple of tickets for spider-man: into the spider-verse"}
+{"dataset": "taskmaster3", "subset": "data_01", "source_id": "dlg-c3712ff6-b853-4c57-9fa2-8bee0433db1c", "text": "I'd like to find out where a few movies are playing here in New Orleans."}
+{"dataset": "taskmaster1", "subset": "self_dialogs", "source_id": "dlg-7cd80407-3955-4444-83d0-b19b1cbda6fb", "text": "Hey, can you set up an appointment for me to have my car looked at this week?"}
+{"dataset": "taskmaster2", "subset": "movies", "source_id": "dlg-62bfea99-0460-49d1-b162-d3e39174789e", "text": "I would like help finding a movie to go see in theater."}
+{"dataset": "taskmaster3", "subset": "data_12", "source_id": "dlg-a1cdec91-8abb-46e9-8ab6-d9a1c046a549", "text": "Hi, I want to get some movie tickets at the AMC Mountain 16 for tonight."}
+{"dataset": "taskmaster2", "subset": "sports", "source_id": "dlg-d26b3a1d-a793-4ec6-8ff6-a7ab3b16ae0d", "text": "Hello, I'm a fan of Boston RedSox."}
+{"dataset": "taskmaster3", "subset": "data_01", "source_id": "dlg-e1a104cc-78e4-4c7a-bc9e-4630ebaadaef", "text": "Hi there.\\r"}
+{"dataset": "taskmaster3", "subset": "data_04", "source_id": "dlg-4a439e6b-84d9-4d0e-8263-8adb19a65b57", "text": "I need a well deserved break so I am going to see a movie tonight"}
+{"dataset": "taskmaster3", "subset": "data_16", "source_id": "dlg-d9038eee-b202-4179-a41d-556e4876618e", "text": "I want to purchase movie theater tickets for a movie in Davis, California."}
+{"dataset": "taskmaster3", "subset": "data_14", "source_id": "dlg-709789c5-7cdd-4ecb-a73a-895a05b060f9", "text": "I would like to purchase tickets please."}
+{"dataset": "taskmaster3", "subset": "data_07", "source_id": "dlg-983c55bc-ba5c-43dc-96d1-0b3f1743a4e3", "text": "Home is boring me today."}
+{"dataset": "taskmaster3", "subset": "data_06", "source_id": "dlg-bdcbcbca-50e2-4c3f-a142-b9e619637eec", "text": "My wife and I would like to go to a movie tonight, can you help?"}
+{"dataset": "taskmaster3", "subset": "data_11", "source_id": "dlg-b276a4c8-ed7d-473e-9f64-59a636dd979f", "text": "I need you to help me"}
+{"dataset": "taskmaster1", "subset": "self_dialogs", "source_id": "dlg-daf3ea4b-995b-4cd5-beea-f15716248759", "text": "Id like to get tickets for Lego Movie: The Second Part"}
+{"dataset": "taskmaster3", "subset": "data_09", "source_id": "dlg-083fa346-932f-406f-a91c-806682fe8b5d", "text": "Hi, I would like to purchase tickets for a movie currently showing."}
+{"dataset": "taskmaster3", "subset": "data_05", "source_id": "dlg-b942a021-d66f-43a6-b4e0-2fed17fc68d5", "text": "iam like to buy movie tickets tonight"}
+{"dataset": "taskmaster1", "subset": "self_dialogs", "source_id": "dlg-d29b7f76-de3e-4e77-95e9-182984cc9f98", "text": "Hey John can you pick up a coffee for me at Starbucks"}
+{"dataset": "taskmaster2", "subset": "hotels", "source_id": "dlg-b6b36f10-58ba-465c-abcf-a638e168becb", "text": "I'd like help finding hotel in New Orleans."}
+{"dataset": "taskmaster3", "subset": "data_11", "source_id": "dlg-144cdda3-bc2e-46e3-9277-635f65e87f79", "text": "Hey, I'm still in Vegas and I'd like to see a movie tomorrow."}
+{"dataset": "taskmaster3", "subset": "data_03", "source_id": "dlg-af38a247-0fbf-4d4c-9037-6eba6cf23c1d", "text": "Hey, I am seeing some good movies showing at the cinemas recently"}
+{"dataset": "taskmaster1", "subset": "woz_dialogs", "source_id": "dlg-e96e33ab-f3d9-43d7-a247-8b6de93dcf8e", "text": "Hi, i'd like to talk about your restaurant preferences, is that ok?"}
+{"dataset": "taskmaster3", "subset": "data_10", "source_id": "dlg-e9e8bca1-151c-44fc-8364-e0983e78de5b", "text": "Hi, I need movie tickets from theaters in Davis, California."}
+{"dataset": "taskmaster1", "subset": "self_dialogs", "source_id": "dlg-1e1f6e1b-59ea-4791-b548-6b560b56d43f", "text": "Hello Justin"}
+{"dataset": "taskmaster3", "subset": "data_07", "source_id": "dlg-70e3709b-a7aa-4b35-ba4a-aceae2b347cb", "text": "I kinda want to see Dolittle tonight."}
+{"dataset": "taskmaster3", "subset": "data_17", "source_id": "dlg-7e901c4e-2edb-4bb7-9c23-dfb354933f49", "text": "Hi, my mom and I want to go to the movies this weekend."}
+{"dataset": "taskmaster1", "subset": "self_dialogs", "source_id": "dlg-27bd0c60-ba4f-46d6-8d4c-304ee38eb996", "text": "I need a car repair appointment made."}
+{"dataset": "taskmaster3", "subset": "data_06", "source_id": "dlg-cbe697ba-1025-4f8c-825f-ce2ea11df4f2", "text": "Hi I'd like to see a film in Seattle, WA tonight maybe the one film with the super hero team"}
+{"dataset": "taskmaster3", "subset": "data_10", "source_id": "dlg-2ee94f43-7303-4ceb-a2a1-8490b72252e1", "text": "Have you seen the new Rambo?"}
+{"dataset": "taskmaster3", "subset": "data_11", "source_id": "dlg-4e2ef63d-c3bf-4898-b70e-2e6c9ce9a46d", "text": "Hi, I'd like to buy a ticket today"}
+{"dataset": "taskmaster2", "subset": "movies", "source_id": "dlg-fc124730-bbfe-4fe4-9f54-e3dbc8f0878b", "text": "Hello, I need help in finding a movie to watch at home."}
+{"dataset": "taskmaster2", "subset": "movies", "source_id": "dlg-4e63da97-2a2c-4b7e-be6a-56bedf89051a", "text": "What movie would you like to see?"}
+{"dataset": "taskmaster3", "subset": "data_00", "source_id": "dlg-f977ce6d-9c68-4723-832f-3edebc092951", "text": "Hi, I am looking for help purchasing movie tickets."}
+{"dataset": "taskmaster2", "subset": "music", "source_id": "dlg-f32ee2e1-f52c-4a76-91e7-494e866a2fe8", "text": "Yeah, I'd like to listen to some coffee house music."}
+{"dataset": "taskmaster3", "subset": "data_09", "source_id": "dlg-b05ec6c7-8fdf-4ff6-9ae4-068c589c80eb", "text": "I'm looking for a good funny movie"}
+{"dataset": "taskmaster1", "subset": "self_dialogs", "source_id": "dlg-5504e85c-c3da-42ec-8eef-ff88f016487c", "text": "How late is Papa Johns open for carry-out?"}
+{"dataset": "taskmaster1", "subset": "self_dialogs", "source_id": "dlg-cb365cb0-98da-47d9-b270-5824b1858ab7", "text": "Show me showtimes for Spider-Man: Into the Spider-verse"}
+{"dataset": "taskmaster3", "subset": "data_07", "source_id": "dlg-74875d75-3138-49a7-beee-1d14be5d1182", "text": "I would like one ticket."}
+{"dataset": "taskmaster3", "subset": "data_17", "source_id": "dlg-4c5ad82f-aa50-4152-b46e-4a8f5e027d14", "text": "I'd like to see a movie tonight near Shelby Township"}
+{"dataset": "taskmaster3", "subset": "data_17", "source_id": "dlg-285ef3c4-7dcd-44af-8810-5856d929b5f6", "text": "I've decided on the movie Dolittle to go see tomorrow."}
+{"dataset": "taskmaster2", "subset": "hotels", "source_id": "dlg-9cb92449-a39a-4c1c-9f2c-a0fa299e5253", "text": "I would like to find a hotel in Laguna Beach, California."}
+{"dataset": "taskmaster3", "subset": "data_05", "source_id": "dlg-3ae78140-0b2d-40b8-99de-6ac2af5356e9", "text": "I'd like to book a movie at the cinema tonight?"}
+{"dataset": "taskmaster3", "subset": "data_04", "source_id": "dlg-ad8c92a1-67db-4c9c-8a07-1b38e7a13688", "text": "hi im looking to buy movie tickets to either shuttered or backcountry"}
+{"dataset": "taskmaster3", "subset": "data_07", "source_id": "dlg-9c864675-432a-447e-aae3-81d4fa3a7c13", "text": "Hai today night i am planning to going out in movie in Davis ,california please arranged movie tickets for theaters."}
+{"dataset": "taskmaster3", "subset": "data_10", "source_id": "dlg-19897843-5e54-4f54-8023-8d85c592fb3a", "text": "Hey, I'm trying to book a movie for my wife and I."}
+{"dataset": "taskmaster3", "subset": "data_17", "source_id": "dlg-4f303c4b-4fff-4b27-991e-1a165848d188", "text": "I m interested in seeing either No Time To Die OR Mulan would just please book 2 tickets for me at Mountain AMC 16?"}
+{"dataset": "taskmaster1", "subset": "woz_dialogs", "source_id": "dlg-005f579e-b0a0-4a72-bde1-8ac3fd035ef2", "text": "Hello, how can i help you?"}
+{"dataset": "taskmaster2", "subset": "flights", "source_id": "dlg-7d025a03-52cf-4309-9584-90fe318c3021", "text": "I would like help getting a flight to Paris."}
+{"dataset": "taskmaster2", "subset": "flights", "source_id": "dlg-4175ff27-ef9c-442b-9599-25c014cb3750", "text": "I'm trying to book a round trip flight from San Francisco to Berlin, leaving today coming back in 4 days."}
+{"dataset": "taskmaster1", "subset": "self_dialogs", "source_id": "dlg-dc39d34e-821a-4bbd-9a34-e1acd5539a32", "text": "Whats your best selling coffee here at Starbucks?"}
+{"dataset": "taskmaster3", "subset": "data_15", "source_id": "dlg-af8ef116-18f0-44dd-8915-dc1f48b4fafe", "text": "Hi, I would like to buy some AMC Mountain 16 movie tickets for tonight."}
+{"dataset": "taskmaster3", "subset": "data_17", "source_id": "dlg-e8efde06-89aa-4e7e-8388-420f769faba8", "text": "I'm interested in seeing a movie in Needles California.\\r \\r"}
+{"dataset": "taskmaster3", "subset": "data_19", "source_id": "dlg-19fcfdc9-e6c3-45ab-a4cc-89216319d578", "text": "I am looking for showings of the new spy movie in a theater near Corydon, IN."}
+{"dataset": "taskmaster1", "subset": "self_dialogs", "source_id": "dlg-ab2ef44c-4f7f-4524-ac94-140b0ef1c041", "text": "Hi , Pizza Chapel ?"}
+{"dataset": "taskmaster3", "subset": "data_19", "source_id": "dlg-5ff36158-23d9-4969-92ea-bf41db6ecf46", "text": "Hello, I wanted to inquire about the show timings for tonight for the movie Shuttered?"}
+{"dataset": "taskmaster3", "subset": "data_12", "source_id": "dlg-1d45e7f3-ce53-477a-a3fa-6ef63de5bdce", "text": "Hi, I'd like to buy some tickets tonight at AMC Mountain 16 please?"}
+{"dataset": "taskmaster3", "subset": "data_11", "source_id": "dlg-72f6a042-c5f3-4ccf-8015-f674bcc51a35", "text": "Can you look up movie tickets for tonight?"}
+{"dataset": "taskmaster1", "subset": "self_dialogs", "source_id": "dlg-ff143b87-2a1f-4dea-ba5c-9ac2719a00a2", "text": "Chandler, I need for you to order a pizza from Little Ceasar's for me"}
+{"dataset": "taskmaster3", "subset": "data_03", "source_id": "dlg-0e6c5e4c-4fe7-445e-9163-643b5e5c2be6", "text": "I need help finding show times for a movie in my area."}
+{"dataset": "taskmaster1", "subset": "self_dialogs", "source_id": "dlg-5fcda5d5-83de-4d04-9bb7-b277dcabcbb3", "text": "My car is squealing when I come to stop at a stoplight."}
+{"dataset": "taskmaster3", "subset": "data_19", "source_id": "dlg-88094ec1-e4bf-4b96-b94b-ec735eca374f", "text": "I'm trying to decide whether to go to the movies tonight."}
+{"dataset": "taskmaster3", "subset": "data_11", "source_id": "dlg-659369de-083a-45d0-8634-f59ae5d0f3d2", "text": "I am interested in an old movie that is highly rated by Roger Ebert, my favorite reviewer."}
+{"dataset": "taskmaster2", "subset": "movies", "source_id": "dlg-67c83f6f-30c3-45b2-a3ed-7dcd333909b7", "text": "I want to see a action movies starring Matt Damon."}
+{"dataset": "taskmaster2", "subset": "restaurant-search", "source_id": "dlg-b5fba9fb-308e-49d5-ac00-f9ab9fe1a3c8", "text": "Hi Assistant, I'm looking for a place to have dinner tonight."}
+{"dataset": "taskmaster3", "subset": "data_04", "source_id": "dlg-58ffa9f9-60a6-4780-9aae-8ec54281f3ef", "text": "I'd like to get some information on a few movies."}
+{"dataset": "taskmaster3", "subset": "data_15", "source_id": "dlg-d2a401ab-426c-440d-966f-0e3d8659332b", "text": "I'm looking for an action movie to watch in theaters."}
+{"dataset": "taskmaster3", "subset": "data_05", "source_id": "dlg-d6a1f1ba-57ba-42a0-af6e-ab20b73de127", "text": "Is Fantasy Island currently showing at The Roxy?"}
+{"dataset": "taskmaster1", "subset": "self_dialogs", "source_id": "dlg-5031cef2-cb27-4cc4-bc3a-8c093b974cc4", "text": "I want to get some tickets to see the movie Glass."}
+{"dataset": "taskmaster3", "subset": "data_00", "source_id": "dlg-3a2381a4-74a2-4e00-a3ef-0fb6f72c056d", "text": "I really like movies that make me feel good when I leave, like an action movie or MCU where there heroes win."}
+{"dataset": "taskmaster3", "subset": "data_04", "source_id": "dlg-091cc664-446a-40b7-81b5-d2d9573dff4f", "text": "hi sir, i need a movie ticket"}
+{"dataset": "taskmaster3", "subset": "data_15", "source_id": "dlg-5484d05e-5986-43cb-92ab-ee562b4f0432", "text": "Can you help me book movie tickets for tonight?"}
+{"dataset": "taskmaster3", "subset": "data_05", "source_id": "dlg-86621f6a-0888-470e-bb3a-0aafe84881a3", "text": "I would like to go to a movie today."}
+{"dataset": "taskmaster3", "subset": "data_10", "source_id": "dlg-cc65956c-6366-40fc-98e2-1f4aa30c3b9c", "text": "My friend Sara is visiting me today, so I want to do something fun for her."}
+{"dataset": "taskmaster1", "subset": "self_dialogs", "source_id": "dlg-14ad06d3-e090-44da-940c-fb263cb64e34", "text": "Hi, can you please schedule an appointment for me to bring my car into intelligent auto solutions?"}
+{"dataset": "taskmaster3", "subset": "data_19", "source_id": "dlg-cd4fa4b5-5a22-47c3-835a-247e0125731b", "text": "What are the current ratings for Star Wars at the moment?"}
+{"dataset": "taskmaster1", "subset": "self_dialogs", "source_id": "dlg-a9a0209a-2a5c-4a28-9c0f-44f77e4c2993", "text": "Hi Courtney, I need your help making a dinner reservation."}
+{"dataset": "taskmaster1", "subset": "self_dialogs", "source_id": "dlg-0ca076ec-8be6-4bc3-9ba0-64a3f9016e40", "text": "Could you call and place an order for two large pizzas for me and the girlfriend tonight?"}
+{"dataset": "taskmaster2", "subset": "music", "source_id": "dlg-f220c59f-80fb-42b0-b66f-8283c47c5058", "text": "Hey, can you play something by George Benson?"}
+{"dataset": "taskmaster1", "subset": "self_dialogs", "source_id": "dlg-197fb4ca-fc2b-4522-9d15-2c619324c228", "text": "I'm looking to eat some pizza out at place?"}
+{"dataset": "taskmaster3", "subset": "data_13", "source_id": "dlg-ad771818-daee-4645-b7c2-3bf24c3e2270", "text": "I'm looking for a movie to see with some friends, can you help?"}
+{"dataset": "taskmaster3", "subset": "data_15", "source_id": "dlg-92e60479-2679-4e52-92e5-293634a289c5", "text": "I want to order movie tickets for tonight."}
+{"dataset": "taskmaster3", "subset": "data_10", "source_id": "dlg-dc723962-40b9-4a7e-bbe7-2b6f2ca055c0", "text": "I need tickets to \"Paradise Drive\", is it playing at the AMC in town?"}
+{"dataset": "taskmaster1", "subset": "self_dialogs", "source_id": "dlg-e28d28d6-3e1b-4e9e-986b-afa4d5fb4539", "text": "Hi I wanna order a large pizza"}
+{"dataset": "taskmaster3", "subset": "data_02", "source_id": "dlg-e9e58696-fd90-4545-9e9c-38dcdbf614f0", "text": "Hi, my friends and I are looking to see a movie later, can you help us out?"}
+{"dataset": "taskmaster2", "subset": "hotels", "source_id": "dlg-9faa9380-4047-4ece-9366-93df0dab359c", "text": "Hi, could I book a hotel, please?"}
+{"dataset": "taskmaster2", "subset": "flights", "source_id": "dlg-1ea5cbf6-3aee-49fb-9303-36750d4b2383", "text": "I would like to schedule a flight to Vienna, Austria leaving on May 1st ,2017 and returning on May 8th, 2017."}
+{"dataset": "taskmaster3", "subset": "data_06", "source_id": "dlg-d67a5536-3ee5-4a77-94c3-19d56a8d1a9a", "text": "I'd like to get tickets to see a movie at AMC Mountain 16"}
+{"dataset": "taskmaster2", "subset": "movies", "source_id": "dlg-a2324966-af98-42c4-a00e-4e4890c29d01", "text": "Hello, I'm looking for a movie to go and see."}
+{"dataset": "taskmaster2", "subset": "sports", "source_id": "dlg-0f9e8514-23f8-49d1-8722-2898cdbdf985", "text": "Hello, what's the record for the San Jose Earthquakes right now?"}
+{"dataset": "taskmaster1", "subset": "self_dialogs", "source_id": "dlg-2ea6b7dc-26cf-4988-8689-7d7a15b14003", "text": "CAN YOU FIND ME TICKETS TO A SHOWING OF THE NEW MOVIE 'US'?"}
+{"dataset": "taskmaster3", "subset": "data_14", "source_id": "dlg-d0668019-aaac-44a1-a578-63706f8b413b", "text": "I am reading the details about this movie just mercy and I think I would love to see it."}
+{"dataset": "taskmaster2", "subset": "food-ordering", "source_id": "dlg-d7cd8704-4f56-4388-8bfd-22f5f7ac8e32", "text": "Hi, I'd like to place takeout for two people."}
+{"dataset": "taskmaster3", "subset": "data_07", "source_id": "dlg-7b9123d0-8b32-4c9b-a2d3-60f0b0839acc", "text": "Hey assistant I'm thinking about seeing a movie?"}
+{"dataset": "taskmaster3", "subset": "data_17", "source_id": "dlg-c75ffa0f-ddda-4eb9-a6aa-e2e678ad2157", "text": "I need help getting some movie tickets for tonight."}
+{"dataset": "taskmaster1", "subset": "self_dialogs", "source_id": "dlg-b9e99054-b717-406a-b3fc-1e4afe57e0b4", "text": "Hello, will you place an order for me with Starbucks?"}
+{"dataset": "taskmaster3", "subset": "data_01", "source_id": "dlg-e253a775-dacb-4394-b6de-b24f943f1b17", "text": "hi we are planning to go for an movie tonight"}
+{"dataset": "taskmaster3", "subset": "data_16", "source_id": "dlg-47e260b2-5b54-4b50-be64-9c58a86f9db0", "text": "I want to buy some tickets to a movie at the AMC Mountain 16 for tonight"}
+{"dataset": "taskmaster1", "subset": "self_dialogs", "source_id": "dlg-d13e339c-1193-4b77-aa8c-1fc27b3948f8", "text": "I want to order a pizza from Giovanni's."}
+{"dataset": "taskmaster1", "subset": "self_dialogs", "source_id": "dlg-c26929d4-700a-4b28-8186-9f7ce222f702", "text": "I need an appointment with Intelligent Auto Solutions for my car."}
+{"dataset": "taskmaster3", "subset": "data_15", "source_id": "dlg-a1eefaae-65e3-420b-bded-1d700ff43b22", "text": "How about we catch a movie tonight?"}
+{"dataset": "taskmaster3", "subset": "data_01", "source_id": "dlg-943b5cc0-d703-4e9d-b211-2c799f2f98ba", "text": "Could you get me some movie tickets?"}
+{"dataset": "taskmaster3", "subset": "data_02", "source_id": "dlg-2d0d582f-de89-4961-8431-8f41d6839096", "text": "I would like to see a movie at the AMC Mountain 16 tonight."}
+{"dataset": "taskmaster3", "subset": "data_05", "source_id": "dlg-900714da-21a1-42d3-b857-1a7acd75f997", "text": "Hi, can you try and order me some tickets to the movies tonight?"}
+{"dataset": "taskmaster1", "subset": "self_dialogs", "source_id": "dlg-6ba35f0d-b81a-41b4-a67e-13e95a35a7bd", "text": "Hi I want to order a Lyft ride."}
+{"dataset": "taskmaster3", "subset": "data_12", "source_id": "dlg-3925d544-022d-45b1-89de-6b5bcdcafe9d", "text": "I really want to get out and see a movie tonight."}
+{"dataset": "taskmaster3", "subset": "data_07", "source_id": "dlg-024ae13c-6986-4368-9ef1-69eccba72eeb", "text": "Please help me get some information on movies in Orlando, Florida beginning with that Buzz Lightyear Movie"}
+{"dataset": "taskmaster3", "subset": "data_10", "source_id": "dlg-e0cb560e-e551-45fc-81e1-528aaffadbde", "text": "Hello, can you tell me what is playing at the movies"}
+{"dataset": "taskmaster3", "subset": "data_02", "source_id": "dlg-3e5d4f13-d37e-4ff9-b041-383b7c16b156", "text": "My childhood gaming fantasy has come true."}
+{"dataset": "taskmaster3", "subset": "data_07", "source_id": "dlg-22fc401e-cfad-4377-a4ef-47d6689f7e1c", "text": "Hi, I would like to get some movie tickets to see a good thriller, or maybe an action adventure film."}
+{"dataset": "taskmaster3", "subset": "data_09", "source_id": "dlg-8e855e45-73e2-4249-8b87-7f8ecbc1c7a3", "text": "what movies are showing at your theater"}
+{"dataset": "taskmaster1", "subset": "self_dialogs", "source_id": "dlg-d660a900-5c09-4e65-84ea-de3bf968903c", "text": "I need to get a table for the Black cat"}
+{"dataset": "taskmaster2", "subset": "sports", "source_id": "dlg-b59ed65d-e407-4102-a546-bea0b7111f8d", "text": "Hello there, I have a question about a major league soccer team place, in particular Minnesota United FC."}
+{"dataset": "taskmaster3", "subset": "data_13", "source_id": "dlg-8f4db9db-214e-47d5-8e30-ba792111f221", "text": "Hi, i am interested to going at the movies at tonight"}
+{"dataset": "taskmaster1", "subset": "self_dialogs", "source_id": "dlg-88f98ec4-2501-496b-9551-fe3c59d6fa38", "text": "Can I get a latte to pick up at a Starbucks nearby?"}
+{"dataset": "taskmaster3", "subset": "data_02", "source_id": "dlg-d6b031f5-c722-45fc-b96a-833130ca133e", "text": "Can you show me movie times for the movie no Time to die for tonight?"}
+{"dataset": "taskmaster3", "subset": "data_12", "source_id": "dlg-b0bb734d-7d6a-4621-8a06-0988264738bb", "text": "I'm interested in getting some movie tickets."}
+{"dataset": "taskmaster3", "subset": "data_15", "source_id": "dlg-a06c40e9-e770-4590-bcd6-6d89735c0fbd", "text": "I would like to go to the movies today."}
+{"dataset": "taskmaster3", "subset": "data_04", "source_id": "dlg-a14abc6c-9300-4509-b47d-f2ccffbd01ab", "text": "hello i would like to know current PG and PG movies out right now?"}
+{"dataset": "taskmaster3", "subset": "data_09", "source_id": "dlg-1f5ce9b0-f236-4d35-81a8-dbd6a34c3cd2", "text": "I am looking to get tickets to little woman at Lincoln center theater tomorrow at 12n\\r"}
+{"dataset": "taskmaster3", "subset": "data_13", "source_id": "dlg-a25b58cc-e92a-47c4-b2d5-b15763c8980f", "text": "Are you able to book a movie ticket for me?"}
+{"dataset": "taskmaster1", "subset": "self_dialogs", "source_id": "dlg-84c94a14-a14d-4090-9931-439cbd7f1b29", "text": "Hi, I'd like to place a reservation at Shojis for six."}
+{"dataset": "taskmaster2", "subset": "movies", "source_id": "dlg-7428affc-93b8-42a4-a4ab-daf644c19c49", "text": "Hi, I'd like help finding a movie to go see with my spouse."}
+{"dataset": "taskmaster3", "subset": "data_10", "source_id": "dlg-78af0fda-008a-46cc-847b-bec4aef93feb", "text": "Can you get us some movie tickets for today?"}
+{"dataset": "taskmaster3", "subset": "data_12", "source_id": "dlg-7c9f09f8-e406-4d0d-b55a-13f78078ada4", "text": "I really look forward to seeing a movie tonight."}
+{"dataset": "taskmaster3", "subset": "data_19", "source_id": "dlg-f4f8404c-e67d-4ca7-bcbf-23ac8435546c", "text": "can you assist me in buying movie tickets for tonight?"}
+{"dataset": "taskmaster2", "subset": "restaurant-search", "source_id": "dlg-e6cd71fd-ccf9-4e22-93a7-eb54aefeb60e", "text": "I need help with getting dinner tonight."}
+{"dataset": "taskmaster2", "subset": "sports", "source_id": "dlg-9daa1bff-a62e-452d-b7e9-9e563a32080c", "text": "What place are the New Orleans Pelicans in?"}
+{"dataset": "taskmaster3", "subset": "data_08", "source_id": "dlg-9b1606fd-024a-42c6-8332-d4efa87277b9", "text": "I would like you to help me purchasing tickets please."}
+{"dataset": "taskmaster1", "subset": "self_dialogs", "source_id": "dlg-4e7230f0-f042-443d-9f2a-6357c81bc414", "text": "Will you book me movie tickets please."}
+{"dataset": "taskmaster3", "subset": "data_18", "source_id": "dlg-a1a9377d-02ea-4ff8-8572-17a754c02808", "text": "hi .i want to go movie.so i would like to buy tickets"}
+{"dataset": "taskmaster3", "subset": "data_05", "source_id": "dlg-5587e8d5-1c9d-4a7c-9d5c-ef48705e1657", "text": "Hi, I'm looking for movie theaters in Davis."}
+{"dataset": "taskmaster3", "subset": "data_19", "source_id": "dlg-11749ec2-4efb-4875-91fe-a3a4ab5d385f", "text": "Hey, I want to see a good movie."}
+{"dataset": "taskmaster1", "subset": "self_dialogs", "source_id": "dlg-9d839c3b-2d98-4956-93dd-1c565d4d345e", "text": "I want to order a pizza from Rosati's."}
+{"dataset": "taskmaster3", "subset": "data_11", "source_id": "dlg-bfbd492a-7a4c-4e3a-b912-a695bb000561", "text": "Hello, I am looking for a movie in Spring Hills Kansas."}
+{"dataset": "taskmaster3", "subset": "data_01", "source_id": "dlg-8ba572da-bbdb-4bd5-9a06-0cb6b38245aa", "text": "I would like to book movie tickets for tonight."}
+{"dataset": "taskmaster3", "subset": "data_17", "source_id": "dlg-158f487e-bfa2-46c1-8cb6-692c5e27ec21", "text": "My mom and I are wanting to see a movie this weekend."}
+{"dataset": "taskmaster1", "subset": "self_dialogs", "source_id": "dlg-aeaff9ee-d969-4551-b725-a0a191f0c2ac", "text": "Hi, I'd like for you to pick up a cafe latte."}
+{"dataset": "taskmaster1", "subset": "self_dialogs", "source_id": "dlg-eed69279-92e9-48b7-ad31-9d2910e5cb8d", "text": "sizes of pizzas"}
+{"dataset": "taskmaster3", "subset": "data_13", "source_id": "dlg-4418182e-b4a4-48f4-8442-3e15a37acb16", "text": "It would be amazing to see a movie for tonight."}
+{"dataset": "taskmaster3", "subset": "data_09", "source_id": "dlg-5824dc24-f200-4206-955a-08401b54d732", "text": "I m just planning to watch movie Tonight"}
+{"dataset": "taskmaster3", "subset": "data_12", "source_id": "dlg-737b8517-28af-45c5-b18f-535b764adb23", "text": "Peaches, I want to go to a movie."}
+{"dataset": "taskmaster3", "subset": "data_09", "source_id": "dlg-0a1ccbb6-ccb6-4356-af33-d8583426e337", "text": "I'm looking to buy tickets for tonight"}
+{"dataset": "taskmaster1", "subset": "self_dialogs", "source_id": "dlg-63fedfe7-5162-4afd-b5ca-218a4a68da9f", "text": "Can you order a couple of pizzas for me from Papa John\"s today?"}
+{"dataset": "taskmaster2", "subset": "movies", "source_id": "dlg-94b0fbd7-f9d2-47a1-ae77-04c145206dc1", "text": "Hi, I'm looking to go for a movie tonight and I am in Santa Monica, California."}
+{"dataset": "taskmaster3", "subset": "data_04", "source_id": "dlg-73dc77a0-b0ac-476c-80e8-9f2baa8c50e0", "text": "Hi, I want to buy movie tickets."}
+{"dataset": "taskmaster3", "subset": "data_08", "source_id": "dlg-860ff65d-2274-411d-9bdd-b537f4f50b60", "text": "I would like to get movie tickets."}
+{"dataset": "taskmaster3", "subset": "data_13", "source_id": "dlg-477dd7ab-5709-45f9-a410-08baf7be39d6", "text": "I would like to buy two tickets to a movie for tonight, but I don't know what movies are out."}
+{"dataset": "taskmaster1", "subset": "self_dialogs", "source_id": "dlg-6b163908-94ad-4cd5-8900-b55ebe1d1701", "text": "Can you get me tickets to a showing of Aquaman?"}
+{"dataset": "taskmaster3", "subset": "data_19", "source_id": "dlg-e3208df4-2dc9-433d-a9b7-732d57cdfb57", "text": "Hey I wanna buy some movie tickets for tonight."}
+{"dataset": "taskmaster3", "subset": "data_03", "source_id": "dlg-57f3c27a-c4ea-47d0-a0da-9b7eb1b42cbb", "text": "Do you have tickets to see Sonic?"}
+{"dataset": "taskmaster3", "subset": "data_00", "source_id": "dlg-498f77c8-fab0-45cd-a693-5c8b753c5d79", "text": "hello im planing for going out to night for a movie"}
+{"dataset": "taskmaster3", "subset": "data_11", "source_id": "dlg-77dba894-a618-4793-9b87-4090610659b1", "text": "Hi, I'd like help booking tickets for a film tonight."}
+{"dataset": "taskmaster1", "subset": "self_dialogs", "source_id": "dlg-4e2d488d-bc4c-48ae-a303-2b91692cfa31", "text": "I would like tickets to Little."}
+{"dataset": "taskmaster3", "subset": "data_01", "source_id": "dlg-178ba8ce-bbf9-4bc8-a532-057c3ad8ff99", "text": "I would like to get ticket for a movie please."}
+{"dataset": "taskmaster3", "subset": "data_17", "source_id": "dlg-3b239013-2065-46d3-a24c-d789c6be8a73", "text": "Hi, yes, I'm looking for movies currently playing in Spring Hills, Kansas."}
+{"dataset": "taskmaster3", "subset": "data_08", "source_id": "dlg-b207c0e7-04ef-4e90-8b38-01a4320c50f5", "text": "I'd like to go see a movie this evening."}
+{"dataset": "taskmaster2", "subset": "restaurant-search", "source_id": "dlg-3f61ec40-4150-461c-9af7-b3344758e302", "text": "I'm looking for a sandwich shop."}
+{"dataset": "taskmaster1", "subset": "self_dialogs", "source_id": "dlg-73b3c9da-0df2-4bfc-b217-2612ab4fd1ef", "text": "I am looking for an appointment, when you can have me scheduled?"}
+{"dataset": "taskmaster1", "subset": "self_dialogs", "source_id": "dlg-8f42c2fc-6aa0-4287-8dae-5be5f20098ea", "text": "Hey Amy, Can you order me a Uber for my date tonight?"}
+{"dataset": "taskmaster1", "subset": "self_dialogs", "source_id": "dlg-9f20d597-875e-4ccd-8feb-6d0f6bf31287", "text": "Hey google, is there any theater in New York where you can order tickets online"}
+{"dataset": "taskmaster3", "subset": "data_00", "source_id": "dlg-2af81b8c-0a77-4c4d-a0ce-121781ea0c59", "text": "Hi I was hoping to get some theater information about some movies playing in Baltimore, MD."}
+{"dataset": "taskmaster1", "subset": "self_dialogs", "source_id": "dlg-59ef807b-37f6-466c-bcb4-a47b99a76e1c", "text": "Hello, I'd like to order a pizza for a family dinner."}
+{"dataset": "taskmaster3", "subset": "data_03", "source_id": "dlg-495f7ce7-f03e-4024-8953-e8595138c96c", "text": "I would like to order 2 tickets to Brahms The Boy 2 at AMC CLASSIC Bloomington 12 tomorrow evening at 5:00pm."}
+{"dataset": "taskmaster3", "subset": "data_00", "source_id": "dlg-b3603369-1468-4e52-88a5-004e98486ea0", "text": "I want tickets for 1917 at Regal Cinemas Northampton for 7:05 PM on the 19th."}
+{"dataset": "taskmaster1", "subset": "self_dialogs", "source_id": "dlg-213efdf2-9bf9-4b5c-9f20-b2dbbf2cb9ca", "text": "Hello, can you order me a car with lyft?"}
+{"dataset": "taskmaster3", "subset": "data_02", "source_id": "dlg-fb684d7b-c34d-4d6d-bc7e-d45a54eb5f59", "text": "I need help buying movie tickets.\\r"}
+{"dataset": "taskmaster3", "subset": "data_02", "source_id": "dlg-04a65cf4-9a71-437c-9c92-67b05a362b2a", "text": "I am trying to find a movie to see tonight."}
+{"dataset": "taskmaster1", "subset": "self_dialogs", "source_id": "dlg-e425e6f7-b277-4369-bebd-1165549ced98", "text": "I want to order some pizzas from my favorite pizza restaurant, Veto Pizza."}
+{"dataset": "taskmaster1", "subset": "self_dialogs", "source_id": "dlg-2c30ddae-ae27-4db3-b647-575c05f85259", "text": "Hi, I'd like to order a pizza from Pizzeria Delfina, please."}
+{"dataset": "taskmaster1", "subset": "self_dialogs", "source_id": "dlg-77646735-e653-4a00-8d05-a824ab7d0bd1", "text": "I would like some italian food tonight."}
+{"dataset": "taskmaster1", "subset": "self_dialogs", "source_id": "dlg-773c428b-f05f-4c95-8418-3253dffd851f", "text": "Hey, I want you to call the Starbucks located on Main Street in New York City."}
+{"dataset": "taskmaster3", "subset": "data_09", "source_id": "dlg-634f8ecd-7487-429d-a78d-b39c155fbaa6", "text": "Looking for Movie's for Friday night"}
+{"dataset": "taskmaster3", "subset": "data_01", "source_id": "dlg-76b4f4bb-1bbc-4f0f-8505-9969a2869cc6", "text": "Can you check to see what theaters Birds of Prey is playing in?"}
+{"dataset": "taskmaster1", "subset": "self_dialogs", "source_id": "dlg-7a5a4659-7d58-4417-89d9-99eedea61d03", "text": "I would like to make a reservation for tonight at Casa Sensei in Miami."}
+{"dataset": "taskmaster3", "subset": "data_17", "source_id": "dlg-23228a26-d73d-4d9e-b3fa-2307a982ce99", "text": "Hi, I would like to book the Movie Star Wars: The Rise of Skywalker."}
+{"dataset": "taskmaster3", "subset": "data_03", "source_id": "dlg-14c3257c-f79a-40d4-99b2-b139a818129a", "text": "Hello, can you help me find movie tickets?"}
+{"dataset": "taskmaster2", "subset": "flights", "source_id": "dlg-873f3ce2-70f5-4483-949d-de269918c65b", "text": "Hi, I need to book a round trip flight from San Francisco to Chicago."}
+{"dataset": "taskmaster3", "subset": "data_17", "source_id": "dlg-a2310ab9-0d56-4b48-919b-fd82334cf118", "text": "Hello assistant, I'd like to use my AMC giftcard tonight"}
+{"dataset": "taskmaster2", "subset": "music", "source_id": "dlg-e5c4479a-fd44-42f0-879c-c8f1ba2b2a47", "text": "Hello, can you play some something by Wage War?"}
+{"dataset": "taskmaster3", "subset": "data_04", "source_id": "dlg-7bdb818d-cf17-4cf2-9208-068de9903f38", "text": "I’d like movie tickets for stars the famous James Bond."}
+{"dataset": "taskmaster1", "subset": "self_dialogs", "source_id": "dlg-0b1a1374-8e43-4999-a6fe-dad8f5e7a942", "text": "Book 2 tickets to see The Upside"}
+{"dataset": "taskmaster1", "subset": "self_dialogs", "source_id": "dlg-c2262921-3d28-4ced-a9b1-098feef9c75b", "text": "I need to get some tickets for One Night Only."}
+{"dataset": "taskmaster3", "subset": "data_17", "source_id": "dlg-e6b2648e-adf5-488e-89cd-e7bea7340b18", "text": "I need assistance please."}
+{"dataset": "taskmaster3", "subset": "data_15", "source_id": "dlg-e9833b6d-bcc8-4c0c-8e2c-f87012d8d12d", "text": "I'm interested in seeing a movie at the AMC tonight."}
+{"dataset": "taskmaster1", "subset": "self_dialogs", "source_id": "dlg-b17db45a-c1f0-4e2e-b9df-be3cfe678115", "text": "Book an appointment for my car"}
+{"dataset": "taskmaster3", "subset": "data_09", "source_id": "dlg-7e15bf1e-d7ef-41b7-9bf5-d42fa5bab850", "text": "I will be in Hollywood tongith and want to see a movie."}
+{"dataset": "taskmaster3", "subset": "data_01", "source_id": "dlg-3feb4cea-46a7-4809-80bc-12fbf58d5393", "text": "Hello, i want to book for a movie"}
+{"dataset": "taskmaster2", "subset": "flights", "source_id": "dlg-bd05e1f7-fc14-43b2-a120-197cb3dc0b36", "text": "I'd like help finding a flight to Spokane, Washington."}
+{"dataset": "taskmaster1", "subset": "self_dialogs", "source_id": "dlg-262af479-10af-4b97-a9d2-d1247be23cfa", "text": "I would like to order 3 large pizzas from Domino's Pizza"}
+{"dataset": "taskmaster1", "subset": "woz_dialogs", "source_id": "dlg-666a1748-a76d-4546-8b79-4bd7eba2bf03", "text": "Hi, I want to to get tickets to see LEGO Movie 2."}
+{"dataset": "taskmaster3", "subset": "data_13", "source_id": "dlg-d69f215e-b007-4757-a441-f57f3e0628ac", "text": "I'd like to see a good movie tonight, please."}
+{"dataset": "taskmaster3", "subset": "data_08", "source_id": "dlg-3cb33388-431d-4127-ba29-35a040be1af3", "text": "I want to watch a movie at a theater tonight."}
+{"dataset": "taskmaster2", "subset": "music", "source_id": "dlg-aa91eb16-e9d4-43bf-8c28-0c074d04b85b", "text": "Hello, I would love to listen to a new artist that is similar to David Bowie."}
+{"dataset": "taskmaster3", "subset": "data_15", "source_id": "dlg-854db577-be89-4cb6-a58e-c1f47af6e54e", "text": "Hello !!!"}
+{"dataset": "taskmaster3", "subset": "data_12", "source_id": "dlg-bde66d57-f878-413b-850c-4f2d60a07b4b", "text": "Hey, i want to buy movie tickets in Davis, California."}
+{"dataset": "taskmaster2", "subset": "flights", "source_id": "dlg-f6bb6e39-8982-454b-8302-de36442dae0b", "text": "I need help in finding a flight, please."}
+{"dataset": "taskmaster3", "subset": "data_01", "source_id": "dlg-2befff58-8ca5-4778-8341-ab1abfec22ed", "text": "Hey, could you get movie tickets for me?"}
+{"dataset": "taskmaster1", "subset": "self_dialogs", "source_id": "dlg-4f53f8b2-0cf2-4201-bc47-053ae32d6d29", "text": "Hey Stephanie, are you still downtown, could you pick me up some Starbucks?"}
+{"dataset": "taskmaster3", "subset": "data_14", "source_id": "dlg-1476d62e-466d-40fb-acc5-21fe6447ea1b", "text": "I want to see a action packed movie this weekend, are there any playing ?"}
+{"dataset": "taskmaster3", "subset": "data_13", "source_id": "dlg-454a7210-10da-4358-a260-89261dacb7e7", "text": "I think I may want to see a movie tonight."}
+{"dataset": "taskmaster2", "subset": "sports", "source_id": "dlg-c2a86424-f2c6-41d7-87aa-20faa6b2cc76", "text": "Well, I need to know about the record of the Pittsburgh Pirates, please."}
+{"dataset": "taskmaster3", "subset": "data_07", "source_id": "dlg-823b6746-4689-4335-b4f4-838b942c4a81", "text": "I’d like movie tickets for No Die."}
+{"dataset": "taskmaster3", "subset": "data_17", "source_id": "dlg-00a64824-a75a-461c-973f-6a906f0d190a", "text": "Is Opry Mills Mall still have a theater open?"}
+{"dataset": "taskmaster1", "subset": "self_dialogs", "source_id": "dlg-3edffa2f-16f5-4f98-88d3-5d2d80e320cd", "text": "OK Google, please schedule an appointment with Intelligent Auto Solutions"}
+{"dataset": "taskmaster3", "subset": "data_16", "source_id": "dlg-f1fa1551-8aa6-4f93-9e52-83b21b6ffce0", "text": "I feel like watching a movie, help me find one."}
+{"dataset": "taskmaster3", "subset": "data_08", "source_id": "dlg-b975dc47-777d-44e2-bee8-67d7ab963a17", "text": "I want to go see a movie, but I've seen almost everything showing in Plymouth."}
+{"dataset": "taskmaster3", "subset": "data_12", "source_id": "dlg-082b8d5d-567d-4ae0-bc66-85bec1d32d94", "text": "I want to purchase tickets for movies showing tonight at AMC Mountain 16"}
+{"dataset": "taskmaster3", "subset": "data_17", "source_id": "dlg-6db98337-e663-49d6-a3ee-8b4963c2e61e", "text": "Hi I would like to purchase 2 movie tickets."}
+{"dataset": "taskmaster1", "subset": "woz_dialogs", "source_id": "dlg-d1b41504-c918-4415-81c3-5a9c0b2e07ca", "text": "It was a good evening."}
+{"dataset": "taskmaster3", "subset": "data_07", "source_id": "dlg-d03d18cc-8a6d-4800-9db9-15332a39b0f1", "text": "Hey, I'd like to buy some tickets for tonight at the AMC Mountain 16' please."}
+{"dataset": "taskmaster3", "subset": "data_04", "source_id": "dlg-aded8a50-cb16-43d7-880a-1d49d39dd8ec", "text": "Hello, is this where I purchase movie tickets?"}
+{"dataset": "taskmaster3", "subset": "data_00", "source_id": "dlg-87836013-baa7-442f-9cc4-48d23c272e84", "text": "Hey, I saw the Joker the other night!"}
+{"dataset": "taskmaster3", "subset": "data_03", "source_id": "dlg-0301297d-f1fd-49a4-94b9-4422b9613753", "text": "Hey I'm interesting to go to the movies tonight"}
+{"dataset": "taskmaster3", "subset": "data_00", "source_id": "dlg-abdd71a2-e25a-444b-b218-dbec06c68668", "text": "google, I want a movie that will make me think"}
+{"dataset": "taskmaster3", "subset": "data_05", "source_id": "dlg-4fc4b770-3649-4f2a-b236-cf8d6ef86ab5", "text": "Can you help me movie purchase tickets for tonight?"}
+{"dataset": "taskmaster2", "subset": "movies", "source_id": "dlg-07734ba8-e0c1-43ab-b42c-7547fa849922", "text": "Hello, I'm looking for a movie to go see tonight."}
+{"dataset": "taskmaster3", "subset": "data_10", "source_id": "dlg-1d00c7d1-c9ff-48b5-8cce-bb1f84c5b09e", "text": "Hi I would like to see a good film"}
+{"dataset": "taskmaster3", "subset": "data_04", "source_id": "dlg-8d2e8c64-5b70-47bb-a0b0-eb1fbd3f88cc", "text": "I would like to reserve tickets from AMC Arizona Center 24."}
+{"dataset": "taskmaster2", "subset": "movies", "source_id": "dlg-0e23c26d-d8bf-4904-873e-e1804dfbd2ed", "text": "Hi, I want to rent a movie at home tonight."}
+{"dataset": "taskmaster1", "subset": "self_dialogs", "source_id": "dlg-433b44e9-c9b3-4608-a7c6-f7d15d64ceb2", "text": "I'd like to book an appoint at Intelligent Auto Solutions"}
+{"dataset": "taskmaster3", "subset": "data_18", "source_id": "dlg-ffc8a8a8-ee47-4294-b2f5-c0128d09dbb9", "text": "whoa i almost got hit by a car"}
+{"dataset": "taskmaster3", "subset": "data_06", "source_id": "dlg-0c597b4a-0eb6-49a1-af27-6d610889fbfb", "text": "I would like to see about getting movie tickets."}
+{"dataset": "taskmaster3", "subset": "data_07", "source_id": "dlg-b7509ae4-c1e4-428c-adba-1e7abf0b7ddf", "text": "I am interested in buying tickets to the movies, this night."}
+{"dataset": "taskmaster1", "subset": "self_dialogs", "source_id": "dlg-a7af9656-4f43-40b3-ab09-cce1a4011473", "text": "Hello my name is Kimmy Smith and my phone number is 717-485-4444."}
+{"dataset": "taskmaster2", "subset": "food-ordering", "source_id": "dlg-76066953-301a-4a27-a367-28c475f26045", "text": "Hi, I'd like to order take out for one person."}
+{"dataset": "taskmaster3", "subset": "data_12", "source_id": "dlg-c667d785-a37a-481f-b4b4-e55c2d2539cb", "text": "I want to buy 2 tickets for No Time to Die."}
+{"dataset": "taskmaster1", "subset": "self_dialogs", "source_id": "dlg-3c043cc3-d41c-40cb-bcf5-e42eabffc250", "text": "Can I book a table for party of 3"}
+{"dataset": "taskmaster1", "subset": "self_dialogs", "source_id": "dlg-61e38304-725c-4dd3-8b09-51f5f5346443", "text": "I’d like a ride to a restaurant."}
+{"dataset": "taskmaster3", "subset": "data_09", "source_id": "dlg-17ecf8a6-f72e-4be0-98c1-1d1f45d2fde5", "text": "I am in need of tickets."}
+{"dataset": "taskmaster3", "subset": "data_15", "source_id": "dlg-ee61f021-83ac-443d-a12f-813fa855c5d9", "text": "I am looking for a movie to see the one with will smith in Arlington,TX"}
+{"dataset": "taskmaster3", "subset": "data_02", "source_id": "dlg-710a798c-1336-4ec4-b181-929d6bbbd5e0", "text": "Yes I'd like to see a movie this Monday"}
+{"dataset": "taskmaster3", "subset": "data_09", "source_id": "dlg-804d3385-d928-4520-b668-9e1bf9b449da", "text": "I am looking for a movie that is light hearted and a honest feel good film."}
+{"dataset": "taskmaster3", "subset": "data_03", "source_id": "dlg-bf21dfa6-a54e-4012-baab-34d30f7759f2", "text": "My wife and I really want to see a movie"}
+{"dataset": "taskmaster1", "subset": "woz_dialogs", "source_id": "dlg-f50fb349-1acf-4e7a-a3fc-f5942ea7050a", "text": "Good."}
+{"dataset": "taskmaster3", "subset": "data_08", "source_id": "dlg-5d24f7e7-da5f-4381-82bd-36b58c973f93", "text": "Could you help us find a movie to take our nephews to?"}
+{"dataset": "taskmaster1", "subset": "self_dialogs", "source_id": "dlg-9f67b33c-4074-4acf-9b9d-17f69bc00073", "text": "Hello, I'm calling to make a car appointment at \"Intelligent Auto Solutions\"."}
+{"dataset": "taskmaster1", "subset": "self_dialogs", "source_id": "dlg-d1ca0fe6-58f8-4b08-ab14-a0ed578928e2", "text": "Can you set up a lyft ride for me."}
+{"dataset": "taskmaster1", "subset": "self_dialogs", "source_id": "dlg-761aab1d-5def-4e87-94f2-aaa8d0adac5a", "text": "I need to order a pizza from Sappys Pizza"}
+{"dataset": "taskmaster3", "subset": "data_02", "source_id": "dlg-6d976b35-c202-4809-8350-af31f6b8e67f", "text": "I wanted to see if theatres in Fresno, California are playing a few different movies."}
+{"dataset": "taskmaster2", "subset": "music", "source_id": "dlg-f32fae04-18f6-4240-9914-e2198b0f4aba", "text": "Hi, Can I listen to a song by James Arthur?"}
+{"dataset": "taskmaster3", "subset": "data_18", "source_id": "dlg-8b5f1c2d-9aa9-4adf-a940-f9b155f4d167", "text": "Hi, I want to see a movie and need some help to book the tickets."}
+{"dataset": "taskmaster3", "subset": "data_04", "source_id": "dlg-1b2d2693-44f7-4271-b1a1-125a765586db", "text": "hey there, id like to purchase some movie tickets"}
+{"dataset": "taskmaster2", "subset": "flights", "source_id": "dlg-f42bc665-b480-419b-bcd5-424884e22539", "text": "I would like help finding a flight to Europe."}
+{"dataset": "taskmaster3", "subset": "data_19", "source_id": "dlg-f503058f-5cca-4809-ad07-0a4599106d8c", "text": "I want to purchase some movie tickets for tonight"}
+{"dataset": "taskmaster3", "subset": "data_12", "source_id": "dlg-18dc2018-ee35-4e56-aaa4-0a86477fd85c", "text": "Hi I'd like to purchase a couple tickets to a movie."}
+{"dataset": "taskmaster1", "subset": "self_dialogs", "source_id": "dlg-6aad835f-730c-46c5-ae6a-7a525e56466e", "text": "Hey can you pick me up movie tickets?"}
+{"dataset": "taskmaster1", "subset": "self_dialogs", "source_id": "dlg-30ca7835-4283-4ca6-a52f-871d6a610b61", "text": "Hey, can you get me an appointment at Intelligent Auto Solutions?"}
+{"dataset": "taskmaster3", "subset": "data_12", "source_id": "dlg-d4e29ced-d7e2-431d-8bf6-e1b1b135efbf", "text": "Could I get some tickets for a movie?"}
+{"dataset": "taskmaster3", "subset": "data_13", "source_id": "dlg-8119f7b4-fb68-4af7-b59a-6434f0701501", "text": "Hello, I'm in Davis, California and I'd like to purchase movie tickets for any theater in the area."}
+{"dataset": "taskmaster3", "subset": "data_15", "source_id": "dlg-841333a0-fe5a-4373-b85c-8b4d752d198c", "text": "Hello there, I am looking for an interesting movie that is not too violent."}
+{"dataset": "taskmaster3", "subset": "data_10", "source_id": "dlg-eea15a8f-f562-4e87-aefb-7732b3f42a28", "text": "I want to see horror types of movies with lots of scares"}
+{"dataset": "taskmaster3", "subset": "data_14", "source_id": "dlg-f6be1713-4a21-42bb-8d8d-c275426ded65", "text": "Yeah, I want to know what are the recent movies out now."}
+{"dataset": "taskmaster3", "subset": "data_13", "source_id": "dlg-9ef38963-3e02-4457-8a15-cfc20d7eb5dc", "text": "I would love to see a movie on a night like tonight!"}
+{"dataset": "taskmaster3", "subset": "data_00", "source_id": "dlg-c4773b18-48fa-41df-a854-8cd2c3dfbfcf", "text": "I want to see a movie tonight please."}
+{"dataset": "taskmaster2", "subset": "flights", "source_id": "dlg-825d2f25-a721-4188-87db-79cd5e306a0d", "text": "Hi, I'm looking for a commercial airline flight and I'm traveling from Sacramento to Houston."}
+{"dataset": "taskmaster3", "subset": "data_19", "source_id": "dlg-0c41930a-3ab0-4fd0-b95e-b9cb2f342afa", "text": "I would like to go out to see a movie tonight."}
+{"dataset": "taskmaster3", "subset": "data_17", "source_id": "dlg-3fa372c9-a55e-4824-923f-5c9268dd423b", "text": "Hey, can I get two tickets to the movies?"}
+{"dataset": "taskmaster3", "subset": "data_15", "source_id": "dlg-4fdbd9cf-cdd2-44cb-88fe-72af97b50bec", "text": "Hi, I'm looking for a film that just came out."}
+{"dataset": "taskmaster1", "subset": "self_dialogs", "source_id": "dlg-fbf2d4f0-a63c-4bd5-8f85-e8b4a2526648", "text": "Hello, I want to reserve a spot at a nice rodizio restaurant if possible."}
+{"dataset": "taskmaster2", "subset": "movies", "source_id": "dlg-239d654a-8a95-4a3b-848e-0302d55e666b", "text": "Please tell me the highest-rating movie."}
+{"dataset": "taskmaster3", "subset": "data_12", "source_id": "dlg-29e0d78c-3d49-4123-9c94-330fd679ea49", "text": "Hi, I plan to go to the movie tonight."}
+{"dataset": "taskmaster3", "subset": "data_13", "source_id": "dlg-16e12f05-48b6-4f7f-923d-ef7728583b84", "text": "I am interested in buying movie tickets in the theater ‘AMC Mountain 16’"}
+{"dataset": "taskmaster1", "subset": "self_dialogs", "source_id": "dlg-f2dd3714-7eb3-48ef-95fb-3c02eb43a6d7", "text": "Hey can I order some coffee."}
+{"dataset": "taskmaster3", "subset": "data_17", "source_id": "dlg-7f559ef4-ee31-4197-8549-b7fd1b3fdb79", "text": "Hi, I'm bored with staying home, can you get me some tickets?"}
+{"dataset": "taskmaster3", "subset": "data_01", "source_id": "dlg-5ad8678c-b5b6-45cd-88f4-693a6bc3a96c", "text": "Hey, I would like to go for movie tonight"}
+{"dataset": "taskmaster3", "subset": "data_06", "source_id": "dlg-d3c8aa65-20f2-447e-a720-e5f2d71e33bb", "text": "Which theaters near me are currently playing Rise of Skywalker, Bad Boys, or 1917?"}
+{"dataset": "taskmaster2", "subset": "hotels", "source_id": "dlg-7b96f052-93b9-4cf4-a01f-d0222146d465", "text": "Hi, I need help finding a hotel in New Orleans."}
+{"dataset": "taskmaster3", "subset": "data_14", "source_id": "dlg-682f3572-e88e-4661-8f22-9f8c3e75db3f", "text": "Hey assistant I would like to purchase 2 tickets to A beautiful day in the neighborhood"}
+{"dataset": "taskmaster3", "subset": "data_03", "source_id": "dlg-8693c293-482f-4378-8e7e-f5790c7abe62", "text": "I have a date tonight and am looking for things to do."}
+{"dataset": "taskmaster3", "subset": "data_00", "source_id": "dlg-5658c23a-7697-44b6-853d-6a11c1ab469d", "text": "Yes, I'd like to find out movie theater info for some films in Jacksonville, Florida."}
+{"dataset": "taskmaster1", "subset": "self_dialogs", "source_id": "dlg-d99d8b5e-d4b2-4173-9565-39fe2793f141", "text": "I need an appointment at Intelligent Auto Solution"}
+{"dataset": "taskmaster1", "subset": "self_dialogs", "source_id": "dlg-91db207e-69f7-4e37-9fbb-743625b6cce7", "text": "I need several tickets to Wonder Park."}
+{"dataset": "taskmaster1", "subset": "self_dialogs", "source_id": "dlg-83722f0d-8cd7-4941-accf-0551cb2af801", "text": "Hello there, I want to order an Uber ride."}
+{"dataset": "taskmaster3", "subset": "data_09", "source_id": "dlg-ea77e435-e80a-4a04-a517-585a3f72a90a", "text": "Hi, I'd like to buy some movie tickets for tonight."}
+{"dataset": "taskmaster3", "subset": "data_08", "source_id": "dlg-39b7d9b7-27ee-4a82-8703-73e7eb0a95e7", "text": "So you like comedy movies?"}
+{"dataset": "taskmaster3", "subset": "data_16", "source_id": "dlg-33b7e267-3427-4889-8c24-474b7e4823ca", "text": "Hello, I am looking to change my showtime for Little Women this evening at the MJR in Troy, Michigan."}
+{"dataset": "taskmaster3", "subset": "data_17", "source_id": "dlg-61a5a8e1-015e-43c7-a1df-3bcb6f78516c", "text": "Check show times for Jumanji at the AMC theater."}
+{"dataset": "taskmaster1", "subset": "woz_dialogs", "source_id": "dlg-bf287fcc-0be3-43db-b713-e9043dabb007", "text": "Cool, I would like to order pizza."}
+{"dataset": "taskmaster2", "subset": "hotels", "source_id": "dlg-8d7789cb-715d-47d9-a737-2bb26e765026", "text": "I need your help in finding a hotel in Phoenix."}
+{"dataset": "taskmaster1", "subset": "self_dialogs", "source_id": "dlg-90265a07-92e3-4766-94ec-50bb6b1ca1b5", "text": "Hi, could you get me an Uber"}
+{"dataset": "taskmaster3", "subset": "data_08", "source_id": "dlg-64a78f08-78cd-4ee7-afaa-23fd9fcfc2b0", "text": "No work, so movie night it is for me."}
+{"dataset": "taskmaster1", "subset": "self_dialogs", "source_id": "dlg-2144f39d-5ff5-4041-bf85-477b2c5dae08", "text": "Hi can you please order m tickets to see the movie GLass."}
+{"dataset": "taskmaster3", "subset": "data_11", "source_id": "dlg-2295a1ee-87e0-4eb6-b3eb-ce1f5585db33", "text": "Whatsup?"}
+{"dataset": "taskmaster3", "subset": "data_07", "source_id": "dlg-4d1014da-8834-4d67-b61a-125e963bddfb", "text": "Hi, I would like to purchase tickets to see a movie in Davs, California."}
+{"dataset": "taskmaster3", "subset": "data_09", "source_id": "dlg-e9dedc76-311d-4bba-8cbc-025382ca5cb3", "text": "I'd like to get movie tickets please."}
+{"dataset": "taskmaster3", "subset": "data_17", "source_id": "dlg-7fe55b86-c044-4088-86d0-2cb1058145c5", "text": "I would like to see a late showing of a movie tonight."}
+{"dataset": "taskmaster1", "subset": "woz_dialogs", "source_id": "dlg-008117d0-82e0-4951-8b55-709949937914", "text": "hi there, how can i help you?"}
+{"dataset": "taskmaster3", "subset": "data_06", "source_id": "dlg-42ac34ba-3707-4b15-85cc-6eb7e48e72b7", "text": "Where is that Marvel movie playing?"}
+{"dataset": "taskmaster3", "subset": "data_03", "source_id": "dlg-cd78f9b7-dbfc-46f9-991d-2403b351ca1c", "text": "I'd like to get three tickets to a movie tonight at AMC Mountain 16."}
+{"dataset": "taskmaster1", "subset": "self_dialogs", "source_id": "dlg-cd64bfee-ef45-4947-b28a-2b9f9288890a", "text": "I'd like to buy tickets for a movie called Greta."}
+{"dataset": "taskmaster3", "subset": "data_03", "source_id": "dlg-40fc5aae-e328-4bff-80ba-f9d4f12b24e3", "text": "I would like to go to the movies tonight and will need help with purchasing tickets, please."}
+{"dataset": "taskmaster2", "subset": "sports", "source_id": "dlg-46f44020-a95e-476a-b15d-0acb6e5d75fe", "text": "What can I look up for you?"}
+{"dataset": "taskmaster1", "subset": "self_dialogs", "source_id": "dlg-6f912bbb-ac27-46c4-bf80-9ee1fd81555a", "text": "Hey, could you please order me something from Starbucks?"}
+{"dataset": "taskmaster3", "subset": "data_06", "source_id": "dlg-41175332-533d-4326-ba0f-158f275c26ee", "text": "I am hoping to see a movie this evening with my husband and I would like your assistance."}
+{"dataset": "taskmaster1", "subset": "self_dialogs", "source_id": "dlg-d5526117-1fa2-4d29-b909-da36de431a0a", "text": "I am interested in getting tickets tonight for The Favourite, could you help me out?"}
+{"dataset": "taskmaster1", "subset": "woz_dialogs", "source_id": "dlg-0e61848b-a42f-4f76-9e86-641065027b10", "text": "Hi, I need to schedule an appointment to get my car looked at the mechanic."}
+{"dataset": "taskmaster3", "subset": "data_10", "source_id": "dlg-58528d87-bbb6-4478-b9f0-55b36b4a6458", "text": "My wife has been raving about this movie sam's delight for quite a while now so we are going tonight to see it"}
+{"dataset": "taskmaster3", "subset": "data_10", "source_id": "dlg-f9eb2ee6-b343-499f-b6ea-05fcd050756c", "text": "I am looking for a movie that will scare me."}
+{"dataset": "taskmaster1", "subset": "self_dialogs", "source_id": "dlg-11d8f142-859e-41bc-aef4-8c5083367584", "text": "Hey, Samantha."}
+{"dataset": "taskmaster3", "subset": "data_15", "source_id": "dlg-4e094d06-6267-48d8-9d23-66f1a32d9dff", "text": "Hey, I want to book movie Tickets."}
+{"dataset": "taskmaster3", "subset": "data_12", "source_id": "dlg-bfb045c0-af94-4531-9ede-4685df13b9db", "text": "I want to find a movie to watch near BEckley, WV, what's that movie with the blue thing that runs fast?"}
+{"dataset": "taskmaster2", "subset": "flights", "source_id": "dlg-692438fd-f4f4-45b0-a547-3a2fdb139465", "text": "Yeah, I'd like to book a roundtrip flight from Seattle to Salt Lake City."}
+{"dataset": "taskmaster1", "subset": "self_dialogs", "source_id": "dlg-2ba5d9f0-4240-4502-9cd3-ff8b072f960a", "text": "Hi, I want to buy tickets for Captain Marvel."}
+{"dataset": "taskmaster1", "subset": "self_dialogs", "source_id": "dlg-60a3186d-c913-4d97-aa86-7785bca910d9", "text": "I need to order a pizza for pick up please."}
+{"dataset": "taskmaster3", "subset": "data_11", "source_id": "dlg-70acb087-feb3-4c2e-80f9-327336beddd2", "text": "Hi, I need to buy movie tickets."}
+{"dataset": "taskmaster1", "subset": "self_dialogs", "source_id": "dlg-0413155e-3947-4aed-91b9-33993590446f", "text": "call up pizza joey's, I'm starving"}
+{"dataset": "taskmaster3", "subset": "data_07", "source_id": "dlg-2a019df7-693a-4309-b77f-28454e3b17dc", "text": "I was thinking about seeing a movie at AMC Mountain 16 tonight."}
+{"dataset": "taskmaster3", "subset": "data_01", "source_id": "dlg-c1154da0-3914-4139-b7d2-2fd45f99ed80", "text": "i want to buy the movie tickets at AMC Mountain 16"}
+{"dataset": "taskmaster3", "subset": "data_06", "source_id": "dlg-9ab5ba3d-2317-4442-a668-fd913650d477", "text": "Check Movies"}
+{"dataset": "taskmaster3", "subset": "data_03", "source_id": "dlg-c53218d5-63df-4fc4-802d-7b7bb04afcff", "text": "I want to see a movie with my family tonight at the theater, please."}
+{"dataset": "taskmaster3", "subset": "data_03", "source_id": "dlg-e69aec81-2a67-48ea-999a-8d24ec30316a", "text": "Let's get movie tickets!"}
+{"dataset": "taskmaster1", "subset": "self_dialogs", "source_id": "dlg-6648912f-df14-4479-9b0a-6efaae0bcc9c", "text": "Hey X, I would like to try and order a coffee for the first time."}
+{"dataset": "taskmaster3", "subset": "data_16", "source_id": "dlg-e51d394d-815a-4cfc-9395-173937ab3a03", "text": "I have a few movies I want to see."}
+{"dataset": "taskmaster3", "subset": "data_16", "source_id": "dlg-c4a01bcf-4dbb-4756-af2c-1b25cbc8d783", "text": "I'd like to get some information for movies playing in Austin, Texas."}
+{"dataset": "taskmaster1", "subset": "self_dialogs", "source_id": "dlg-536d835b-87d9-4621-b6cb-e32a62c3b770", "text": "I need 2 tickets to Lowes theater for avengers or Dumbo"}
+{"dataset": "taskmaster2", "subset": "hotels", "source_id": "dlg-2344477c-594a-4b24-832e-f86cf74a1569", "text": "Hello, I need help selecting a hotel for this weekend."}
+{"dataset": "taskmaster3", "subset": "data_12", "source_id": "dlg-af51efa7-cc30-40bc-8d51-0c4de17ce815", "text": "I am planning to go visit the movie theater tonight and watch a disney movie."}
+{"dataset": "taskmaster1", "subset": "self_dialogs", "source_id": "dlg-45750571-4a25-44f6-a3b8-749905e3dd59", "text": "I forgot to schedule a mechanic appointment."}
+{"dataset": "taskmaster2", "subset": "hotels", "source_id": "dlg-8871fc87-2497-488b-824c-fd0400cc406b", "text": "I need help booking a hotel in San Francisco, please."}
+{"dataset": "taskmaster1", "subset": "self_dialogs", "source_id": "dlg-df3d4fd2-b183-4998-8cc5-2b46417d2ff5", "text": "Can I get some papa murphy's pizza?"}
+{"dataset": "taskmaster1", "subset": "self_dialogs", "source_id": "dlg-26c0b3fe-55ca-41c6-ae2e-cc5b04c0d490", "text": "I think I'd like to take friends out to a steakhouse tonight"}
+{"dataset": "taskmaster3", "subset": "data_05", "source_id": "dlg-60112614-3c01-4825-891a-39a54272d62b", "text": "Hi there, I would like to go see a movie in my area tonight."}
+{"dataset": "taskmaster3", "subset": "data_00", "source_id": "dlg-6452aa62-4592-4f3c-b181-64f13d1f724f", "text": "I'd like to see a classic movie tonight"}
+{"dataset": "taskmaster1", "subset": "self_dialogs", "source_id": "dlg-68ac05d7-75d0-4482-8a3b-cc1370963c50", "text": "I need to get some car repairs done."}
+{"dataset": "taskmaster3", "subset": "data_03", "source_id": "dlg-a44b41db-baca-4b12-a36b-7992aafb2556", "text": "I would like to book tickets for tomorrow night"}
+{"dataset": "taskmaster3", "subset": "data_12", "source_id": "dlg-b9c6418a-2fcc-443f-bf77-2cb709edb913", "text": "Hey I'd like to see Possession tonight if possible."}
+{"dataset": "taskmaster3", "subset": "data_04", "source_id": "dlg-121eca4a-53b1-471f-89ad-abb2d36350e5", "text": "i will like to book a movie\\r"}
+{"dataset": "taskmaster3", "subset": "data_07", "source_id": "dlg-2b2089ae-a9bd-43f3-8f0a-9569ccc43761", "text": "I'd like to purchase movie tickets for tonight in Davis, California."}
+{"dataset": "taskmaster3", "subset": "data_17", "source_id": "dlg-bd726c67-f3df-48c2-a9e1-d2679aa87c3c", "text": "i will be going out to see a movie"}
+{"dataset": "taskmaster3", "subset": "data_17", "source_id": "dlg-c93e20f1-207e-4ede-a7df-e062790367b6", "text": "Hello, what movies are playing currently?"}
+{"dataset": "taskmaster3", "subset": "data_12", "source_id": "dlg-f83fe8c8-318a-42e1-9217-8afba4179544", "text": "Good Morning lisa!"}

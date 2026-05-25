@@ -1,0 +1,500 @@
+{"dataset": "trivia_qa", "subset": "unfiltered", "source_id": "jp_2041", "text": "In the jungle, the mighty jungle, the lion does what?"}
+{"dataset": "trivia_qa", "subset": "rc.nocontext", "source_id": "sfq_16011", "text": "What is the name of the Australian National Anthem?"}
+{"dataset": "trivia_qa", "subset": "rc.wikipedia.nocontext", "source_id": "bt_740", "text": "What is the last field event in the decathlon"}
+{"dataset": "trivia_qa", "subset": "rc.web.nocontext", "source_id": "qg_3658", "text": "Oct 11, 1975 saw the introduction of what TV staple, hosted by George Carlin, with Andy Kaufman, Janis Ian and Billy Preston as guests?"}
+{"dataset": "trivia_qa", "subset": "unfiltered", "source_id": "sfq_4246", "text": "Name the British swimmer who took part in his fifth Olympic Games in Beijing?"}
+{"dataset": "trivia_qa", "subset": "unfiltered.nocontext", "source_id": "odql_1658", "text": "What word describes a person who eats fish, but not meat?"}
+{"dataset": "trivia_qa", "subset": "rc.web.nocontext", "source_id": "jp_768", "text": "What type of snake is known for spitting?"}
+{"dataset": "trivia_qa", "subset": "rc", "source_id": "sfq_24518", "text": "Which former Pope was canonised alongside Pope John XXIII in April 2014?"}
+{"dataset": "trivia_qa", "subset": "unfiltered.nocontext", "source_id": "bb_1292", "text": "In what month is the Munich Oktoberfest beer festival held?"}
+{"dataset": "trivia_qa", "subset": "unfiltered", "source_id": "qw_14568", "text": "Which Earl of Essex, after being sent to Ireland as Governor-General in 1599, being briefly imprisoned and leading a rebellion against Queen Eliabeth I, was executed in 1601?"}
+{"dataset": "trivia_qa", "subset": "unfiltered.nocontext", "source_id": "sfq_12582", "text": "What is the capital of the Republic of Ecuador?"}
+{"dataset": "trivia_qa", "subset": "rc.web", "source_id": "wh_2402", "text": "Which famous sporting figure was the subject of attention by a 34 year old businessman named Marcus McGhee in December 2008?"}
+{"dataset": "trivia_qa", "subset": "unfiltered", "source_id": "sfq_203", "text": "\"Who had a Christmas No."}
+{"dataset": "trivia_qa", "subset": "rc.nocontext", "source_id": "qw_998", "text": "According to the Bible, who was the son of Isaac and Rebeckah, the twin brother to Esau, the husband of Leah and Rachel, and the father of Joseph?"}
+{"dataset": "trivia_qa", "subset": "unfiltered", "source_id": "sfq_9625", "text": "Which car manufacturer produces the Note model?"}
+{"dataset": "trivia_qa", "subset": "rc.wikipedia", "source_id": "bt_2547", "text": "What was the first UK number one for Barbra Streisand"}
+{"dataset": "trivia_qa", "subset": "rc.web.nocontext", "source_id": "qw_7416", "text": "In which US state did the siege of the Alamo take place?"}
+{"dataset": "trivia_qa", "subset": "rc", "source_id": "bb_3555", "text": "What ingredient causes a can of cola to sink in water, whereas a can of diet cola floats?"}
+{"dataset": "trivia_qa", "subset": "rc", "source_id": "odql_13869", "text": "Whose yacht was the Handicap Winner of the 1969 Sydney to Hobart Race?"}
+{"dataset": "trivia_qa", "subset": "rc.nocontext", "source_id": "sfq_25617", "text": "Which flower and girl's name is the equivalent of the Spanish name Jacinta?"}
+{"dataset": "trivia_qa", "subset": "rc.web", "source_id": "odql_10670", "text": "At which inn did Chaucer's pilgrims meet to begin their journey?"}
+{"dataset": "trivia_qa", "subset": "rc.nocontext", "source_id": "sfq_16213", "text": "'Walk the Line' was a film about which singer?"}
+{"dataset": "trivia_qa", "subset": "rc.wikipedia", "source_id": "sfq_24735", "text": "Which chemical element, number 34 in the Periodic Table, takes its name from the name of the moon goddess in Greek mythology?"}
+{"dataset": "trivia_qa", "subset": "rc", "source_id": "qz_3185", "text": "Who joined Liverpool from Nottingham Forest for over £8 million in 1995?"}
+{"dataset": "trivia_qa", "subset": "rc.nocontext", "source_id": "qb_2677", "text": "Folic Acid is which vitamin?"}
+{"dataset": "trivia_qa", "subset": "rc.wikipedia.nocontext", "source_id": "bt_3837", "text": "Who was the original lead singer with The Moody Blues"}
+{"dataset": "trivia_qa", "subset": "rc.web.nocontext", "source_id": "tc_69", "text": "Rita Coolidge sang the title song for which Bond film?"}
+{"dataset": "trivia_qa", "subset": "unfiltered", "source_id": "odql_13186", "text": "Harry, Tom, Dougie and Danny are collectively known as who in the pop world?"}
+{"dataset": "trivia_qa", "subset": "unfiltered.nocontext", "source_id": "dpql_3533", "text": "What sort of creature might be called a chanticleer?"}
+{"dataset": "trivia_qa", "subset": "rc.wikipedia.nocontext", "source_id": "tc_1349", "text": "Who constructed the world's first laser?"}
+{"dataset": "trivia_qa", "subset": "rc.web.nocontext", "source_id": "bt_844", "text": "How many of Henry V111’s wives were beheaded"}
+{"dataset": "trivia_qa", "subset": "rc.nocontext", "source_id": "wh_1837", "text": "On this day, April 17th, in 1961, which infamous conflict took place in the Caribbean with major immediate political repercussions?"}
+{"dataset": "trivia_qa", "subset": "rc.web.nocontext", "source_id": "odql_5250", "text": "What is the legal term, used in law to describe the state of those related through marriage?"}
+{"dataset": "trivia_qa", "subset": "unfiltered", "source_id": "odql_11553", "text": "Which state was created by the Lateran Treaty of 1929?"}
+{"dataset": "trivia_qa", "subset": "rc.nocontext", "source_id": "odql_11372", "text": "In which city is the Gateway to India, built to commemorate the visit of George V in 1911"}
+{"dataset": "trivia_qa", "subset": "rc.wikipedia.nocontext", "source_id": "qz_3727", "text": "What is the name of Charlie Brown's dog?"}
+{"dataset": "trivia_qa", "subset": "rc.wikipedia", "source_id": "sfq_15749", "text": "Which US space shuttle exploded shortly after take-off in January 1986?"}
+{"dataset": "trivia_qa", "subset": "unfiltered", "source_id": "sfq_19928", "text": "In which novel is the world divided into Oceania, Eurasia and Eastasia?"}
+{"dataset": "trivia_qa", "subset": "unfiltered.nocontext", "source_id": "qw_10658", "text": "Fingerprint classification was refined sufficiently to be used as evidence to solve a crime in which decade?"}
+{"dataset": "trivia_qa", "subset": "rc.web.nocontext", "source_id": "bb_3326", "text": "Largely Indian-owned corporation ArclelorMittal (a merger/acquisition of the two names by the latter) is the world's biggest producer of?"}
+{"dataset": "trivia_qa", "subset": "rc.web.nocontext", "source_id": "jp_4540", "text": "On what ocean sound is Seattle located?"}
+{"dataset": "trivia_qa", "subset": "rc.web", "source_id": "sfq_802", "text": "William Frawley and Vivian Vance played Fred and Ethel Mertz in which popular 1950's American TV comedy show?"}
+{"dataset": "trivia_qa", "subset": "rc.wikipedia.nocontext", "source_id": "sfq_18970", "text": "The Mexican drink Kahlua has a distinct taste of what?"}
+{"dataset": "trivia_qa", "subset": "rc.web.nocontext", "source_id": "qw_3277", "text": "\"The book \"\"Angels and Demons\"\" was written by whom?\""}
+{"dataset": "trivia_qa", "subset": "rc.web", "source_id": "sfq_8558", "text": "Which pop group was co-founded by Syd Barrett in 1965/66?"}
+{"dataset": "trivia_qa", "subset": "rc.wikipedia", "source_id": "qw_14754", "text": "What fraction of a second is a nanosecond?"}
+{"dataset": "trivia_qa", "subset": "rc.wikipedia.nocontext", "source_id": "sfq_18056", "text": "Which trophy is awarded to the Man of the Match in the Rugby League Super League Grand Final?"}
+{"dataset": "trivia_qa", "subset": "rc.web.nocontext", "source_id": "qw_2574", "text": "Motorcycle speedway, usually referred to as speedway (or flat track motorcycle racing in the USA) takes place on a flat oval track usually consisting of what?"}
+{"dataset": "trivia_qa", "subset": "rc.nocontext", "source_id": "jp_1726", "text": "Who was the shortest player to play in the NBA?"}
+{"dataset": "trivia_qa", "subset": "rc.nocontext", "source_id": "qf_951", "text": "Which sport is normally played on a pitch that is 300 yards long?"}
+{"dataset": "trivia_qa", "subset": "unfiltered.nocontext", "source_id": "odql_9366", "text": "The 'Gowk' is an old dialect word for which bird?"}
+{"dataset": "trivia_qa", "subset": "rc.web.nocontext", "source_id": "qw_2961", "text": "What is the common name for Chorea, a disease characterised by irregular involuntary movements, commonly found in children?"}
+{"dataset": "trivia_qa", "subset": "rc.web", "source_id": "sfq_3904", "text": "At which Olympics, city or year, did Eddie the Eagle take part?"}
+{"dataset": "trivia_qa", "subset": "rc.nocontext", "source_id": "qw_13735", "text": "Who was the first person to refuse an Academy Award for Best Actor?"}
+{"dataset": "trivia_qa", "subset": "rc.nocontext", "source_id": "odql_5110", "text": "What is the name of the Indian dish made from stewed dried peas, onions and spices?"}
+{"dataset": "trivia_qa", "subset": "rc.web", "source_id": "dpql_6177", "text": "Angus Jones apologised for urging viewers not to watch which TV show in which he stars?"}
+{"dataset": "trivia_qa", "subset": "rc.wikipedia", "source_id": "sfq_3669", "text": "What is the capital of Armenia?"}
+{"dataset": "trivia_qa", "subset": "rc.wikipedia.nocontext", "source_id": "jp_3779", "text": "If measured from its base on the sea floor, what mountain is the world's tallest?"}
+{"dataset": "trivia_qa", "subset": "unfiltered", "source_id": "qw_13813", "text": "Where in Sochi were the opening and closing ceremonies of the 2014 Winter Olympics held?"}
+{"dataset": "trivia_qa", "subset": "rc.wikipedia.nocontext", "source_id": "bt_845", "text": "The House of Bernadotte is the Royal House of which country"}
+{"dataset": "trivia_qa", "subset": "unfiltered", "source_id": "bt_4313", "text": "Apry is a type of brandy flavoured with which fruit juice"}
+{"dataset": "trivia_qa", "subset": "rc.web.nocontext", "source_id": "qw_1950", "text": "What is the name for the meteorites that arrive at earth's atmosphere around mid November?"}
+{"dataset": "trivia_qa", "subset": "rc.web", "source_id": "qb_3754", "text": "In Greek mythology, who was awarded the armour of the dead Achilles, after competing for it with Ajax?"}
+{"dataset": "trivia_qa", "subset": "rc.web", "source_id": "dpql_6290", "text": "Which philosopher and writer said ‘God is always on the side of heaviest battalions’?"}
+{"dataset": "trivia_qa", "subset": "rc.wikipedia", "source_id": "odql_8540", "text": "What is Saudi Arabia's unit of currency?"}
+{"dataset": "trivia_qa", "subset": "rc", "source_id": "dpql_4521", "text": "An annual festival in Bayreuth in Germany celebrates which composer?"}
+{"dataset": "trivia_qa", "subset": "unfiltered.nocontext", "source_id": "odql_2076", "text": "Which Australian Prime Minister went missing while swimming in 1967?"}
+{"dataset": "trivia_qa", "subset": "unfiltered.nocontext", "source_id": "bb_2493", "text": "What element is also known as hydrargyrum?"}
+{"dataset": "trivia_qa", "subset": "unfiltered.nocontext", "source_id": "qb_4624", "text": "Martian relates to which planet in our solar system?"}
+{"dataset": "trivia_qa", "subset": "rc.nocontext", "source_id": "wh_1146", "text": "In Devonshire and Cornwall, what items are traditionally made at harvest-time from the last sheaf of corn?"}
+{"dataset": "trivia_qa", "subset": "unfiltered.nocontext", "source_id": "sfq_18921", "text": "Which King was born and died in Buckingham Palace?"}
+{"dataset": "trivia_qa", "subset": "rc", "source_id": "odql_7248", "text": "Which American President broadcast 'Fireside Chats' to the American people in the 1930's?"}
+{"dataset": "trivia_qa", "subset": "rc.nocontext", "source_id": "dpql_2442", "text": "In heraldry what colour is argent?"}
+{"dataset": "trivia_qa", "subset": "unfiltered.nocontext", "source_id": "tc_2712", "text": "What invention made the fortune of Alfred Noel, founder of the Nobel prize?"}
+{"dataset": "trivia_qa", "subset": "unfiltered.nocontext", "source_id": "qw_529", "text": "Who was the first President of the French Fifth Republic?"}
+{"dataset": "trivia_qa", "subset": "rc.nocontext", "source_id": "odql_3181", "text": "Which artists' works include the 1899 painting, 'Three Tahitians'?"}
+{"dataset": "trivia_qa", "subset": "rc.wikipedia.nocontext", "source_id": "qf_1532", "text": "If you suffer from 'Bibliophobia' what do you fear?"}
+{"dataset": "trivia_qa", "subset": "rc.web.nocontext", "source_id": "qf_1507", "text": "Born in 1927, which pianist had hits with 'Side Saddle' and 'Roulette'?"}
+{"dataset": "trivia_qa", "subset": "unfiltered.nocontext", "source_id": "sfq_13063", "text": "In which part of the world are the Berber people indigenous?"}
+{"dataset": "trivia_qa", "subset": "unfiltered", "source_id": "qb_2273", "text": "Coffee company Douwe Egberts was founded in which European country in 1753?"}
+{"dataset": "trivia_qa", "subset": "rc.web.nocontext", "source_id": "qf_1663", "text": "Who first demonstrated TV in public?"}
+{"dataset": "trivia_qa", "subset": "rc", "source_id": "wh_780", "text": "Flourine, Chlorine, Bromine, Iodine and Astatine comprise which group of chemical elements?"}
+{"dataset": "trivia_qa", "subset": "unfiltered.nocontext", "source_id": "sfq_16189", "text": "Which Jane Austen novel begins 'The family of Dashwood had long been settled in Sussex'?"}
+{"dataset": "trivia_qa", "subset": "rc", "source_id": "qw_12100", "text": "What series of toys, aimed at little girls, was released by Hasbro in 1983?"}
+{"dataset": "trivia_qa", "subset": "unfiltered", "source_id": "qw_9892", "text": "\"Who did \"\"True Blood\"\" star Anna Paquin marry on 21 August 2010?\""}
+{"dataset": "trivia_qa", "subset": "rc.web.nocontext", "source_id": "qw_7596", "text": "Pilgrims visit the city of Santiago de Compostela because it is supposedly the site of the bones of which saint?"}
+{"dataset": "trivia_qa", "subset": "rc.wikipedia", "source_id": "qw_15975", "text": "Which Dickens character was visited by the ghost of Bob Marley?"}
+{"dataset": "trivia_qa", "subset": "unfiltered.nocontext", "source_id": "sfq_23886", "text": "In Greek mythology the River Styx formed the boundary between Earth and where?"}
+{"dataset": "trivia_qa", "subset": "rc.wikipedia", "source_id": "bb_646", "text": "What mythical city, meaning 'the golden one', fascinated the Spanish Conquistadors during their conquest of the Americas?"}
+{"dataset": "trivia_qa", "subset": "unfiltered", "source_id": "dpql_5884", "text": "In 1998 at the age of 77 who became the oldest person to fly in space?"}
+{"dataset": "trivia_qa", "subset": "rc.web", "source_id": "qw_8443", "text": "Jeeves is butler to which fictional character created by P G Wodehouse?"}
+{"dataset": "trivia_qa", "subset": "rc.web", "source_id": "qw_4490", "text": "Leonardo di Caprio played multi-millionaire Howard Hughes in which film?"}
+{"dataset": "trivia_qa", "subset": "unfiltered.nocontext", "source_id": "bt_1712", "text": "Who was Cassius Clay's manager"}
+{"dataset": "trivia_qa", "subset": "rc.nocontext", "source_id": "odql_11043", "text": "In which 'James Bond' film did Michelle Yeoh play the part of 'Bond girl - Wai Lin'?"}
+{"dataset": "trivia_qa", "subset": "rc.wikipedia", "source_id": "odql_10999", "text": "What name appears on the postage stamps of Switzerland?"}
+{"dataset": "trivia_qa", "subset": "unfiltered", "source_id": "odql_9528", "text": "In the sitcom Porridge what was the middle name of Norman Fletcher, played by Ronnie Barker?"}
+{"dataset": "trivia_qa", "subset": "rc", "source_id": "bb_454", "text": "The Folketing is the parliament of which European country?"}
+{"dataset": "trivia_qa", "subset": "rc.web.nocontext", "source_id": "sfq_19608", "text": "Baklava, a pastry sweetened with honey, originated in which country?"}
+{"dataset": "trivia_qa", "subset": "rc", "source_id": "qw_12379", "text": "What was the name of a set of 3 treaties signed between the USA and the Kiowa, Comanche, Plains Apache, Southern Cheyenne and Southern Arapaho between 21 and 28 October 1867, requiring them to relocate to areas in present-day western Oklahoma?"}
+{"dataset": "trivia_qa", "subset": "rc", "source_id": "qg_1689", "text": "What is the name of the gang, consisting of boys who fell out of their prams when the nurses weren't looking, led by Peter Pan?"}
+{"dataset": "trivia_qa", "subset": "unfiltered", "source_id": "dpql_886", "text": "What plain, woven cloth gets its name from a port in north-east India?"}
+{"dataset": "trivia_qa", "subset": "rc.nocontext", "source_id": "qw_5253", "text": "What was the first mission that returned lunar samples from the Moon to Earth?"}
+{"dataset": "trivia_qa", "subset": "rc.nocontext", "source_id": "qb_6722", "text": "Gephyrophobia is the irrational fear of crossing what?"}
+{"dataset": "trivia_qa", "subset": "unfiltered", "source_id": "qb_300", "text": "Which cricketer won Pipe Smoker of the Year Award in 1986?"}
+{"dataset": "trivia_qa", "subset": "rc.web.nocontext", "source_id": "sfq_22798", "text": "Who presented Meet the Romans on TV?"}
+{"dataset": "trivia_qa", "subset": "rc.nocontext", "source_id": "wh_509", "text": "In golf, the 9 iron club was originally known by what old Scottish name?"}
+{"dataset": "trivia_qa", "subset": "rc.web", "source_id": "wh_342", "text": "What nationality was the artist Frida Khalo?"}
+{"dataset": "trivia_qa", "subset": "unfiltered", "source_id": "sfq_19125", "text": "What is the minimum age for male golfers on the European Seniors tour?"}
+{"dataset": "trivia_qa", "subset": "rc", "source_id": "odql_3049", "text": "Mark Almond was the lead singer of 80’s pop duo Soft Cell, but who was the other member of the band?"}
+{"dataset": "trivia_qa", "subset": "unfiltered", "source_id": "qb_782", "text": "Which jazz pianist, bandleader and composer was backed by the Red Hot Peppers?"}
+{"dataset": "trivia_qa", "subset": "rc", "source_id": "odql_15045", "text": "Ladon the dragon was killed by Heracles while guarding which of the twelve labours?"}
+{"dataset": "trivia_qa", "subset": "rc.nocontext", "source_id": "sfq_12098", "text": "What is the name of the phenomenon observed when light passes from one medium to another (e.g."}
+{"dataset": "trivia_qa", "subset": "rc", "source_id": "bb_4688", "text": "What's the more common Roman name of the god Mulciber - 'the smelter' - and the origin of a related geological term?"}
+{"dataset": "trivia_qa", "subset": "unfiltered.nocontext", "source_id": "qw_1320", "text": "What is the next in this series: Los Angeles, Seoul, Barcelona, Atlanta?"}
+{"dataset": "trivia_qa", "subset": "rc.wikipedia", "source_id": "odql_14513", "text": "What was the first name of Labour Prime Minister James Callaghan?"}
+{"dataset": "trivia_qa", "subset": "unfiltered", "source_id": "qb_2660", "text": "James Bond is sent to which island at the beginning of the film ‘Dr No’?"}
+{"dataset": "trivia_qa", "subset": "rc.web.nocontext", "source_id": "qw_933", "text": "Which author disappeared on a walk along the River Ouse near Monk's House, Rodmell, Sussex, England, in March 1941, leaving letters for her husband Leonard and her sister, the painter Vanessa Bell?"}
+{"dataset": "trivia_qa", "subset": "unfiltered", "source_id": "odql_2478", "text": "How wide, in feet, is a table tennis table?"}
+{"dataset": "trivia_qa", "subset": "rc", "source_id": "wh_4221", "text": "What feature of Japanese life is the Shinkansen ?"}
+{"dataset": "trivia_qa", "subset": "rc.nocontext", "source_id": "qw_4467", "text": "Octavian and Antony defeated Brutus and Cassius in 42BC near which city in East Macedonia?"}
+{"dataset": "trivia_qa", "subset": "unfiltered", "source_id": "odql_12407", "text": "At what time of the day is the Ceremony of the Keys held in the Tower of London?"}
+{"dataset": "trivia_qa", "subset": "rc.nocontext", "source_id": "qw_9346", "text": "Anthony Wilding is the only New Zealander in what sport's Hall of Fame?"}
+{"dataset": "trivia_qa", "subset": "rc.nocontext", "source_id": "odql_5980", "text": "Who discovered the chemical elements Potassium, Sodium and Calcium?"}
+{"dataset": "trivia_qa", "subset": "rc.web.nocontext", "source_id": "odql_4364", "text": "Which word completes the title of the 1987 Booker Prize winner 'Moon ..........'?"}
+{"dataset": "trivia_qa", "subset": "rc", "source_id": "qb_9470", "text": "The Allan Border medal is awarded annually for which sport?"}
+{"dataset": "trivia_qa", "subset": "rc.nocontext", "source_id": "qb_7444", "text": "Sherborne Castle is in which English county?"}
+{"dataset": "trivia_qa", "subset": "unfiltered.nocontext", "source_id": "bb_4149", "text": "What tool has a grind, spine, fuller and ricasso?"}
+{"dataset": "trivia_qa", "subset": "unfiltered.nocontext", "source_id": "sfq_21089", "text": "Which house did Harry Potter belong to in Hogwarts School?"}
+{"dataset": "trivia_qa", "subset": "unfiltered.nocontext", "source_id": "sfq_21416", "text": "In 2014, which Football League team overtook Preston North End's 125 year record for the longest unbeaten run of a manager since the start of his tenure?"}
+{"dataset": "trivia_qa", "subset": "unfiltered", "source_id": "sfq_1782", "text": "The Prime Minister's Question Time is held on which weekday?"}
+{"dataset": "trivia_qa", "subset": "rc.wikipedia.nocontext", "source_id": "dpql_6308", "text": "What is the common name of the small flowering tree ‘syringa’?"}
+{"dataset": "trivia_qa", "subset": "rc.wikipedia.nocontext", "source_id": "qz_691", "text": "Lanzarote and Tenerife are part of which group of islands?"}
+{"dataset": "trivia_qa", "subset": "rc.wikipedia", "source_id": "bt_3122", "text": "What is added to iced tea to make the drink called an Arnold Palmer"}
+{"dataset": "trivia_qa", "subset": "unfiltered", "source_id": "qb_2131", "text": "In which Gilbert and Sullivan opera does Frederic only count his Leap Year birthdays, so his apprenticeship would not end until he is in his eighties?"}
+{"dataset": "trivia_qa", "subset": "rc", "source_id": "odql_8254", "text": "What is the first name of the brother of the Duchess of Cambridge, who read the lesson at her wedding?"}
+{"dataset": "trivia_qa", "subset": "rc", "source_id": "dpql_987", "text": "Which god rode an eight-legged horse called Sleipnir?"}
+{"dataset": "trivia_qa", "subset": "rc.web", "source_id": "sfq_20553", "text": "In English law, what name is given to a written statement of fact voluntarily made by a person under oath or affirmation?"}
+{"dataset": "trivia_qa", "subset": "rc.wikipedia.nocontext", "source_id": "wh_225", "text": "Which Englishman, born in 1955, a computer scientist and professor is credited with the invention of the World Wide Web?"}
+{"dataset": "trivia_qa", "subset": "rc.nocontext", "source_id": "qg_3827", "text": "With a length of up to 10 feet, what name is given to the largest of concert pianos?"}
+{"dataset": "trivia_qa", "subset": "rc.nocontext", "source_id": "bb_4245", "text": "What must an earthly spacecraft exit for its travel to be interstellar?"}
+{"dataset": "trivia_qa", "subset": "rc.wikipedia.nocontext", "source_id": "sfq_18183", "text": "In Arthurian legend, what is the name of Lancelot's castle?"}
+{"dataset": "trivia_qa", "subset": "rc.web.nocontext", "source_id": "odql_1165", "text": "Which Christian Saint talked of the heavenly bodies as Brother Sun and Sister Moon?"}
+{"dataset": "trivia_qa", "subset": "rc", "source_id": "qf_2155", "text": "Powdered almonds, eggs and sugar are used to make what?"}
+{"dataset": "trivia_qa", "subset": "rc.nocontext", "source_id": "odql_6227", "text": "Which family of birds has species called Little, Caspian and Fairy?"}
+{"dataset": "trivia_qa", "subset": "rc.wikipedia.nocontext", "source_id": "qw_5658", "text": "\"What is the country of origin of the cheese called \"\"feta\"\"?\""}
+{"dataset": "trivia_qa", "subset": "rc.web", "source_id": "sfq_1425", "text": "What name is given to the Aboriginal device, which is used to propel a spear more forcibly and accurately?"}
+{"dataset": "trivia_qa", "subset": "rc.nocontext", "source_id": "jp_1219", "text": "What part of the body produces Vitamin D?"}
+{"dataset": "trivia_qa", "subset": "rc.wikipedia", "source_id": "qz_5811", "text": "The Briish Airways subsidiary BA Connect was sold to which other airline?"}
+{"dataset": "trivia_qa", "subset": "unfiltered.nocontext", "source_id": "dpql_227", "text": "What is the strong material found in the cell walls of plants?"}
+{"dataset": "trivia_qa", "subset": "rc", "source_id": "qw_16555", "text": "For what sport is the Cresta Run, built in Switzerland in 1884, used?"}
+{"dataset": "trivia_qa", "subset": "unfiltered.nocontext", "source_id": "bb_1465", "text": "What was the very Greek middle name of Greek shipping tycoon Aristotle Onassis?"}
+{"dataset": "trivia_qa", "subset": "rc.nocontext", "source_id": "qz_4203", "text": "Which P.M was voted pipe smoker of the year?"}
+{"dataset": "trivia_qa", "subset": "unfiltered", "source_id": "qw_2065", "text": "The Democratic Party is one of the main parties in US politics."}
+{"dataset": "trivia_qa", "subset": "rc.nocontext", "source_id": "dpql_1980", "text": "The four Inns of Court are Gray’s Inn, Inner Temple, Middle Temple and which other?"}
+{"dataset": "trivia_qa", "subset": "rc.nocontext", "source_id": "odql_10682", "text": "Which Latin word is used for a recess in a church wall containing a basin for washing holy vessels?"}
+{"dataset": "trivia_qa", "subset": "unfiltered.nocontext", "source_id": "sfq_6202", "text": "\"In Greek mythology, which character carried a rod called \"\"a caduceus\"\"?"}
+{"dataset": "trivia_qa", "subset": "rc.wikipedia.nocontext", "source_id": "qw_15685", "text": "Glacier-formed fjords can be found on the coasts of Norway, Iceland, Greenland, Alaska, north east Siberia, the Kerguelen Islands, New Zealand, British Columbia, Nunavut, Washington and where else?"}
+{"dataset": "trivia_qa", "subset": "rc.nocontext", "source_id": "bt_987", "text": "Who led the Branch Dravidian sect that was largely destroyed in a fire at Waco in Texas"}
+{"dataset": "trivia_qa", "subset": "rc.nocontext", "source_id": "sfq_17645", "text": "Wales won the Rugby Union Six Nations competition in 2013, which country finished bottom?"}
+{"dataset": "trivia_qa", "subset": "rc.web.nocontext", "source_id": "qg_1146", "text": "Which scandal ridden singer, who married his 13 year old second cousin, is cousins with scandal plagued televangelist Jimmy Lee Swaggart?"}
+{"dataset": "trivia_qa", "subset": "rc", "source_id": "odql_4867", "text": "Albert II became King of the Belgians in 1993 on the death of his brother."}
+{"dataset": "trivia_qa", "subset": "rc.web.nocontext", "source_id": "sfq_23628", "text": "What type of product was the failed brand Dasani?"}
+{"dataset": "trivia_qa", "subset": "unfiltered", "source_id": "sfq_1485", "text": "What is the SI unit of frequency?"}
+{"dataset": "trivia_qa", "subset": "unfiltered", "source_id": "sfq_21609", "text": "Who presents the Channel 4 property programme 'Grand Designs'?"}
+{"dataset": "trivia_qa", "subset": "rc.nocontext", "source_id": "odql_1074", "text": "Which US Secretary of State resigned from Jimmy Carter's administration in 1980 over the failed attempt to rescue the US hostages in Iran?"}
+{"dataset": "trivia_qa", "subset": "rc.wikipedia", "source_id": "sfq_16567", "text": "Who was the second athlete to run a mile in under 4 minutes?"}
+{"dataset": "trivia_qa", "subset": "rc.nocontext", "source_id": "qz_1698", "text": "No Mean City by Maggie Bell is the theme tune to which long running TV detective show?"}
+{"dataset": "trivia_qa", "subset": "rc", "source_id": "tc_2984", "text": "What name is given to the rocks swallowed by dinosaurs to assist their digestion?"}
+{"dataset": "trivia_qa", "subset": "rc", "source_id": "sfq_1439", "text": "What is the country of origin of Gruyere cheese?"}
+{"dataset": "trivia_qa", "subset": "rc", "source_id": "qb_8970", "text": "The head of the judiciary in England and Wales has which title?"}
+{"dataset": "trivia_qa", "subset": "rc", "source_id": "bb_5428", "text": "Which famous pottery city is a (1910) merger of its original town and the adjacent Tunstall, Burslem, Hanley, Fenton and Longton?"}
+{"dataset": "trivia_qa", "subset": "rc", "source_id": "odql_573", "text": "Which element was named Dephlogisticated Air by its discoverer, the French chemist Lavoisier who gave it this common name?"}
+{"dataset": "trivia_qa", "subset": "rc.nocontext", "source_id": "qg_4110", "text": "What poker variant, a staple of the World Series of Poker, features a deal of 2 cards, and 5 community cards, known as the flop, the turn, and the river?"}
+{"dataset": "trivia_qa", "subset": "rc.web.nocontext", "source_id": "bb_3234", "text": "Likud, meaning 'the consolidation', is the leading conservative political party (at 2012) of which country?"}
+{"dataset": "trivia_qa", "subset": "rc", "source_id": "sfq_21030", "text": "Which Shakespeare play of 1591 opens with the funeral of King Henry V?"}
+{"dataset": "trivia_qa", "subset": "unfiltered", "source_id": "sfq_14551", "text": "What is the largest island in the Pacific Ocean?"}
+{"dataset": "trivia_qa", "subset": "rc.nocontext", "source_id": "dpql_5105", "text": "Sally Ann Howes was 38-years-old when she played the female lead in which family film?"}
+{"dataset": "trivia_qa", "subset": "rc.wikipedia.nocontext", "source_id": "tc_1070", "text": "Benina international airport is in which country?"}
+{"dataset": "trivia_qa", "subset": "rc.web", "source_id": "sfq_14910", "text": "'Paralympics' is a combination of Olympics and what other word?"}
+{"dataset": "trivia_qa", "subset": "rc.web.nocontext", "source_id": "dpql_5838", "text": "TV."}
+{"dataset": "trivia_qa", "subset": "rc.web.nocontext", "source_id": "qw_3023", "text": "What name was given to the original owner of the skull found in Sussex in 1911 that was believed at the time to be from one of the oldest human race in Europe?"}
+{"dataset": "trivia_qa", "subset": "rc.wikipedia", "source_id": "qw_11328", "text": "\"\"\"Organum\"\", \"\"centonisation\"\", \"\"12 mode\"\", \"\"climacus\"\", \"\"Bishop of Milan\"\", and \"\"neum\"\" are terms most often heard when talking of...?\""}
+{"dataset": "trivia_qa", "subset": "rc", "source_id": "tc_2890", "text": "Where do the Graafian follicles develop?"}
+{"dataset": "trivia_qa", "subset": "rc.nocontext", "source_id": "qw_16132", "text": "\"In Western films, what is a \"\"saloon\"\"?\""}
+{"dataset": "trivia_qa", "subset": "rc", "source_id": "dpql_5954", "text": "What was Elvis Presley’s first film – the only one in which he did not get top billing?"}
+{"dataset": "trivia_qa", "subset": "rc", "source_id": "bb_4893", "text": "US engineer/industrialist George Pullman (1831-1897) is eponymously associated with travel by?"}
+{"dataset": "trivia_qa", "subset": "rc.wikipedia", "source_id": "qg_3100", "text": "To boldly go where no television series had gone before, what classic tv series had it's debut on NBC on Sept 8, 1966?"}
+{"dataset": "trivia_qa", "subset": "unfiltered", "source_id": "sfq_18021", "text": "Which US President had the shortest term of office - one month?"}
+{"dataset": "trivia_qa", "subset": "unfiltered", "source_id": "wh_2843", "text": "Which British Prime Minister, born in Chelsea in February 1894, died on December 29th 1986 aged 92 ?"}
+{"dataset": "trivia_qa", "subset": "rc.nocontext", "source_id": "odql_3005", "text": "What was the middle name of the character 'Bob Collier' from the t.v."}
+{"dataset": "trivia_qa", "subset": "rc.wikipedia.nocontext", "source_id": "qz_4084", "text": "How many lions guard Nelson's Column?"}
+{"dataset": "trivia_qa", "subset": "rc.wikipedia.nocontext", "source_id": "qw_14130", "text": "What were the first names of the Irish poet and dramatist W B Yeats?"}
+{"dataset": "trivia_qa", "subset": "rc", "source_id": "bt_1210", "text": "In what year were ball girls first used at Wimbledon"}
+{"dataset": "trivia_qa", "subset": "rc.web.nocontext", "source_id": "odql_11575", "text": "Akrotiri and Dhekelia are British Overseas Territories on which island?"}
+{"dataset": "trivia_qa", "subset": "rc.wikipedia.nocontext", "source_id": "bb_8136", "text": "Passat, the Volkswagen car model, is German for a type of what?"}
+{"dataset": "trivia_qa", "subset": "rc", "source_id": "sfq_24498", "text": "Sparrows belong to which family of birds?"}
+{"dataset": "trivia_qa", "subset": "rc.nocontext", "source_id": "bt_39", "text": "What make of car was Mike Hawthorn driving when he won the F1 World Drivers Championship in 1958"}
+{"dataset": "trivia_qa", "subset": "rc.web.nocontext", "source_id": "qb_8087", "text": "A spleenwort is what type of plant?"}
+{"dataset": "trivia_qa", "subset": "rc", "source_id": "odql_4742", "text": "Since 2004, 'The Gay and Lesbian Kingdom of the Coral Sea Islands' has fought for independence from which country?"}
+{"dataset": "trivia_qa", "subset": "unfiltered", "source_id": "dpql_5839", "text": "Music."}
+{"dataset": "trivia_qa", "subset": "rc.nocontext", "source_id": "qb_7357", "text": "‘The Road to ‘where’ is the fifth ‘Road’ film starring Bob Hope and Bing Crosby?"}
+{"dataset": "trivia_qa", "subset": "rc.web", "source_id": "tc_1437", "text": "Who won baseball's first World Series of the 50s?"}
+{"dataset": "trivia_qa", "subset": "unfiltered.nocontext", "source_id": "qw_15722", "text": "Which one of these flightless birds would be most likely to be tall enough to be able to walk over the others?"}
+{"dataset": "trivia_qa", "subset": "rc.web.nocontext", "source_id": "odql_9150", "text": "What was the name of the oil tanker that ran aground in Alaskain March 1989 spilling over 10 million gallons of oil?"}
+{"dataset": "trivia_qa", "subset": "rc.wikipedia.nocontext", "source_id": "jp_2137", "text": "What country is home to Coptic Christians?"}
+{"dataset": "trivia_qa", "subset": "rc.wikipedia", "source_id": "sfq_25148", "text": "Which 2013 film tells the story of P L Travers (authoress of Mary Poppins) meeting with Walt Disney?"}
+{"dataset": "trivia_qa", "subset": "unfiltered.nocontext", "source_id": "qb_8783", "text": "Film actor Jeanne Claud van Dam is nicknamed The ‘what’ From Brussels?"}
+{"dataset": "trivia_qa", "subset": "rc.nocontext", "source_id": "sfq_20103", "text": "What is the currency of Iran?"}
+{"dataset": "trivia_qa", "subset": "unfiltered", "source_id": "qw_4156", "text": "What is the name for the point on the earth's surface that is directly above an earthquake?"}
+{"dataset": "trivia_qa", "subset": "rc.nocontext", "source_id": "qf_2212", "text": "What was civil rights leader Martin Luther King's profession?"}
+{"dataset": "trivia_qa", "subset": "rc.nocontext", "source_id": "odql_4376", "text": "What is the two-word name of the airport at Yeadon in West Yorkshire?"}
+{"dataset": "trivia_qa", "subset": "rc", "source_id": "odql_492", "text": "Which is the only city in the Irish province of Connacht?"}
+{"dataset": "trivia_qa", "subset": "rc.web.nocontext", "source_id": "qw_9758", "text": "How many players per side are allowed on the field in a game of rugby league?"}
+{"dataset": "trivia_qa", "subset": "rc", "source_id": "odql_14070", "text": "Which American city is home to the Basketball side 'The Wizards'?"}
+{"dataset": "trivia_qa", "subset": "rc.wikipedia.nocontext", "source_id": "qb_9360", "text": "In humans, edentulism is the complete loss of what?"}
+{"dataset": "trivia_qa", "subset": "rc.web.nocontext", "source_id": "qg_3786", "text": "Now owned by Kellogg, Wally Amos started the Famous Amos company in 1975 to produce what?"}
+{"dataset": "trivia_qa", "subset": "rc.nocontext", "source_id": "qw_270", "text": "What name was applied to legislation regarding the sale of liquor in the U S A between 1919 to 1933?"}
+{"dataset": "trivia_qa", "subset": "rc.wikipedia.nocontext", "source_id": "sfq_24307", "text": "The Dance of the Seven Veils is part of which opera by Richard Strauss?"}
+{"dataset": "trivia_qa", "subset": "unfiltered.nocontext", "source_id": "qw_9097", "text": "Which country is the world's largest producer of rice?"}
+{"dataset": "trivia_qa", "subset": "rc.web.nocontext", "source_id": "jp_1513", "text": "Matzo is traditionally eaten during what holiday?"}
+{"dataset": "trivia_qa", "subset": "unfiltered", "source_id": "tc_379", "text": "What was Truman Capote's last name before he was adopted by his stepfather?"}
+{"dataset": "trivia_qa", "subset": "unfiltered.nocontext", "source_id": "wh_916", "text": "01392 is the national dialling code for which southern English city?"}
+{"dataset": "trivia_qa", "subset": "rc", "source_id": "sfq_633", "text": "\"Which Lawn Tennis player of the 1970's later had a brief acting career, appearing in the 1983 James Bond film, \"\"Octopussy\"\"?\""}
+{"dataset": "trivia_qa", "subset": "rc.web.nocontext", "source_id": "odql_3267", "text": "Which country's name means 'land of silver'?"}
+{"dataset": "trivia_qa", "subset": "rc", "source_id": "bt_443", "text": "What was the christian name of Captain Mainwaring in Dad's Army"}
+{"dataset": "trivia_qa", "subset": "rc.wikipedia.nocontext", "source_id": "qf_179", "text": "Who had a chart hit in 1981 with Vienna?"}
+{"dataset": "trivia_qa", "subset": "rc.nocontext", "source_id": "dpql_1468", "text": "Which Shakespeare play has the siege of Troy as its setting?"}
+{"dataset": "trivia_qa", "subset": "rc.wikipedia.nocontext", "source_id": "jp_1842", "text": "What is the world's most famous sled dog race?"}
+{"dataset": "trivia_qa", "subset": "rc.nocontext", "source_id": "sfq_10135", "text": "Created by Nintendo in the 1980's, what is the profession of the video game character (Super) Mario?"}
+{"dataset": "trivia_qa", "subset": "rc", "source_id": "wh_2835", "text": "Alternatively known as Austrpphlebia Costalis, what type of insect is a Southern Giant Darner ?"}
+{"dataset": "trivia_qa", "subset": "rc.wikipedia", "source_id": "qb_8856", "text": "Which bridge in London was dubbed the ‘Wobbly Bridge’?"}
+{"dataset": "trivia_qa", "subset": "rc.web.nocontext", "source_id": "qf_621", "text": "Which is the closet planet to the sun to have a moon ?"}
+{"dataset": "trivia_qa", "subset": "rc.web.nocontext", "source_id": "bb_9191", "text": "Pisciculture is the breeding and rearing of what?"}
+{"dataset": "trivia_qa", "subset": "rc.wikipedia", "source_id": "sfq_15847", "text": "What is the English name for plants of the Erica genus?"}
+{"dataset": "trivia_qa", "subset": "rc.web.nocontext", "source_id": "dpql_5865", "text": "In the Harry Potter books, what is the name of Ron’s pet rat?"}
+{"dataset": "trivia_qa", "subset": "rc.nocontext", "source_id": "sfq_15425", "text": "Which letter in Morse Code is represented by a single dash?"}
+{"dataset": "trivia_qa", "subset": "unfiltered.nocontext", "source_id": "qf_1943", "text": "Which US state has the largest population?"}
+{"dataset": "trivia_qa", "subset": "rc.nocontext", "source_id": "odql_2905", "text": "Telling the story of a Chameleon stranded in the Mojave Desert, which animated film, featuring voice casting by Johnny Depp, Isla Fisher and Bill Nighy, is the second highest grossing film worldwide of 2011 so far?"}
+{"dataset": "trivia_qa", "subset": "unfiltered", "source_id": "qf_1003", "text": "The 'Congo' river is now known as what?"}
+{"dataset": "trivia_qa", "subset": "rc.web", "source_id": "dpql_273", "text": "Who thought Sebastian Moran ‘the second most dangerous man in London?"}
+{"dataset": "trivia_qa", "subset": "rc.nocontext", "source_id": "jp_2594", "text": "\"\"\"Apocalyse Now\"\" is a modern interpretation of what book by Joseph Conrad?\""}
+{"dataset": "trivia_qa", "subset": "rc.wikipedia", "source_id": "sfq_25875", "text": "Who is the current presenter of I’m Sorry I Haven’t a Clue?"}
+{"dataset": "trivia_qa", "subset": "unfiltered.nocontext", "source_id": "sfq_23682", "text": "Designed by Edvard Eriksen, which bronze statue in Copenhagen is based on a Hans Christian Andersen character?"}
+{"dataset": "trivia_qa", "subset": "unfiltered.nocontext", "source_id": "qf_2642", "text": "Which animal lives in a holt?"}
+{"dataset": "trivia_qa", "subset": "rc.web.nocontext", "source_id": "wh_3324", "text": "Who is the queen of Denmark ?"}
+{"dataset": "trivia_qa", "subset": "rc.web.nocontext", "source_id": "tc_800", "text": "What was the name of NASA's manned space project whose astronauts were chosen in 1959?"}
+{"dataset": "trivia_qa", "subset": "unfiltered.nocontext", "source_id": "qw_11869", "text": "\"What Shakespearean play begins \"\"When shall we three meet again, In thunder, lightning or in rain\"\"?\""}
+{"dataset": "trivia_qa", "subset": "rc.nocontext", "source_id": "sfq_11868", "text": "\"Who had a UK No.1 album, in 2006, with \"\"Back to Black\"\"?\""}
+{"dataset": "trivia_qa", "subset": "rc", "source_id": "wh_3407", "text": "Who, along with Leslie Bricusse, wrote the lyrics for the James Bond film song Goldfinger?"}
+{"dataset": "trivia_qa", "subset": "rc.web", "source_id": "wh_3063", "text": "Which breed of Terrier gives its name to a farmer who appeared in the novel Guy Mannering by Sir Walter Scott?"}
+{"dataset": "trivia_qa", "subset": "rc.web.nocontext", "source_id": "qw_1514", "text": "In what year did the airship Graf Zeppelin complete the first round-the-world flight in September, and inaugurate the first commercial transatlantic service in October?"}
+{"dataset": "trivia_qa", "subset": "rc.web", "source_id": "sfq_25639", "text": "Which artist born in what is now Belgium (c."}
+{"dataset": "trivia_qa", "subset": "rc.nocontext", "source_id": "bb_6654", "text": "Which is the lightest element?"}
+{"dataset": "trivia_qa", "subset": "rc.nocontext", "source_id": "jp_2982", "text": "\"What actor based his character in \"\"Magic Mike\"\" off of his own experience as a stripper?\""}
+{"dataset": "trivia_qa", "subset": "rc.nocontext", "source_id": "qg_2642", "text": "“From the Halls of Montezuma, To the shores of Tripoli; We fight our country’s battles” promises which branch of the US military?"}
+{"dataset": "trivia_qa", "subset": "unfiltered", "source_id": "qw_8064", "text": "According to Greek legend, which of the 9 Muses was the muse of Choral poetry?"}
+{"dataset": "trivia_qa", "subset": "unfiltered.nocontext", "source_id": "sfq_21868", "text": "From what type of wood was Thor Heyerdahl's raft Kon-Tiki made?"}
+{"dataset": "trivia_qa", "subset": "rc.wikipedia.nocontext", "source_id": "jp_3909", "text": "Who was the Supreme Commander of the Allied forces in Europe during WWII?"}
+{"dataset": "trivia_qa", "subset": "rc.nocontext", "source_id": "qw_11286", "text": "Jay Ward and Alex Anderson created which character which first appeared on American TV in 1959?"}
+{"dataset": "trivia_qa", "subset": "rc.web.nocontext", "source_id": "sfq_17963", "text": "What name, geometrically, is given to a circle which rolls around inside or outside another circle?"}
+{"dataset": "trivia_qa", "subset": "rc.web", "source_id": "qb_8158", "text": "In the US television show ‘The Sopranos’, what is the name of the club in Long Beach, New Jersey, in which Christopher set Adriana up as manager?"}
+{"dataset": "trivia_qa", "subset": "rc.wikipedia.nocontext", "source_id": "odql_12660", "text": "Smith's Lawn is a famed venue in which sport?"}
+{"dataset": "trivia_qa", "subset": "rc.wikipedia", "source_id": "sfq_21274", "text": "How many dots are used to make up each letter in the Braille system?"}
+{"dataset": "trivia_qa", "subset": "rc", "source_id": "odql_6857", "text": "In 'Emmerdale', which family has over the years, included 'Butch', 'Nellie', 'Mandy' and 'Debbie'?"}
+{"dataset": "trivia_qa", "subset": "rc.nocontext", "source_id": "sfq_7997", "text": "Who was the Vanity Fair photographer responsible for the cover featuring a naked, pregnant Demi Moore?"}
+{"dataset": "trivia_qa", "subset": "rc.nocontext", "source_id": "odql_12691", "text": "Who wrote Nausea, Troubled Sleep and The Age of Reason?"}
+{"dataset": "trivia_qa", "subset": "unfiltered", "source_id": "sfq_19901", "text": "Which poet wrote 'The Raven'?"}
+{"dataset": "trivia_qa", "subset": "rc.nocontext", "source_id": "dpql_4764", "text": "The Press and Journal is one newspaper serving which Scottish city?"}
+{"dataset": "trivia_qa", "subset": "rc.wikipedia.nocontext", "source_id": "bt_868", "text": "What is the proper name for the basket of a hot air balloon"}
+{"dataset": "trivia_qa", "subset": "rc.wikipedia", "source_id": "odql_11042", "text": "In the 1974 comedy TV series 'It Ain't Half Hot Mum', who played the part of 'Rangi Ram'?"}
+{"dataset": "trivia_qa", "subset": "rc.nocontext", "source_id": "sfq_18026", "text": "To the nearest whole number what is the value of absolute zero on the Celsius scale?"}
+{"dataset": "trivia_qa", "subset": "rc.web", "source_id": "odql_1798", "text": "Which UK instrumental group had top 20 hit singles in the 1960’s with “Globetrotter” and “Robot”?"}
+{"dataset": "trivia_qa", "subset": "rc.wikipedia", "source_id": "qf_2954", "text": "Louis the XVI France only two what were recorded in his lifetime?"}
+{"dataset": "trivia_qa", "subset": "rc", "source_id": "qg_65", "text": "First formulated in 1959 (6 years before being offered on NASA flights) what was the original flavor of Tang?"}
+{"dataset": "trivia_qa", "subset": "rc.wikipedia.nocontext", "source_id": "odql_10755", "text": "In which European country was the Carnation Revolution on April 25th 1974?"}
+{"dataset": "trivia_qa", "subset": "unfiltered", "source_id": "sfq_2908", "text": "Which Dickens character was apprenticed to 'Old Fezziwig'?"}
+{"dataset": "trivia_qa", "subset": "rc.nocontext", "source_id": "qw_5438", "text": "Which tennis player held the top ranking for 160 consecutive weeks from July 1974, to August 1977, and an additional eight times during his career (a total of 268 weeks), winning 8 Grand Slam singles titles and two Grand Slam doubles titles (with Ilie Nstase)?"}
+{"dataset": "trivia_qa", "subset": "unfiltered.nocontext", "source_id": "jp_702", "text": "What iconic album cover featured the four band members walking across a street in single file?"}
+{"dataset": "trivia_qa", "subset": "rc", "source_id": "bb_2266", "text": "What is the darkly common name for the plague which killed 30-50% of Europe between 1347-52?"}
+{"dataset": "trivia_qa", "subset": "rc.wikipedia", "source_id": "tc_87", "text": "The Queen Elizabeth liner was destroyed by fire in the 70s in which harbour?"}
+{"dataset": "trivia_qa", "subset": "rc.web.nocontext", "source_id": "qb_4257", "text": "Which television series, created by Russell T Davies, is a spin-off from Doctor Who?"}
+{"dataset": "trivia_qa", "subset": "unfiltered", "source_id": "sfq_1622", "text": "Which ancient civilisation had its capital at Knossos on the island of Crete?"}
+{"dataset": "trivia_qa", "subset": "rc.nocontext", "source_id": "tc_1101", "text": "What number Star Trek movie was called The Wrath of Khan?"}
+{"dataset": "trivia_qa", "subset": "rc.wikipedia.nocontext", "source_id": "qb_5783", "text": "In medicine, dysuria is pain or difficulty in doing what?"}
+{"dataset": "trivia_qa", "subset": "rc.nocontext", "source_id": "sfq_20171", "text": "Which river flows through many German cities including Dresden and Magdeburg?"}
+{"dataset": "trivia_qa", "subset": "unfiltered.nocontext", "source_id": "sfq_25856", "text": "British Toggenburg is a breed of which animal?"}
+{"dataset": "trivia_qa", "subset": "rc.wikipedia", "source_id": "bb_9031", "text": "What dairy term is used to describe turnover or loss of customers, usually expressed as an annual percentage?"}
+{"dataset": "trivia_qa", "subset": "rc", "source_id": "bb_4712", "text": "Narendra Modi achieved what notable title in May 2014?"}
+{"dataset": "trivia_qa", "subset": "rc.nocontext", "source_id": "odql_14347", "text": "Which Spanish naval base was subjected to a siege by the French from February 1810 to August 1812?"}
+{"dataset": "trivia_qa", "subset": "rc.nocontext", "source_id": "odql_14560", "text": "Which type of aircraft did Amy Johnson fly from England to Australia in 1930?"}
+{"dataset": "trivia_qa", "subset": "rc.web.nocontext", "source_id": "qw_15505", "text": "What is a document that sets out the disposal of assets after death?"}
+{"dataset": "trivia_qa", "subset": "unfiltered.nocontext", "source_id": "wh_4025", "text": "If you were served food in a French restaurant 'En Brochette' how exactly would it be presented ?"}
+{"dataset": "trivia_qa", "subset": "rc", "source_id": "qb_2288", "text": "‘The Dream of Gerontius’ is the 1900 work of which English composer?"}
+{"dataset": "trivia_qa", "subset": "unfiltered.nocontext", "source_id": "bb_3119", "text": "What Mr Men character is orange with ridiculously long arms and a blue hat?"}
+{"dataset": "trivia_qa", "subset": "rc.web", "source_id": "qw_6148", "text": "Who stands off-stage and reminds actors of forgotten lines during a performance?"}
+{"dataset": "trivia_qa", "subset": "rc.web", "source_id": "dpql_3468", "text": "Who produced the illustrated collection of poems Songs of Innocence and Experience?"}
+{"dataset": "trivia_qa", "subset": "rc", "source_id": "sfq_8427", "text": "In which country is 'Ninety Mile Beach'?"}
+{"dataset": "trivia_qa", "subset": "rc.nocontext", "source_id": "qw_15576", "text": "\"What is the setting for George Orwell's book \"\"Animal Farm\"\"?\""}
+{"dataset": "trivia_qa", "subset": "unfiltered", "source_id": "qb_6227", "text": "Scafell Pike is the highest mountain in which European country?"}
+{"dataset": "trivia_qa", "subset": "rc.web", "source_id": "sfq_12463", "text": "\"The game of \"\"conkers\"\" goes back to Roman times, using what?\""}
+{"dataset": "trivia_qa", "subset": "rc.web.nocontext", "source_id": "sfq_25464", "text": "Which actor plays Father Brown in the latest T.V."}
+{"dataset": "trivia_qa", "subset": "rc.web", "source_id": "odql_1434", "text": "Alphabetically, which is the last country in South America?"}
+{"dataset": "trivia_qa", "subset": "unfiltered.nocontext", "source_id": "qz_4414", "text": "Which sea lies between Italy and the former Yugoslavia?"}
+{"dataset": "trivia_qa", "subset": "rc.web.nocontext", "source_id": "qb_809", "text": "In May 1940, who became British Prime Minister after the resignation of Neville Chamberlain?"}
+{"dataset": "trivia_qa", "subset": "unfiltered", "source_id": "qz_218", "text": "Which scientist was born in Germany in 1879, became a Swiss citizen in 1901 and later became a US citizen in 1940?"}
+{"dataset": "trivia_qa", "subset": "rc.web.nocontext", "source_id": "qg_2275", "text": "What famed Welsh pirate lends his name to a brand of rum?"}
+{"dataset": "trivia_qa", "subset": "rc.web", "source_id": "odql_13785", "text": "Who wrote the lyrics for 'Sing', written to celebrate the Queen's Diamond Jubilee?"}
+{"dataset": "trivia_qa", "subset": "rc.web", "source_id": "sfq_594", "text": "In which British city is the National Railway Museum?"}
+{"dataset": "trivia_qa", "subset": "unfiltered.nocontext", "source_id": "sfq_24820", "text": "In the Bible, who was the blind beggar that Jesus cured in Jericho?"}
+{"dataset": "trivia_qa", "subset": "rc.nocontext", "source_id": "qw_575", "text": "\"Who wrote \"\"Auld Lang Syne\"\" in 1789?\""}
+{"dataset": "trivia_qa", "subset": "rc.nocontext", "source_id": "sfq_15234", "text": "In which Dodie Smith novel, twice filmed, does Cruella de Vil appear?"}
+{"dataset": "trivia_qa", "subset": "rc.wikipedia.nocontext", "source_id": "sfq_682", "text": "Chennai, formerly Madras, is the capital of which Indian state?"}
+{"dataset": "trivia_qa", "subset": "unfiltered", "source_id": "qb_2237", "text": "How many times has jockey Richard Dunwoody won the English Grand National?"}
+{"dataset": "trivia_qa", "subset": "rc.nocontext", "source_id": "qb_4810", "text": "Who plays Isobel Crawley in the UK television series ‘Downton Abbey’?"}
+{"dataset": "trivia_qa", "subset": "rc.nocontext", "source_id": "sfq_23536", "text": "Author Harper Lee announced the sequel in 2015 of her only ever book, what was the name of that sequel?"}
+{"dataset": "trivia_qa", "subset": "rc", "source_id": "odql_15098", "text": "Part III of which oratorio by Joseph Haydn takes place in the Garden of Eden?"}
+{"dataset": "trivia_qa", "subset": "unfiltered.nocontext", "source_id": "qb_549", "text": "The seven psalms – 6, 32, 38, 51, 102, 130 and 143 are known collectively as what?"}
+{"dataset": "trivia_qa", "subset": "rc.nocontext", "source_id": "sfq_16624", "text": "How many symphonies did Jean Sibelius compose?"}
+{"dataset": "trivia_qa", "subset": "unfiltered.nocontext", "source_id": "tb_1783", "text": "What custom in the world of classical music originates from the belief that at the premiere of a Handel's musical event, King George II did so and the crowd followed suit?"}
+{"dataset": "trivia_qa", "subset": "unfiltered", "source_id": "sfq_13105", "text": "Name any one of the three British warships involved in the attack on the German pocket battleship Graf Spee in December 1939."}
+{"dataset": "trivia_qa", "subset": "rc", "source_id": "dpql_2940", "text": "If you are suffering from myalgia, what part/parts of your body is/are affected?"}
+{"dataset": "trivia_qa", "subset": "rc.wikipedia", "source_id": "bb_4124", "text": "Elisabeth Beresford devised what fancifully famous litter recycling franchise in 1968?"}
+{"dataset": "trivia_qa", "subset": "rc.nocontext", "source_id": "wh_1489", "text": "\"What is the name of the actress who had become famous for her role as the possessed girl, Regan, in the 1973 film \"\"The Exorcist\"\"?\""}
+{"dataset": "trivia_qa", "subset": "rc.wikipedia.nocontext", "source_id": "qw_16725", "text": "The leader of the Catholic Church in England is based where?"}
+{"dataset": "trivia_qa", "subset": "unfiltered", "source_id": "qb_8697", "text": "Mr Grainger, Mr Humphries and Captain Peacock are all characters in which UK television series?"}
+{"dataset": "trivia_qa", "subset": "unfiltered.nocontext", "source_id": "sfq_22922", "text": "Which English monarch founded Eton College in the 15th century?"}
+{"dataset": "trivia_qa", "subset": "unfiltered", "source_id": "qw_4779", "text": "Which country, which is surrounded by South Africa, gained its independence from Britain in 1966?"}
+{"dataset": "trivia_qa", "subset": "unfiltered", "source_id": "sfq_18813", "text": "What is the only Shakespeare play with an animal in the title?"}
+{"dataset": "trivia_qa", "subset": "rc", "source_id": "dpql_5318", "text": "South Carolina is bordered by North Carolina and which other state?"}
+{"dataset": "trivia_qa", "subset": "unfiltered.nocontext", "source_id": "dpql_2844", "text": "According to his business card, the gangster Al Capone dealt in what?"}
+{"dataset": "trivia_qa", "subset": "rc", "source_id": "qw_15838", "text": "In 1892, who became the first heavyweight boxing champion to fight under the Marquess of Queensberry rules?"}
+{"dataset": "trivia_qa", "subset": "rc.web.nocontext", "source_id": "bb_8379", "text": "Pogonophobia is a fear of what (usually) male characteristic?"}
+{"dataset": "trivia_qa", "subset": "unfiltered", "source_id": "odql_15091", "text": "What is the middle name of TV producer William G Stewart?"}
+{"dataset": "trivia_qa", "subset": "rc.web", "source_id": "qg_3398", "text": "Graphite is a form of which chemical element?"}
+{"dataset": "trivia_qa", "subset": "rc.web", "source_id": "tc_1968", "text": "In La Cage Aux Folles, what was La Cage Aux Folles?"}
+{"dataset": "trivia_qa", "subset": "rc.wikipedia.nocontext", "source_id": "qf_2163", "text": "Which vegetable is the main ingredient of Sauerkraut?"}
+{"dataset": "trivia_qa", "subset": "unfiltered.nocontext", "source_id": "sfq_1258", "text": "In the children's TV programme 'The Flowerpot Men', what was the name of the tortoise?"}
+{"dataset": "trivia_qa", "subset": "rc.nocontext", "source_id": "bt_792", "text": "Which breed of terrier is the smallest in stature as recognised by The Kennel Club"}
+{"dataset": "trivia_qa", "subset": "unfiltered.nocontext", "source_id": "sfq_23592", "text": "In which year were Nobel Prizes first awarded"}
+{"dataset": "trivia_qa", "subset": "rc.web.nocontext", "source_id": "qw_3699", "text": "Which country returned to a democratic form of government after the death of dictator Juan Vincente Gomez in 1935?"}
+{"dataset": "trivia_qa", "subset": "rc.web.nocontext", "source_id": "bb_8387", "text": "In cricket what is a batsman's score of nought commonly called?"}
+{"dataset": "trivia_qa", "subset": "unfiltered", "source_id": "qb_6831", "text": "The ‘Goose Fair’ is held annually in which English city?"}
+{"dataset": "trivia_qa", "subset": "rc.web.nocontext", "source_id": "qg_2110", "text": "An acute angle is one that is less than 90 degrees, while an obtuse angle is between 90 and 180 degrees."}
+{"dataset": "trivia_qa", "subset": "rc", "source_id": "sfq_13579", "text": "Who succeeded Paul Stephenson as Commissioner of the Metropolitan Police?"}
+{"dataset": "trivia_qa", "subset": "rc.wikipedia", "source_id": "qb_1960", "text": "Army Day, the memorial day for the foundation of the People’s Liberation Army, is celebrated in China during which month of the year?"}
+{"dataset": "trivia_qa", "subset": "rc.nocontext", "source_id": "sfq_18865", "text": "What was the surname of the grandfather and grandson who were both Presidents of the USA?"}
+{"dataset": "trivia_qa", "subset": "unfiltered", "source_id": "jp_4133", "text": "\"What movie featured the songs \"\"Danger Zone\"\" and \"\"Take My Breath Away\"\"?\""}
+{"dataset": "trivia_qa", "subset": "rc.nocontext", "source_id": "bb_6416", "text": "A rock containing a mineral that can be viably extracted for use is called an?"}
+{"dataset": "trivia_qa", "subset": "rc.nocontext", "source_id": "sfq_6672", "text": "What name is given to the giant American Transport Plane the 'C5'?"}
+{"dataset": "trivia_qa", "subset": "rc.web", "source_id": "qb_8143", "text": "What is the name of the body of water that separates the Isle of Wight and mainland England?"}
+{"dataset": "trivia_qa", "subset": "rc.web", "source_id": "bb_4683", "text": "What short word prefixes these words to create five different words?"}
+{"dataset": "trivia_qa", "subset": "rc.web", "source_id": "dpql_557", "text": "Which mythical hero had a horse called Xanthus?"}
+{"dataset": "trivia_qa", "subset": "rc.nocontext", "source_id": "qg_3940", "text": "On Oct 28, 1886, the rotund one himself, Grover Cleveland, officially dedicated what US Landmark?"}
+{"dataset": "trivia_qa", "subset": "rc.nocontext", "source_id": "odql_14053", "text": "Who composed the music for the opera 'Parsifal'?"}
+{"dataset": "trivia_qa", "subset": "unfiltered.nocontext", "source_id": "bb_959", "text": "The US Navy announced in 2010 moderately successful testing of boat fuel containing what 'renewable' ingredient?"}
+{"dataset": "trivia_qa", "subset": "rc", "source_id": "qb_7724", "text": "Which Boeing airliner made its maiden flight in September 1981?"}
+{"dataset": "trivia_qa", "subset": "unfiltered", "source_id": "sfq_8498", "text": "What special name is given to Tibetan monks?"}
+{"dataset": "trivia_qa", "subset": "rc.wikipedia", "source_id": "qz_22", "text": "What country had the Roman name Hibernia?"}
+{"dataset": "trivia_qa", "subset": "unfiltered.nocontext", "source_id": "qf_1365", "text": "which film had song Springtime for Hitler?"}
+{"dataset": "trivia_qa", "subset": "unfiltered.nocontext", "source_id": "bt_3795", "text": "If you saw the sign Rauchen Verboten in Germany what is not allowed"}
+{"dataset": "trivia_qa", "subset": "rc.wikipedia.nocontext", "source_id": "sfq_15894", "text": "Lester B."}
+{"dataset": "trivia_qa", "subset": "rc.nocontext", "source_id": "sfq_4998", "text": "In which Spanish city does a famous bull run take place in Italy?"}
+{"dataset": "trivia_qa", "subset": "unfiltered", "source_id": "odql_1630", "text": "Which South African golfer won this month's US Masters tournament with a score of 14 under par?"}
+{"dataset": "trivia_qa", "subset": "rc", "source_id": "sfq_7417", "text": "What American state's capital is Montgomery?"}
+{"dataset": "trivia_qa", "subset": "rc.wikipedia.nocontext", "source_id": "sfq_18076", "text": "Which country's national anthem is known in English as 'The March of the Volunteers'?"}
+{"dataset": "trivia_qa", "subset": "rc.web", "source_id": "sfq_13560", "text": "Which poet and author used the pseudonym 'Brunette Coleman' when writing some of his early work?"}
+{"dataset": "trivia_qa", "subset": "rc.nocontext", "source_id": "jp_4134", "text": "In what music video did NSYNC dance like marionettes?"}
+{"dataset": "trivia_qa", "subset": "unfiltered", "source_id": "dpql_1852", "text": "In which city are the districts of Didsbury and Moston?"}
+{"dataset": "trivia_qa", "subset": "rc.wikipedia", "source_id": "dpql_2497", "text": "In Shakespeare’s play what is the name of Hamlet’s mother?"}
+{"dataset": "trivia_qa", "subset": "rc", "source_id": "qg_1442", "text": "Name the year: Paula Jones makes some unpleasant accusations against Bill Clinton; Monica Lewinsky affair broke; anti trust case is launched against Microsoft; Google is founded;"}
+{"dataset": "trivia_qa", "subset": "unfiltered", "source_id": "sfq_8348", "text": "Name the police officer who commanded the operation leading to the shooting of innocent Brazilian Jean Charles de Menezes and who has since been promoted to Deputy Assistant Commissioner."}
+{"dataset": "trivia_qa", "subset": "unfiltered.nocontext", "source_id": "sfq_21774", "text": "Who wrote the 1902 children’s story ‘5 Children and It’?"}
+{"dataset": "trivia_qa", "subset": "rc.wikipedia", "source_id": "bb_342", "text": "Which 1920s film star's third husband was Henri Le Bailly de la Falaise, Marquis de la Coudraye?"}
+{"dataset": "trivia_qa", "subset": "rc.nocontext", "source_id": "qw_10470", "text": "Which sport, practised since at least the 8th century BC, is still current and was celebrated on the special 10 Greek coin minted in 2003?"}
+{"dataset": "trivia_qa", "subset": "unfiltered.nocontext", "source_id": "odql_3917", "text": "The Isle of Man's 'Laxey Wheel' is the largest water wheel in the world."}
+{"dataset": "trivia_qa", "subset": "unfiltered", "source_id": "odql_12142", "text": "Based in Hexam Northumberland, the publishing company Bloodaxe Books specialises in what kind of literature?"}
+{"dataset": "trivia_qa", "subset": "rc", "source_id": "sfq_1749", "text": "\"Which British writer, of Bangladeshi origin, wrote \"\"Brick Lane\"\", and \"\"Alentejo Blue\"\"?\""}
+{"dataset": "trivia_qa", "subset": "rc.web.nocontext", "source_id": "qg_2775", "text": "The actual kitchen used by what iconic TV chef is now on permanent display at the Smithsonian Institution's National Museum of American History?"}
+{"dataset": "trivia_qa", "subset": "unfiltered.nocontext", "source_id": "qw_10549", "text": "\"Who wrote \"\"The Hitchhiker's Guide to the Galaxy\"\"?\""}
+{"dataset": "trivia_qa", "subset": "rc.wikipedia", "source_id": "odql_2579", "text": "What nationality is reigning Olympic decathlon champion, Erki Nool?"}
+{"dataset": "trivia_qa", "subset": "rc.web.nocontext", "source_id": "tc_88", "text": "What breed of dog did Columbo own?"}
+{"dataset": "trivia_qa", "subset": "rc", "source_id": "sfq_10357", "text": "Who, in Steig Larsson's Millennium trilogy of books, is The Girl with the Dragon Tattoo'?"}
+{"dataset": "trivia_qa", "subset": "rc.wikipedia", "source_id": "odql_4693", "text": "What in terms of area, is the smallest of the Canadian provinces?"}
+{"dataset": "trivia_qa", "subset": "rc.nocontext", "source_id": "sfq_25293", "text": "Michael Fallon is the current Secretary of State for which Government Department?"}
+{"dataset": "trivia_qa", "subset": "unfiltered", "source_id": "bt_768", "text": "Which circus did Coco the Clown star in for over thirty years"}
+{"dataset": "trivia_qa", "subset": "rc", "source_id": "dpql_1579", "text": "Which vegetable, a gourd-like squash, derives its name from the Greek for 'large melon'?"}
+{"dataset": "trivia_qa", "subset": "rc.wikipedia", "source_id": "dpql_3136", "text": "Who played John Christie in 1960’s film 10, Rillington Place?"}
+{"dataset": "trivia_qa", "subset": "rc.web.nocontext", "source_id": "qz_1732", "text": "How many white stripes are there on the flag of the USA?"}
+{"dataset": "trivia_qa", "subset": "unfiltered.nocontext", "source_id": "qg_2404", "text": "Name the book and the author: 'The Time Traveler (for so it will be convenient to speak of him) was expounding a recondite matter to us.'"}
+{"dataset": "trivia_qa", "subset": "rc", "source_id": "bt_2871", "text": "What colour is llama's milk"}
+{"dataset": "trivia_qa", "subset": "unfiltered", "source_id": "sfq_6180", "text": "The Battle of Blenheim (1704) took place in which war?"}
+{"dataset": "trivia_qa", "subset": "rc", "source_id": "odql_14144", "text": "Teddy Roosevelt was climbing this mountain when William McKinley died (and had therefore become President)."}
+{"dataset": "trivia_qa", "subset": "rc.nocontext", "source_id": "qw_5235", "text": "On 19 June 1975, an inquest jury named whom as the murderer of Sandra Rivett, the last time that an inquest was allowed to name the person they suspected of committing such a crime?"}
+{"dataset": "trivia_qa", "subset": "rc.web.nocontext", "source_id": "sfq_19837", "text": "What is the official currency of Bangladesh?"}
+{"dataset": "trivia_qa", "subset": "rc", "source_id": "sfq_11494", "text": "What was the value of the former British coin the Noble?"}
+{"dataset": "trivia_qa", "subset": "rc.nocontext", "source_id": "qb_718", "text": "Which US President had the nickname ‘Mr Nice Guy’, because of his clean-cut image?"}
+{"dataset": "trivia_qa", "subset": "rc.web", "source_id": "qw_10222", "text": "Quicksilver is the alternative name for what?"}
+{"dataset": "trivia_qa", "subset": "unfiltered.nocontext", "source_id": "qz_5083", "text": "How many avenues radiate from the Arc de Triomphe?"}
+{"dataset": "trivia_qa", "subset": "unfiltered.nocontext", "source_id": "dpql_3965", "text": "Blake Fielder-Civil was a long-term boyfriend of which late celebrity?"}
+{"dataset": "trivia_qa", "subset": "rc.wikipedia", "source_id": "wh_957", "text": "'It's all done in the best possible taste' was a well known catchphrase associated with which famous British personality?"}
+{"dataset": "trivia_qa", "subset": "rc.web.nocontext", "source_id": "qw_13852", "text": "What was the first finished product to roll off Henry Ford's moving assembly line established in 1913?"}
+{"dataset": "trivia_qa", "subset": "unfiltered", "source_id": "sfq_5680", "text": "Who painted 'Les Parapluie's' (The Umbrellas)?"}
+{"dataset": "trivia_qa", "subset": "rc.nocontext", "source_id": "odql_13647", "text": "'Fox River State Penitentiary' and the 'Federal Penitentiary of Sona' in Panama feature in which American serial drama television series?"}
+{"dataset": "trivia_qa", "subset": "rc.web.nocontext", "source_id": "qf_1993", "text": "Seismology is the study of what?"}
+{"dataset": "trivia_qa", "subset": "unfiltered.nocontext", "source_id": "sfq_14788", "text": "By what name do we call the herb known as cilantro by the Americans?"}
+{"dataset": "trivia_qa", "subset": "unfiltered.nocontext", "source_id": "odql_7349", "text": "During the Middle Ages, which disease was known as 'King's Evil'as it was thought that only the touch of the King could cure it?"}
+{"dataset": "trivia_qa", "subset": "rc.wikipedia", "source_id": "qz_2208", "text": "What was E.T.'s favorite candy?"}
+{"dataset": "trivia_qa", "subset": "rc.nocontext", "source_id": "qw_1456", "text": "\"By what name is Marian (or Mary Ann) Evans, who wrote \"\"Adam Bede\"\", \"\"The Mill On The Floss\"\" and \"\"Silas Marner\"\", better known?\""}
+{"dataset": "trivia_qa", "subset": "rc.nocontext", "source_id": "sfq_16377", "text": "Only two flags of the world are square, one is Switzerland, what is the other one?"}
+{"dataset": "trivia_qa", "subset": "rc", "source_id": "sfq_10903", "text": "What was the name of the dog on the HMV record labels?"}
+{"dataset": "trivia_qa", "subset": "rc", "source_id": "dpql_1668", "text": "The three principal Uralic languages are Finnish, Estonian, and which other?"}
+{"dataset": "trivia_qa", "subset": "unfiltered.nocontext", "source_id": "sfq_24065", "text": "What was the name of Alfred the Great’s kingdom?"}
+{"dataset": "trivia_qa", "subset": "rc.nocontext", "source_id": "odql_1828", "text": "Containing the bright star Capella, which constellation is known as “The Charioteer”?"}
+{"dataset": "trivia_qa", "subset": "rc.nocontext", "source_id": "sfq_7735", "text": "Which actress is married to Taylor Hackford?"}
+{"dataset": "trivia_qa", "subset": "rc", "source_id": "sfq_2050", "text": "\"Name the piece of classical music associated with the advertising slogan \"\"Happiness is a cigar called Hamlet\"\"?\""}
+{"dataset": "trivia_qa", "subset": "rc.wikipedia", "source_id": "qf_2528", "text": "What does the syrinx help a bird to do?"}
+{"dataset": "trivia_qa", "subset": "unfiltered", "source_id": "qw_2889", "text": "\"Who had a hit with the song \"\"The Rainbow Connection\"\"?\""}
+{"dataset": "trivia_qa", "subset": "unfiltered", "source_id": "bb_4978", "text": "What medieval term for a knights' equestrian tournament is also a fairground ride and an airport mechanism?"}
+{"dataset": "trivia_qa", "subset": "rc.nocontext", "source_id": "dpql_2893", "text": "At the Kennington Oval in 1872, who did Wanderers beat in the very first FA Cup final?"}
+{"dataset": "trivia_qa", "subset": "unfiltered.nocontext", "source_id": "wh_2630", "text": "Which German composer wrote the music of the overture Rienzi, often heard in the concert hall ?"}
+{"dataset": "trivia_qa", "subset": "rc.wikipedia.nocontext", "source_id": "qg_2722", "text": "What is the subject of the latest PBS documentary by Ken Burns, which will premiere on public television later this month?"}
+{"dataset": "trivia_qa", "subset": "unfiltered", "source_id": "odql_6758", "text": "Niagara Falls consists of two cataracts divided by Goat Island."}
+{"dataset": "trivia_qa", "subset": "rc", "source_id": "dpql_2738", "text": "The President of the USA fired General MacArthur in April."}
+{"dataset": "trivia_qa", "subset": "rc.wikipedia", "source_id": "bb_8662", "text": "In Killarney, Ireland, Mark Davis became the the first 'Six-Red' world champion in which sport?"}
+{"dataset": "trivia_qa", "subset": "rc", "source_id": "qf_309", "text": "Who wrote the following books: 'Peter Pan, The Little Minister and Window in Thrums'?"}
+{"dataset": "trivia_qa", "subset": "rc.nocontext", "source_id": "qb_4837", "text": "What are baby beavers called?"}
+{"dataset": "trivia_qa", "subset": "unfiltered.nocontext", "source_id": "wh_1613", "text": "Who sang the theme song to the 1966 film 'Georgy Girl'?"}
+{"dataset": "trivia_qa", "subset": "rc.web", "source_id": "wh_3163", "text": "Greater Horseshoe, Brandt's and Natterer's are all species of which type of creatures that are found in Britain?"}
+{"dataset": "trivia_qa", "subset": "rc.web.nocontext", "source_id": "dpql_3172", "text": "Who was displaced from power by Fidel Castro?"}
+{"dataset": "trivia_qa", "subset": "rc", "source_id": "odql_5929", "text": "What name is given to aline on a map showing places of equal depth of water?"}
+{"dataset": "trivia_qa", "subset": "unfiltered", "source_id": "sfq_3499", "text": "\"Nancy Astor once said to Winston Churchill \"\"If I were your wife I'd put poison in your coffee\"\"."}
+{"dataset": "trivia_qa", "subset": "unfiltered", "source_id": "qf_2944", "text": "Who had a hit single with 'St."}
+{"dataset": "trivia_qa", "subset": "unfiltered.nocontext", "source_id": "qb_4014", "text": "Who wrote the book of verses ‘Now We Are Six’?"}
+{"dataset": "trivia_qa", "subset": "rc.web", "source_id": "odql_9906", "text": "In the 'Harry Potter' books, what name is given to non- magical people?"}
+{"dataset": "trivia_qa", "subset": "rc.wikipedia", "source_id": "tb_1955", "text": "Which distinctive plant's genus is Dionaea (the mother of Aphrodite in Greek mythology) and species muscipula (Latin for 'mouse-catching device')?"}
+{"dataset": "trivia_qa", "subset": "unfiltered", "source_id": "qb_1134", "text": "Who played gay rights activist and politician Harvey Milk in the 2008 film ‘Milk’?"}
+{"dataset": "trivia_qa", "subset": "rc", "source_id": "odql_4892", "text": "Which character, who first appeared in 'Detective Comics' in 1948, has been played on TV in the 1960's by Frank Gorshin and John Astin and on film in 1995 by Jim Carrey?"}
+{"dataset": "trivia_qa", "subset": "rc", "source_id": "sfq_23732", "text": "Which film and TV actress is the daughter of Dame Diana Rigg?"}
+{"dataset": "trivia_qa", "subset": "rc", "source_id": "sfq_25784", "text": "Mary Surratt was executed having been found guilty of the conspiracy to assassinate who?"}
+{"dataset": "trivia_qa", "subset": "rc.web", "source_id": "tc_3120", "text": "Who was the first man to walk on the Moon?"}
+{"dataset": "trivia_qa", "subset": "rc.web.nocontext", "source_id": "odql_13672", "text": "Gladwyn Jebb served as acting Secretary-General of which organisation until the election of Trygve Lie in 1946?"}
+{"dataset": "trivia_qa", "subset": "rc.web", "source_id": "tc_1061", "text": "Donna Gaines is better known by which name?"}
+{"dataset": "trivia_qa", "subset": "rc.web.nocontext", "source_id": "bb_7382", "text": "Shinzo Abe resigned in September 2007 as prime minister of which country?"}
+{"dataset": "trivia_qa", "subset": "rc.nocontext", "source_id": "qz_858", "text": "Which football team won the F."}
+{"dataset": "trivia_qa", "subset": "rc.nocontext", "source_id": "qb_7962", "text": "What colour is superhero Batman’s Batphone?"}
+{"dataset": "trivia_qa", "subset": "rc.nocontext", "source_id": "qw_4909", "text": "\"In Victorian times, what was an item of wardrobe known as a \"\"stovepipe\"\"?\""}
+{"dataset": "trivia_qa", "subset": "rc.web.nocontext", "source_id": "bb_2243", "text": "What UK newspaper's grossly wrong reporting of the 1989 Hillsborough soccer stadium disaster still causes it to be boycotted in Liverpool over 20 years later?"}
+{"dataset": "trivia_qa", "subset": "rc.web", "source_id": "qw_11459", "text": "Where was the prophet Muhammad born?"}
+{"dataset": "trivia_qa", "subset": "rc.wikipedia", "source_id": "sfq_18069", "text": "Which English queen consort was mother to two queens - Mary II and Anne?"}
+{"dataset": "trivia_qa", "subset": "rc", "source_id": "qf_1079", "text": "What is the biggest selling copyright book ever?"}
+{"dataset": "trivia_qa", "subset": "rc.nocontext", "source_id": "sfq_6395", "text": "On which pipe of a set of bagpipes is the tune fingered?"}
+{"dataset": "trivia_qa", "subset": "unfiltered", "source_id": "qw_10029", "text": "Elizabeth II is the Queen regnant of how many independent sovereign states known informally as the Commonwealth realms, for which she holds each crown separately and equally in a shared monarchy?"}
+{"dataset": "trivia_qa", "subset": "rc.nocontext", "source_id": "wh_4033", "text": "Which now 85 year old American author wrote the 1971 book The Exorcist ?"}
+{"dataset": "trivia_qa", "subset": "unfiltered", "source_id": "qz_739", "text": "Which two actresses play the leading roles in the 1992 film Single White Female?"}
+{"dataset": "trivia_qa", "subset": "rc.web", "source_id": "wh_4000", "text": "Who was British Prime Minister on the day Roger Bannister ran the first four minute mile ?"}
+{"dataset": "trivia_qa", "subset": "rc.nocontext", "source_id": "odql_3117", "text": "What structure, designed by John Paxton for Prince Albert, was destroyed by fire on the 30th November 1936?"}
+{"dataset": "trivia_qa", "subset": "rc.nocontext", "source_id": "sfq_11314", "text": "During the 18th century Anglesey was, a major exporter of which metal?"}
+{"dataset": "trivia_qa", "subset": "rc", "source_id": "qz_6122", "text": "Who succeeded Mervyn King, Governor of the Bank of England until 2013?"}
+{"dataset": "trivia_qa", "subset": "rc.web", "source_id": "sfq_19955", "text": "Who is the current communities secretary in the coalition government?"}
+{"dataset": "trivia_qa", "subset": "rc.web", "source_id": "qw_16371", "text": "In Star Wars, what is the name of Han Solo's spacecraft?"}
+{"dataset": "trivia_qa", "subset": "rc.web.nocontext", "source_id": "odql_3220", "text": "Which country is South East Asia has a red rectangular flag surmounted by a gold star?"}
+{"dataset": "trivia_qa", "subset": "rc.web", "source_id": "tb_2327", "text": "After the Olympics, what are the world's second-largest multi-sport event, the Delhi edition of which was in the news in 2010?"}
+{"dataset": "trivia_qa", "subset": "rc", "source_id": "qw_110", "text": "Until Lewis Hamilton's win at Spain in 2007, who held the record for being the youngest driver to lead the Formula One Championship?"}
+{"dataset": "trivia_qa", "subset": "rc.web.nocontext", "source_id": "qg_1560", "text": "How many laps does it take to take to complete the Indianapolis 500"}
+{"dataset": "trivia_qa", "subset": "rc.web.nocontext", "source_id": "qz_6315", "text": "Which famous horror movie star was buried in his Dracula costume?"}
+{"dataset": "trivia_qa", "subset": "rc.wikipedia", "source_id": "qw_1841", "text": "What was the name of the group formed in London in February 1944 to plan the invasion of Europe under General Dwight D Eisenhower?"}
+{"dataset": "trivia_qa", "subset": "rc.wikipedia", "source_id": "qw_16381", "text": "\"\"\"Four Quartets\"\", a set of four poems (\"\"Burnt Norton\"\", \"\"East Coker\"\", \"\"The Dry Salvages\"\" and \"\"Little Gidding\"\") published between 1936 and 1942, were written by whom?\""}
+{"dataset": "trivia_qa", "subset": "rc", "source_id": "qw_14455", "text": "\"Which American country music singer-songwriter, born in 1934, won two Grammy Awards of 2005, (Best Country Album and Best Country Collaboration with Vocals) for her album \"\"Van Lear Rose\"\", which was produced by Jack White of the White Stripes?\""}
+{"dataset": "trivia_qa", "subset": "unfiltered", "source_id": "qg_2095", "text": "In the event that both the president and the vice president are unable to fulfill the requirements of office, who steps in to fill the void?"}
+{"dataset": "trivia_qa", "subset": "rc.nocontext", "source_id": "sfq_15334", "text": "What is the medical name for the large intestine of the human body?"}
+{"dataset": "trivia_qa", "subset": "unfiltered", "source_id": "sfq_15428", "text": "Bradley Wiggins won the 2012 Tour de France on which manufacturer's bicycles?"}
+{"dataset": "trivia_qa", "subset": "rc.web.nocontext", "source_id": "sfq_6721", "text": "\"In the 1920's, which sportsman was known as, \"\"The Sultan of Swat\"\"?\""}
+{"dataset": "trivia_qa", "subset": "rc.wikipedia.nocontext", "source_id": "sfq_20386", "text": "Whose first chip shop was opened in Guiseley, Yorkshire?"}
+{"dataset": "trivia_qa", "subset": "rc", "source_id": "dpql_3931", "text": "Which Radio 4 programme calls itself ‘the antidote to panel games’?"}
+{"dataset": "trivia_qa", "subset": "rc.web", "source_id": "bb_6531", "text": "Which one of these cheeses is not from and named after a Dutch city/place?"}
+{"dataset": "trivia_qa", "subset": "rc", "source_id": "sfq_6870", "text": "In the stories by Michael Bond, which family finds Paddington Bear, and adopts him?"}
+{"dataset": "trivia_qa", "subset": "rc.web", "source_id": "qw_5594", "text": "\"The song \"\"Don't Let's Be Beastly To The Germans\"\" was banned by the BBC in 1942."}
+{"dataset": "trivia_qa", "subset": "unfiltered.nocontext", "source_id": "qb_2680", "text": "Which religious reformer and theologian appeared before the ‘Diet of Worms’ in Germany in 1521?"}
+{"dataset": "trivia_qa", "subset": "rc.web.nocontext", "source_id": "qw_649", "text": "Christopher Reeve had the title role in the first of which series of films?"}
+{"dataset": "trivia_qa", "subset": "rc.nocontext", "source_id": "sfq_2917", "text": "The MPLA was the independence movement of which African country?"}
+{"dataset": "trivia_qa", "subset": "rc.web.nocontext", "source_id": "qb_946", "text": "In November 1952, which Agatha Christie murder-mystery play opened at the Ambassadors Theatre, London?"}
+{"dataset": "trivia_qa", "subset": "rc", "source_id": "qb_8345", "text": "Who wrote the 1902 play ‘The Admirable Crichton’?"}
+{"dataset": "trivia_qa", "subset": "rc.web", "source_id": "tc_2928", "text": "Which part of the brain controls the heart rate?"}
+{"dataset": "trivia_qa", "subset": "unfiltered.nocontext", "source_id": "tc_706", "text": "What was first published on 21st December 1913 in the New York World?"}
+{"dataset": "trivia_qa", "subset": "rc.web", "source_id": "qf_933", "text": "In a game of chess, which colour is moved first?"}
+{"dataset": "trivia_qa", "subset": "rc.web.nocontext", "source_id": "qg_3779", "text": "What super hero, born Steve Rogers, wields a shield made of vibranium alloy?"}
+{"dataset": "trivia_qa", "subset": "rc", "source_id": "sfq_15862", "text": "In 1983 Jenny Pitman became the first woman to train the winner of the Grand National."}
+{"dataset": "trivia_qa", "subset": "rc.nocontext", "source_id": "qb_7929", "text": "How many sonnets did William Shakespeare write?"}
+{"dataset": "trivia_qa", "subset": "rc.nocontext", "source_id": "qb_7099", "text": "What is Sweeney Todd’s real name in the 2007 film ‘Sweeney Todd: The Demon Barber of Fleet Street’?"}
+{"dataset": "trivia_qa", "subset": "rc.wikipedia.nocontext", "source_id": "qg_3966", "text": "From the German for goblin ore, what element, with an atomic number of 27, uses the symbol Co?"}
+{"dataset": "trivia_qa", "subset": "rc.nocontext", "source_id": "dpql_1976", "text": "With which part of the body does a stomatologist specialise?"}
+{"dataset": "trivia_qa", "subset": "rc.nocontext", "source_id": "qw_16741", "text": "\"What was the occupation of the character played by Maggie Smith in \"\"The Prime Of Miss Jean Brodie\"\"?\""}
+{"dataset": "trivia_qa", "subset": "rc.nocontext", "source_id": "sfq_5551", "text": "Which car manufacturer produces models called the Roomster and the Octavia?"}
+{"dataset": "trivia_qa", "subset": "rc", "source_id": "qw_8963", "text": "\"In the nursery rhyme beginning \"\"Hey Diddle Diddle\"\", who was with a fiddle?\""}
+{"dataset": "trivia_qa", "subset": "rc.wikipedia.nocontext", "source_id": "qw_8877", "text": "What was the occupation of Anna Politkovskaya, who was found dead in the elevator of her apartment in central Moscow on 7 October 2006, shot twice in the chest, once in the shoulder, and once in the head at point blank range?"}
+{"dataset": "trivia_qa", "subset": "unfiltered.nocontext", "source_id": "sfq_18656", "text": "Portsmouth is the UK's only island city, on which island does it stand?"}
+{"dataset": "trivia_qa", "subset": "unfiltered.nocontext", "source_id": "bb_1140", "text": "'The Landlord's Game', patented in the US by Elizabeth Magie in 1904, was a form of which now popular board game?"}
+{"dataset": "trivia_qa", "subset": "rc.nocontext", "source_id": "odql_14602", "text": "Which play began life as the radio play 'Three Blind Mice' broadcast in 1947?"}
+{"dataset": "trivia_qa", "subset": "rc.nocontext", "source_id": "odql_13", "text": "Which Asian city's international airport is built at the mouth of the Tama-gawa?"}
+{"dataset": "trivia_qa", "subset": "unfiltered", "source_id": "qb_4685", "text": "Who’s got ‘A Lovely Daughter’ in the 1965 hit by Herman’s Hermits?"}

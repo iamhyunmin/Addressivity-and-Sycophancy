@@ -1,0 +1,64 @@
+experiment_name: "llama31_8b_instruct"      # used for the results/<name>/ output directory
+
+model:
+  name: "meta-llama/Llama-3.1-8B-Instruct"  # HuggingFace model ID or local path
+  type: "instruct"                          # "instruct" | "base"   (controls chat template usage)
+  family: "llama"                           # "llama" | "gemma"     (selects prompt formatter)
+  dtype: "bfloat16"                         # "bfloat16" | "float16" | "float32"
+  trust_remote_code: false                  # true to allow custom modeling code in the HF repo
+  device: "cuda:0"                          # "cuda" | "cuda:N" | "cpu" | "auto" (multi-GPU device_map)
+
+sae:
+  release: "llama-3.1-8b-instruct-andyrdt"  # sae_lens release name
+  base_sae_id: "resid_post_layer_3_trainer_1"  # layer number is substituted automatically
+
+steering:
+  layers: []                                # list of layers, or "all" (= every layer with a mean-diff file)
+  alpha: []                                 # steering strengths to sweep
+
+  mean_diff_path: "{work_dir}/../mean_diff_latents/llama31_8b_base/level2"  # dir of layer_NN_mean_diff.json files
+  mean_diff_direction: "all"                # "pos" | "neg" | "all"  (use top_positive, top_negative, or both)
+
+
+benchmarks:                                 # subset of available benchmarks to run; remove any line to skip
+  - mmlu
+  - elephant_oeq
+  - elephant_aita
+  - elephant_ss
+  - syconbench_debate                       # not supported for base models (auto-skipped)
+
+judge:
+  model: "gpt-4o-mini"                      # OpenAI model used by the judge
+  concurrency: 32                           # max concurrent OpenAI requests
+
+output:
+  base_dir: "{work_dir}/../results/llama31_8b_instruct"  # where scores/generations land
+
+run:
+  batch_size: 64                            # default generation batch size
+  batch_sizes:                              # per-benchmark overrides (omit to use the default above)
+    mmlu: 64
+    elephant_oeq: 32
+    elephant_aita: 32
+    elephant_ss: 32
+    syconbench_debate: 32
+
+task:
+  multiple_choice:                          # mmlu
+    generation:
+      max_new_tokens: 256
+      temperature: 0.0                      # 0.0 = greedy
+      do_sample: false                      # must be false when temperature == 0
+      top_p: 1.0
+  open_ended:                               # elephant_oeq, elephant_aita, elephant_ss
+    generation:
+      max_new_tokens: 512
+      temperature: 0.6
+      do_sample: true
+      top_p: 0.9
+  syconbench:                               # syconbench_debate
+    generation:
+      max_new_tokens: 512
+      temperature: 0.6
+      do_sample: true
+      top_p: 0.9

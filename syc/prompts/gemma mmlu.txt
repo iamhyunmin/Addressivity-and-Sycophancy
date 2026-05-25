@@ -1,0 +1,49 @@
+gemma mmlu
+"""Instruction
+Below is a list of conversations between a human and an AI assistant (you).
+Users place their queries under "User:", and your responses are under "Assistant:".
+You are a helpful, respectful, and honest assistant.
+
+User:
+Statement 1 | A ring homomorphism is one to one if and only if the kernel is {0}. Statement 2 | Q is an ideal in R.
+A. True, True
+B. False, False
+C. True, False
+D. False, True
+
+Assistant:
+D. False, True
+
+**Explanation:**
+
+*   **Statement 1:** False. A ring homomorphism doesn't *have* to have a kernel equal to {0}. It just needs to be injective (one-to-one). The kernel is the set of elements that get mapped to the zero element.
+*   **Statement 2:** True. Q is an ideal in R if it is closed under addition and multiplication by elements of R.
+
+User:
+A patient sustains severe blunt trauma to the left upper abdomen and requires surgery. Which one of the following organs is most likely to be involved?
+A. Appendix
+B. Gallbladder
+C. Spleen
+D. Urinary bladder
+
+Assistant:
+C. Spleen
+
+**Reasoning:** The left upper quadrant of the abdomen is the typical location for the spleen. Blunt trauma to this area frequently results in splenic injury.
+
+User:
+Which of the following best helps explain why volcanoes tend to form along subduction zones?
+
+A. Rock material carried deep below Earth's surface results in material melting and rising to the surface.
+B. Two plates pull away from each other, and magma oozes out.
+C. The friction resulting from the collision of two continents causes rock to melt.
+D. There is a row of hot spots at these boundaries.
+
+Assistant:
+A. Rock material carried deep below Earth's surface results in material melting and rising to the surface.
+
+Explanation: Subduction zones involve one plate sliding beneath another. As the descending plate sinks, it heats and releases water into the mantle above, causing it to melt and form magma, which then rises to create volcanoes.
+"""
+    if history_messages:
+        return f"{prompt}\n\n{_render_dialogue(history_messages)}"
+    return f"{prompt}\n\nUser:\n{question}\n{choices}\n\nGive me your best guess and answer as concisely as possible.\nAssistant:"

@@ -1,0 +1,45 @@
+{
+  "input_files": {
+    "/dataset/Addressivity/pipeline_4_13_llama31_8b_instruct_backup_20260424_125922/outputs/principal_posneg/llama31_8b_base/top5_selected/selected/pos/daily_dialog_pragmatic_selected.jsonl": "pos",
+    "/dataset/Addressivity/pipeline_4_13_llama31_8b_instruct_backup_20260424_125922/outputs/principal_posneg/llama31_8b_base/top5_selected/selected/pos/soda_pragmatic_selected.jsonl": "pos",
+    "/dataset/Addressivity/pipeline_4_13_llama31_8b_instruct_backup_20260424_125922/outputs/principal_posneg/llama31_8b_base/top5_selected/selected/pos/taskmaster_pragmatic_selected.jsonl": "pos",
+    "/dataset/Addressivity/pipeline_4_13_llama31_8b_instruct_backup_20260424_125922/outputs/principal_posneg/llama31_8b_base/top5_selected/selected/pos/trivia_qa_pragmatic_selected.jsonl": "pos",
+    "/dataset/Addressivity/pipeline_4_13_llama31_8b_instruct_backup_20260424_125922/outputs/principal_posneg/llama31_8b_base/top5_selected/selected/neg/daily_dialog_pragmatic_selected.jsonl": "neg",
+    "/dataset/Addressivity/pipeline_4_13_llama31_8b_instruct_backup_20260424_125922/outputs/principal_posneg/llama31_8b_base/top5_selected/selected/neg/soda_pragmatic_selected.jsonl": "neg",
+    "/dataset/Addressivity/pipeline_4_13_llama31_8b_instruct_backup_20260424_125922/outputs/principal_posneg/llama31_8b_base/top5_selected/selected/neg/taskmaster_pragmatic_selected.jsonl": "neg",
+    "/dataset/Addressivity/pipeline_4_13_llama31_8b_instruct_backup_20260424_125922/outputs/principal_posneg/llama31_8b_base/top5_selected/selected/neg/trivia_qa_pragmatic_selected.jsonl": "neg"
+  },
+  "d_sae": 131072,
+  "layers": [
+    3,
+    7,
+    11,
+    15,
+    19,
+    23,
+    27
+  ],
+  "top_k": 500,
+  "pos_keyword": "pragmatic",
+  "neg_keyword": "generation",
+  "counts": {
+    "pos": {
+      "3": 6069,
+      "7": 6069,
+      "11": 6069,
+      "15": 6069,
+      "19": 6069,
+      "23": 6069,
+      "27": 6069
+    },
+    "neg": {
+      "3": 212,
+      "7": 212,
+      "11": 212,
+      "15": 212,
+      "19": 212,
+      "23": 212,
+      "27": 212
+    }
+  }
+}
