@@ -1,4 +1,4 @@
-# No Matter Who You Are: Addressivity and Sycophancy in Large Language Model
+# No Matter Who You Are: Addressivity and Sycophancy in Large Language Models
 
 This repo has two main workflows.
 
