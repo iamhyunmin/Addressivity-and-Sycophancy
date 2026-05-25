@@ -1,0 +1,45 @@
+{
+  "input_files": {
+    "/dataset/Addressivity/pipeline_4_13_llama31_8b_instruct_backup_no_outputs_20260424_130005/outputs/template_breakage/llama31_8b_instruct/selected/selected/pos/daily_dialog_native_chat_template.jsonl": "pos",
+    "/dataset/Addressivity/pipeline_4_13_llama31_8b_instruct_backup_no_outputs_20260424_130005/outputs/template_breakage/llama31_8b_instruct/selected/selected/pos/soda_native_chat_template.jsonl": "pos",
+    "/dataset/Addressivity/pipeline_4_13_llama31_8b_instruct_backup_no_outputs_20260424_130005/outputs/template_breakage/llama31_8b_instruct/selected/selected/pos/taskmaster_native_chat_template.jsonl": "pos",
+    "/dataset/Addressivity/pipeline_4_13_llama31_8b_instruct_backup_no_outputs_20260424_130005/outputs/template_breakage/llama31_8b_instruct/selected/selected/pos/trivia_qa_native_chat_template.jsonl": "pos",
+    "/dataset/Addressivity/pipeline_4_13_llama31_8b_instruct_backup_no_outputs_20260424_130005/outputs/template_breakage/llama31_8b_instruct/selected/selected/neg/daily_dialog_not_broken_selected.jsonl": "neg",
+    "/dataset/Addressivity/pipeline_4_13_llama31_8b_instruct_backup_no_outputs_20260424_130005/outputs/template_breakage/llama31_8b_instruct/selected/selected/neg/soda_not_broken_selected.jsonl": "neg",
+    "/dataset/Addressivity/pipeline_4_13_llama31_8b_instruct_backup_no_outputs_20260424_130005/outputs/template_breakage/llama31_8b_instruct/selected/selected/neg/taskmaster_not_broken_selected.jsonl": "neg",
+    "/dataset/Addressivity/pipeline_4_13_llama31_8b_instruct_backup_no_outputs_20260424_130005/outputs/template_breakage/llama31_8b_instruct/selected/selected/neg/trivia_qa_not_broken_selected.jsonl": "neg"
+  },
+  "d_sae": 131072,
+  "layers": [
+    3,
+    7,
+    11,
+    15,
+    19,
+    23,
+    27
+  ],
+  "top_k": 500,
+  "pos_keyword": "pragmatic",
+  "neg_keyword": "generation",
+  "counts": {
+    "pos": {
+      "3": 2000,
+      "7": 2000,
+      "11": 2000,
+      "15": 2000,
+      "19": 2000,
+      "23": 2000,
+      "27": 2000
+    },
+    "neg": {
+      "3": 4767,
+      "7": 4767,
+      "11": 4767,
+      "15": 4767,
+      "19": 4767,
+      "23": 4767,
+      "27": 4767
+    }
+  }
+}

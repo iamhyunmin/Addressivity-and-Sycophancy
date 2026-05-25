@@ -1,0 +1,33 @@
+{
+  "input_files": {
+    "output/gemma9b_it/template/pos/daily_native_chat_template.jsonl": "pos",
+    "output/gemma9b_it/template/pos/soda_native_chat_template.jsonl": "pos",
+    "output/gemma9b_it/template/pos/taskmaster_native_chat_template.jsonl": "pos",
+    "output/gemma9b_it/template/pos/trivia_native_chat_template.jsonl": "pos",
+    "output/gemma9b_it/template/neg/daily_not_broken_selected.jsonl": "neg",
+    "output/gemma9b_it/template/neg/soda_not_broken_selected.jsonl": "neg",
+    "output/gemma9b_it/template/neg/taskmaster_not_broken_selected.jsonl": "neg",
+    "output/gemma9b_it/template/neg/trivia_not_broken_selected.jsonl": "neg"
+  },
+  "d_sae": 16384,
+  "layers": [
+    9,
+    20,
+    31
+  ],
+  "top_k": 500,
+  "pos_keyword": "pragmatic",
+  "neg_keyword": "generation",
+  "counts": {
+    "pos": {
+      "9": 2000,
+      "20": 2000,
+      "31": 2000
+    },
+    "neg": {
+      "9": 5550,
+      "20": 5550,
+      "31": 5550
+    }
+  }
+}

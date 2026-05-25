@@ -1,0 +1,45 @@
+{
+  "input_files": {
+    "/dataset/Addressivity/pipeline_4_13_llama31_8b_instruct_backup_20260424_125922/outputs/principal_posneg/llama31_8b_instruct/top5_selected/selected/pos/daily_dialog_pragmatic_selected.jsonl": "pos",
+    "/dataset/Addressivity/pipeline_4_13_llama31_8b_instruct_backup_20260424_125922/outputs/principal_posneg/llama31_8b_instruct/top5_selected/selected/pos/soda_pragmatic_selected.jsonl": "pos",
+    "/dataset/Addressivity/pipeline_4_13_llama31_8b_instruct_backup_20260424_125922/outputs/principal_posneg/llama31_8b_instruct/top5_selected/selected/pos/taskmaster_pragmatic_selected.jsonl": "pos",
+    "/dataset/Addressivity/pipeline_4_13_llama31_8b_instruct_backup_20260424_125922/outputs/principal_posneg/llama31_8b_instruct/top5_selected/selected/pos/trivia_qa_pragmatic_selected.jsonl": "pos",
+    "/dataset/Addressivity/pipeline_4_13_llama31_8b_instruct_backup_20260424_125922/outputs/principal_posneg/llama31_8b_instruct/top5_selected/selected/neg/daily_dialog_pragmatic_selected.jsonl": "neg",
+    "/dataset/Addressivity/pipeline_4_13_llama31_8b_instruct_backup_20260424_125922/outputs/principal_posneg/llama31_8b_instruct/top5_selected/selected/neg/soda_pragmatic_selected.jsonl": "neg",
+    "/dataset/Addressivity/pipeline_4_13_llama31_8b_instruct_backup_20260424_125922/outputs/principal_posneg/llama31_8b_instruct/top5_selected/selected/neg/taskmaster_pragmatic_selected.jsonl": "neg",
+    "/dataset/Addressivity/pipeline_4_13_llama31_8b_instruct_backup_20260424_125922/outputs/principal_posneg/llama31_8b_instruct/top5_selected/selected/neg/trivia_qa_pragmatic_selected.jsonl": "neg"
+  },
+  "d_sae": 131072,
+  "layers": [
+    3,
+    7,
+    11,
+    15,
+    19,
+    23,
+    27
+  ],
+  "top_k": 500,
+  "pos_keyword": "pragmatic",
+  "neg_keyword": "generation",
+  "counts": {
+    "pos": {
+      "3": 9436,
+      "7": 9436,
+      "11": 9436,
+      "15": 9436,
+      "19": 9436,
+      "23": 9436,
+      "27": 9436
+    },
+    "neg": {
+      "3": 2917,
+      "7": 2917,
+      "11": 2917,
+      "15": 2917,
+      "19": 2917,
+      "23": 2917,
+      "27": 2917
+    }
+  }
+}

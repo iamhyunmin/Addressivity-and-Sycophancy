@@ -1,0 +1,33 @@
+{
+  "input_files": {
+    "output/gemma9b_it/principal/pos/daily_pragmatic_selected.jsonl": "pos",
+    "output/gemma9b_it/principal/pos/soda_pragmatic_selected.jsonl": "pos",
+    "output/gemma9b_it/principal/pos/taskmaster_pragmatic_selected.jsonl": "pos",
+    "output/gemma9b_it/principal/pos/trivia_pragmatic_selected.jsonl": "pos",
+    "output/gemma9b_it/principal/neg/daily_pragmatic_selected.jsonl": "neg",
+    "output/gemma9b_it/principal/neg/soda_pragmatic_selected.jsonl": "neg",
+    "output/gemma9b_it/principal/neg/taskmaster_pragmatic_selected.jsonl": "neg",
+    "output/gemma9b_it/principal/neg/trivia_pragmatic_selected.jsonl": "neg"
+  },
+  "d_sae": 16384,
+  "layers": [
+    9,
+    20,
+    31
+  ],
+  "top_k": 500,
+  "pos_keyword": "pragmatic",
+  "neg_keyword": "generation",
+  "counts": {
+    "pos": {
+      "9": 9530,
+      "20": 9530,
+      "31": 9530
+    },
+    "neg": {
+      "9": 799,
+      "20": 799,
+      "31": 799
+    }
+  }
+}
