@@ -1,4 +1,4 @@
-# Syc Grid
+# No Matter Who You Are: Addressivity and Sycophancy in Large Language Model
 
 This repo has two main workflows.
 
