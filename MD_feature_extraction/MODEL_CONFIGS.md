@@ -10,10 +10,6 @@
 - `--model-name meta-llama/Llama-3.1-8B --model-type base`
 - SAE: `--release llama_scope_lxr_32x --sae-id l0r_32x --layers 0 1 2 ... 31`
 
-### Gemma 2 2B IT
-- `--model-name google/gemma-2-2b-it --model-type instruct`
-- SAE: `--release gemma-scope-2b-pt-res-canonical --sae-id layer_0/width_16k/canonical --layers 0 1 2 ... 25`
-
 ### Gemma 2 9B Base (PT)
 - `--model-name google/gemma-2-9b --model-type base`
 - SAE: `--release gemma-scope-9b-pt-res-canonical --sae-id layer_0/width_16k/canonical --layers 0 1 2 ... 41`
